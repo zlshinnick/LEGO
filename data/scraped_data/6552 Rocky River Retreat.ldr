@@ -1,0 +1,376 @@
+0 Untitled
+0 Name: 6552-1.ldr
+0 Author: Strikeman
+0 Reproduction of official Model 6551-1
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 MLCAD BTG minifig 1
+1 7 -692 101.04 255.38 1 0 0 0 1 0 0 0 1 3629.dat
+0 MLCAD BTG minifig 1
+1 14 -692 101.04 255.38 1 0 0 0 1 0 0 0 1 3626bp6f.dat
+0 MLCAD BTG minifig 1
+1 6 -692 128.04 255.38 1 0 0 0 1 0 0 0 1 2524.dat
+0 MLCAD BTG minifig 1
+1 1 -692 128.04 255.38 1 0 0 0 1 0 0 0 1 973.dat
+0 MLCAD BTG minifig 1
+1 7 -692 160.04 255.38 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig 1
+1 1 -707.552 137.04 255.38 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 MLCAD BTG minifig 1
+1 1 -676.448 137.04 255.38 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 MLCAD BTG minifig 1
+1 14 -715.863 154.636 245.059 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 1
+1 14 -668.137 154.636 245.059 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 1
+1 7 -692 172.04 255.38 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig 1
+1 7 -692 172.04 255.38 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 11 minifig 1
+0 MLCAD BTG minifig2
+1 4 -1102 104.26 45.969 0 0 -1 0 1 0 1 0 0 4485.dat
+0 MLCAD BTG minifig2
+1 14 -1102 104.26 45.969 0 0 -1 0 1 0 1 0 0 3626bp7c.dat
+0 MLCAD BTG minifig2
+1 2 -1102 128.26 45.969 0 0 -1 0 1 0 1 0 0 973p73.dat
+0 MLCAD BTG minifig2
+1 1 -1102 160.26 45.969 0 0 -1 0 1 0 1 0 0 3815.dat
+0 MLCAD BTG minifig2
+1 15 -1102 137.26 30.418 0 0 -1 0.17 0.985 0 0.985 -0.17 0 3818.dat
+0 MLCAD BTG minifig2
+1 15 -1102 137.26 61.522 0 0 -1 -0.17 0.985 0 0.985 0.17 0 3819.dat
+0 MLCAD BTG minifig2
+1 14 -1091.68 154.856 22.107 0 -0.707 -0.707 0.17 0.696395 -0.696395 0.985 -0.12019 0.12019 3820.dat
+0 MLCAD BTG minifig2
+1 14 -1091.68 154.856 69.833 0 -0.707 -0.707 -0.17 0.696395 -0.696395 0.985 0.12019 -0.12019 3820.dat
+0 MLCAD BTG minifig2
+1 1 -1102 172.26 45.969 0 0 -1 0 1 0 1 0 0 3816.dat
+0 MLCAD BTG minifig2
+1 1 -1102 172.26 45.969 0 0 -1 0 1 0 1 0 0 3817.dat
+0 GROUP 10 minifig2
+0 MLCAD BTG horse
+1 1 -1146 142.76 -255.03 0 0 -1 0 1 0 1 0 0 74323.dat
+0 MLCAD BTG horse
+1 4 -1146 134.76 -255.03 0 0 -1 0 1 0 1 0 0 4491b.dat
+0 GROUP 2 horse
+1 6 -1202 -23.74 335.97 0 0 -1 0 1 0 1 0 0 3581.dat
+1 6 -1202 -71.74 335.97 1 0 0 0 1 0 0 0 1 3581.dat
+1 2 -1202 -79.74 335.97 1 0 0 0 1 0 0 0 1 4032a.dat
+1 2 -1202 -87.74 335.97 1 0 0 0 1 0 0 0 1 2435.dat
+1 6 -1122 128 -184 0 0 -1 0 1 0 1 0 0 3581.dat
+1 6 -1122 176 -184 0 0 -1 0 1 0 1 0 0 3005.dat
+1 6 -1122 80 -184 1 0 0 0 1 0 0 0 1 3581.dat
+1 2 -1122 72 -184 1 0 0 0 1 0 0 0 1 4032a.dat
+1 2 -1122 64 -184 1 0 0 0 1 0 0 0 1 2435.dat
+1 6 -1202 80 -224 1 0 0 0 1 0 0 0 1 3581.dat
+1 6 -1202 128 -224 0 0 -1 0 1 0 1 0 0 3581.dat
+1 6 -1202 176 -224 0 0 -1 0 1 0 1 0 0 3005.dat
+1 6 -1202 32 -224 -1 0 0 0 1 0 0 0 -1 3581.dat
+1 2 -1202 24 -224 1 0 0 0 1 0 0 0 1 4032a.dat
+1 2 -1202 16 -224 1 0 0 0 1 0 0 0 1 2435.dat
+1 2 -952 200 46 1 0 0 0 1 0 0 0 1 309p02.dat
+1 6 -1252 160 206 1 0 0 0 1 0 0 0 1 2489.dat
+1 6 -1248 192 210 0 0 1 0 -1 0 1 0 0 3836.dat
+1 7 -1258 136 214 1 0 0 0 0 1 0 -1 0 6117.dat
+1 15 -1264 128 206 0 -1 0 0 0 1 -1 0 0 2555.dat
+1 7 -752 192 326 -1 0 0 0 1 0 0 0 -1 3032.dat
+1 0 -1262 176 356 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 7 -1222 56 356 -1 0 0 0 1 0 0 0 -1 4444.dat
+1 8 -1132 56 266 0 0 -1 0 1 0 1 0 0 6082.dat
+1 0 -1162 176 356 -1 0 0 0 1 0 0 0 -1 3622.dat
+1 0 -1152 176 176 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 0 -1172 152 156 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 0 -1172 104 156 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 0 -1222 56 336 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 0 -1182 152 6 0 0 -1 0 1 0 1 0 0 3004.dat
+1 0 -1182 152 -34 0 0 -1 0 1 0 1 0 0 3660.dat
+1 0 -1182 152 46 0 0 -1 0 1 0 1 0 0 3660.dat
+1 4 -1172 176 156 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 4 -1262 176 156 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 7 -1262 80 176 -1 0 0 0 1 0 0 0 -1 2453.dat
+1 0 -1262 56 156 -1 0 0 0 1 0 0 0 -1 2453.dat
+1 0 -1162 128 156 -1 0 0 0 1 0 0 0 -1 3622.dat
+1 0 -1162 80 156 -1 0 0 0 1 0 0 0 -1 3622.dat
+1 0 -1182 104 -64 -1 0 0 0 1 0 0 0 -1 3622.dat
+1 0 -1262 104 -64 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 0 -1182 104 56 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 0 -1182 104 -44 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 0 -772 96 306 -1 0 0 0 1 0 0 0 -1 3003.dat
+1 0 -682 192 156 -1 0 0 0 1 0 0 0 -1 3024.dat
+1 0 -682 192 116 -1 0 0 0 1 0 0 0 -1 3024.dat
+1 0 -682 192 135.999 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 14 -662 176 156 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3899.dat
+1 14 -662 176 115.999 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3899.dat
+1 46 -682 168 135.999 -1 0 0 0 1 0 0 0 -1 4589.dat
+1 0 -682 156 135.999 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 4528.dat
+1 4 -682 156 135.999 -1 0 0 0 -1 0 0 0 1 4085a.dat
+1 7 -772 72 326.001 0 0 -1 0 1 0 1 0 0 3001.dat
+1 0 -762 64 326 0 0 -1 0 1 0 1 0 0 2540.dat
+1 6 -742 66 326 0 -0.866025 0.5 0 0.5 0.866025 -1 0 0 6020.dat
+1 7 -1212 56 176 1 0 0 0 1 0 0 0 1 3009.dat
+1 7 -1212 48 266 0 0 1 0 1 0 -1 0 0 3030.dat
+1 7 -1092 72 326 0 0 1 0 1 0 -1 0 0 3020.dat
+1 15 -1162 144 6 0 0 -1 0 1 0 1 0 0 3666.dat
+1 0 -1262 80 -64 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 0 -1182 80 56 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 0 -1162 56 156 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 0 -1162 56 -64 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 0 -1232 56 -64 -1 0 0 0 1 0 0 0 -1 3010.dat
+1 0 -1182 56 46 0 0 -1 0 1 0 1 0 0 6112.dat
+1 6 -1132 160 -94 0 0 -1 0 1 0 1 0 0 2489.dat
+1 7 -1162 176 -124 0 0 -1 0 1 0 1 0 0 3062b.dat
+1 4 -1162 168 -124 0 0 -1 0 1 0 1 0 0 4073.dat
+1 7 -1162 146 -124 0 1 0 0 0 -1 -1 0 0 4349.dat
+1 4 -1162 120 -124 0 0 -1 0 1 0 1 0 0 4592c01.dat
+1 0 -1102 80 296 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 7 -1092 80 316 -1 0 0 0 1 0 0 0 -1 2454.dat
+1 7 -1182 80 6 0 0 -1 0 1 0 1 0 0 7028.dat
+1 6 -1182 80 -24 0 0 -1 0 1 0 1 0 0 3581.dat
+1 4 -1170 80 36 -1 0 0 0 1 0 0 0 -1 3582.dat
+1 4 -1170 80 -24 1 0 0 0 1 0 0 0 1 3582.dat
+1 6 -1182 80 36 0 0 -1 0 1 0 1 0 0 3581.dat
+1 7 -1232 80 -64 1 0 0 0 1 0 0 0 1 7028.dat
+1 0 -1122 56 336 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 6 -1082 48 296 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 6 -932 24 326 0 0 -1 0 1 0 1 0 0 2549.dat
+1 6 -1082 48 356 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 6 -782 48 296 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 6 -782 48 356 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 7 -1192 32 106 -1 0 0 0 1 0 0 0 -1 4515p03.dat
+1 7 -1192 32 -14 1 0 0 0 1 0 0 0 1 4515p03.dat
+1 0 -1232 24 196 1 0 0 0 1 0 0 0 1 3004.dat
+1 8 -1222 -120 266 0 0 -1 0 1 0 1 0 0 6083.dat
+1 0 -1232 24 336 1 0 0 0 1 0 0 0 1 3004.dat
+1 8 -1192 48 46 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 7 -1102 80 336 -1 0 0 0 1 0 0 0 -1 3005.dat
+1 2 -1152 56 266 0 0 -1 0 1 0 1 0 0 3795.dat
+1 0 -1182 128 36 0 0 -1 0 1 0 1 0 0 3622.dat
+1 4 -1182 176 6 0 0 -1 0 1 0 1 0 0 3009.dat
+1 14 -1182 80 136 -1 0 0 0 1 0 0 0 -1 3861.dat
+1 4 -1212 176 -64 -1 0 0 0 1 0 0 0 -1 3009.dat
+1 0 -1212 152 -64 -1 0 0 0 1 0 0 0 -1 3009.dat
+1 15 -1252 176 -34 -1 0 0 0 1 0 0 0 -1 3003.dat
+1 7 -1142 176 156 0 0 -1 0 1 0 1 0 0 4286.dat
+1 7 -1262 176 -244 0 0 -1 0 1 0 1 0 0 4286.dat
+1 15 -1262 136 -154 0 0 1 0 1 0 -1 0 0 6079.dat
+1 7 -1262 176 -264 0 0 -1 0 1 0 1 0 0 3040b.dat
+1 0 -772 168 346 1 0 0 0 1 0 0 0 1 3001.dat
+1 1 -1262 168 -24 1 0 0 0 1 0 0 0 1 4073.dat
+1 46 -1262 160 -24 1 0 0 0 1 0 0 0 1 4073.dat
+1 46 -1262 152 -24 1 0 0 0 1 0 0 0 1 4073.dat
+1 1 -1262 144 -24 1 0 0 0 1 0 0 0 1 4073.dat
+1 14 -1212 192 -34 1 0 0 0 1 0 0 0 1 4032a.dat
+1 14 -1212 192 46 1 0 0 0 1 0 0 0 1 4032a.dat
+1 1 -1212 184 6 0 0 1 0 1 0 -1 0 0 3795.dat
+1 1 -1252 192 26 1 0 0 0 1 0 0 0 1 4079.dat
+1 7 -782 96 346 0 0 1 0 1 0 -1 0 0 3684.dat
+1 7 -762 96 346 0 0 -1 0 1 0 1 0 0 3684.dat
+1 7 -782 120 306 0 0 1 0 1 0 -1 0 0 3684.dat
+1 7 -762 120 306 0 0 -1 0 1 0 1 0 0 3684.dat
+1 0 -1122 80 356 0 0 -1 0 1 0 1 0 0 2449.dat
+1 0 -1182 128 -34 0 0 1 0 1 0 -1 0 0 3010.dat
+1 0 -1232 128 -64 1 0 0 0 1 0 0 0 1 3010.dat
+1 0 -1152 128 -64 1 0 0 0 1 0 0 0 1 3004.dat
+1 0 -1152 80 -64 1 0 0 0 1 0 0 0 1 3004.dat
+1 0 -1182 80 -64 0 0 -1 0 1 0 1 0 0 2357.dat
+1 7 -1152 56 356 1 0 0 0 1 0 0 0 1 3010.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -604 96 -138 0 1 0 0 0 1 1 0 0 4073.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -592 179 156 0 0 1 0 1 0 -1 0 0 3641.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -592 80 -114 1 0 0 0 0 -1 0 1 0 2614.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -572 78 -114 0 0 1 0 1 0 -1 0 0 6019.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -566 179 -224 0 0 1 0 1 0 -1 0 0 6014.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -572 126 -194 1 0 0 0 1 0 0 0 1 3821.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -566 179 -104 0 0 1 0 1 0 -1 0 0 6014.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -542 166 -224 0 0 -1 0 1 0 1 0 0 3022.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -542 166 -114 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -542 166 156 -1 0 0 0 1 0 0 0 -1 3794a.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -572 179 -224 0 0 1 0 1 0 -1 0 0 6015.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -592 179 156 0 0 1 0 1 0 -1 0 0 4624.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -542 150 -164 1 0 0 0 1 0 0 0 1 4212b.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -542 134 -224 1 0 0 0 1 0 0 0 1 3788.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -572 86 -104 0 0 1 0 1 0 -1 0 0 4863.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -572 78 -84 0 0 1 0 1 0 -1 0 0 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 142 36 1 0 0 0 1 0 0 0 1 4855.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -542 174 46 1 0 0 0 1 0 0 0 1 3020.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 142 146 0 0 -1 0 1 0 1 0 0 4871.dat
+0 MLCAD BTG jeep+trailer+boat
+1 36 -572 174 176 0 0 1 0 1 0 -1 0 0 4073.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 158 36 1 0 0 0 1 0 0 0 1 2431.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 126 -254 -1 0 0 0 1 0 0 0 -1 2877.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 62 -174 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -542 166 46 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 142 96 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -542 134 156 1 0 0 0 1 0 0 0 1 3938.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -542 110 -134 1 0 0 0 1 0 0 0 1 2432.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -542 134 -104 1 0 0 0 1 0 0 0 1 3788.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 142 -74 1 0 0 0 1 0 0 0 1 3710.dat
+0 MLCAD BTG jeep+trailer+boat
+1 15 -542 118 166 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -512 86 -104 0 0 -1 0 1 0 1 0 0 4863.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -512 78 -84 0 0 1 0 1 0 -1 0 0 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 36 -512 174 176 0 0 1 0 1 0 -1 0 0 4073.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -492 179 156 0 0 -1 0 1 0 1 0 0 4624.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -572 179 -104 0 0 1 0 1 0 -1 0 0 6015.dat
+0 MLCAD BTG jeep+trailer+boat
+1 47 -572 136 -268 -1 0 0 0 0 1 0 1 0 3024.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -572 126 -254 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 126 -224 1 0 0 0 1 0 0 0 1 3020.dat
+0 MLCAD BTG jeep+trailer+boat
+1 41 -542 78 -194 1 0 0 0 1 0 0 0 1 3823.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 70 -164 1 0 0 0 1 0 0 0 1 4213.dat
+0 MLCAD BTG jeep+trailer+boat
+1 47 -572 56 -186 0 0 -1 -1 0 0 0 1 0 4073.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 78 -134 1 0 0 0 1 0 0 0 1 4625.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 70 -104 -1 0 0 0 1 0 0 0 -1 3020.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 70 -74 -1 0 0 0 1 0 0 0 -1 4315.dat
+0 MLCAD BTG jeep+trailer+boat
+1 36 -572 140 -48 1 0 0 0 0 1 0 -1 0 3024.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 134 -14.001 1 0 0 0 1 0 0 0 1 4859.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -572 134 56 0 0 1 0 1 0 -1 0 0 3623.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 134 96 -1 0 0 0 1 0 0 0 -1 3710.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -572 134 136 0 0 1 0 1 0 -1 0 0 3623.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -572 166 106 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -572 158 -164 0 0 1 0 1 0 -1 0 0 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -572 134 -134 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG jeep+trailer+boat
+1 41 -572 86 -124 0 0 1 0 1 0 -1 0 0 4862.dat
+0 MLCAD BTG jeep+trailer+boat
+1 41 -572 86 -84 0 0 1 0 1 0 -1 0 0 4862.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -572 134 -74 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 174 -224 -1 0 0 0 1 0 0 0 -1 4600.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 174 -104 -1 0 0 0 1 0 0 0 -1 4600.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 158 -234 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 158 -94 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 134 156 1 0 0 0 1 0 0 0 1 3937.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 142 -134 1 0 0 0 1 0 0 0 1 3710.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -542 126 176 0 0 -1 0 1 0 1 0 0 2433.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -512 158 -164 0 0 1 0 1 0 -1 0 0 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -511.999 134 -134 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -512 134 -74 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG jeep+trailer+boat
+1 41 -512 86 -124 0 0 -1 0 1 0 1 0 0 4862.dat
+0 MLCAD BTG jeep+trailer+boat
+1 41 -512 86 -84 0 0 -1 0 1 0 1 0 0 4862.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -552 54 -174 0 0 1 0 1 0 -1 0 0 4081b.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 110 -56 -1 0 0 0 0 -1 0 -1 0 2349.dat
+0 MLCAD BTG jeep+trailer+boat
+1 41 -542 94 -56 1 0 0 0 0 1 0 -1 0 2348b.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 118 -244 1 0 0 0 1 0 0 0 1 3068b.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 118 16 1 0 0 0 1 0 0 0 1 2432.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 134 56 0 0 -1 -1 0 0 0 1 0 2610.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -542 126 156 -1 0 0 0 1 0 0 0 -1 3794a.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -542 150 36 1 0 0 0 1 0 0 0 1 3829c01.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 142 86 0 0 -1 0 1 0 1 0 0 4854.dat
+0 MLCAD BTG jeep+trailer+boat
+1 4 -542 150 116 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -542 166 -84 -1 0 0 0 1 0 0 0 -1 3730.dat
+0 MLCAD BTG jeep+trailer+boat
+1 15 -542 102 166 0 0 -1 0 1 0 1 0 0 2412b.dat
+0 MLCAD BTG jeep+trailer+boat
+1 1 -542 110 166 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -542 166 36 1 0 0 0 1 0 0 0 1 2508.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -542 142 -194 1 0 0 0 1 0 0 0 1 3829c01.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -532 54 -174 0 0 -1 0 1 0 1 0 0 4081b.dat
+0 MLCAD BTG jeep+trailer+boat
+1 47 -512 136 -268 -1 0 0 0 0 1 0 1 0 3024.dat
+0 MLCAD BTG jeep+trailer+boat
+1 47 -512 56 -186 0 0 -1 -1 0 0 0 1 0 4073.dat
+0 MLCAD BTG jeep+trailer+boat
+1 36 -512 140 -48 1 0 0 0 0 1 0 -1 0 3024.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -512 134 56 0 0 1 0 1 0 -1 0 0 3623.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -512 134 136 0 0 1 0 1 0 -1 0 0 3623.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -512 166 106 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -512 126 -254 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -512 179 -224 0 0 -1 0 1 0 1 0 0 6015.dat
+0 MLCAD BTG jeep+trailer+boat
+1 14 -512 126 -194 1 0 0 0 1 0 0 0 1 3822.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -512 179 -104 0 0 -1 0 1 0 1 0 0 6015.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -512 78 -114 0 0 -1 0 1 0 1 0 0 6019.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -542 174 156 1 0 0 0 1 0 0 0 1 2926.dat
+0 MLCAD BTG jeep+trailer+boat
+1 0 -492 179 156 0 0 -1 0 1 0 1 0 0 3641.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -518 179 -224 0 0 -1 0 1 0 1 0 0 6014.dat
+0 MLCAD BTG jeep+trailer+boat
+1 7 -518 179 -104 0 0 -1 0 1 0 1 0 0 6014.dat
+0 MLCAD BTG jeep+trailer+boat
+1 8 -492 80 -114 1 0 0 0 0 -1 0 1 0 3841.dat
+0 GROUP 99 jeep+trailer+boat
+0

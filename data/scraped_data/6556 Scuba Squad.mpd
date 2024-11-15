@@ -1,0 +1,195 @@
+0 FILE 6556 - main.ldr 
+0 main
+0 Name: 6556 - main.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 15 -30 -40 100 1 0 0 0 1 0 0 0 1 6556 - CAR.LDR 
+1 15 27.209999 2.895 100.857002 0 0 -1 0 1 0 1 0 0 6556 - TRAILER.LDR 
+1 14 220 0 -110 0.5 0 0.866 0 1 0 -0.866 0 0.5 6556 - BOAT.LDR 
+1 15 195.623993 0 -244.384995 -0.5 0 0.866 0 1 0 -0.866 0 -0.5 6556 - FLAG.LDR 
+1 15 -90 0 -50 1 0 0 0 1 0 0 0 1 6556 - MINIFIG 1.LDR 
+1 15 73.302002 0 -85 -0.5 0 0.866 0 1 0 -0.866 0 -0.5 6556 - MINIFIG 2.LDR 
+
+
+0 FILE 6556 - car.ldr 
+0 car
+0 Name: 6556 - car.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 0 -30 0 0 1 0 0 0 1 0 0 0 1 3034.dat 
+1 7 10 -8 0 1 0 0 0 1 0 0 0 1 3022.dat 
+1 7 -70 -8 0 1 0 0 0 1 0 0 0 1 3022.dat 
+0 STEP
+1 4 -90 -16 0 0 0 1 0 1 0 -1 0 0 4211.dat 
+1 4 30 -16 0 0 0 -1 0 1 0 1 0 0 4211.dat 
+0 STEP
+1 46 -120 -16 -30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 46 -120 -16 30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 36 60 -16 30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 36 60 -16 -30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 16 60 -16 0 0 0 -1 0 1 0 1 0 0 3023.dat 
+1 16 -20 -16 0 0 0 -1 0 1 0 1 0 0 3023.dat 
+1 16 -30 -16 30 1 0 0 0 1 0 0 0 1 3710.dat 
+1 16 -30 -16 -30 1 0 0 0 1 0 0 0 1 3710.dat 
+1 16 -120 -16 0 0 0 1 0 1 0 -1 0 0 3023.dat 
+0 STEP
+1 7 -90 8 0 1 0 0 0 1 0 0 0 1 3022.dat 
+1 7 30 8 0 0 0 -1 0 1 0 1 0 0 3730.dat 
+0 STEP
+1 0 30 16 0 0 0 -1 0 1 0 1 0 0 4600.dat 
+1 0 -90 16 0 0 0 -1 0 1 0 1 0 0 4600.dat 
+0 STEP
+1 1 -80 -16 0 0 0 1 0 1 0 -1 0 0 3829C01.dat 
+1 16 -20 -40 0 0 0 -1 0 1 0 1 0 0 3010.dat 
+0 STEP
+1 16 -80 -40 -30 0 0 1 0 1 0 -1 0 0 3822.dat 
+1 16 -80 -40 30 0 0 1 0 1 0 -1 0 0 3821.dat 
+1 16 -100 -40 0 0 0 1 0 1 0 -1 0 0 3037.dat 
+1 16 30 -88 30 1 0 0 0 1 0 0 0 1 4215A.dat 
+1 16 30 -88 -30 -1 0 0 0 1 0 0 0 -1 4215A.dat 
+0 STEP
+1 43 -80 -88 0 0 0 1 0 1 0 -1 0 0 3823.dat 
+1 16 -20 -88 0 0 0 1 0 1 0 -1 0 0 4214.dat 
+1 16 40 -96 0 0 0 1 0 1 0 -1 0 0 3710.dat 
+1 16 10 -96 0 0 0 1 0 1 0 -1 0 0 3020.dat 
+0 STEP
+1 16 -50 -96 0 0 0 1 0 1 0 -1 0 0 2349A.dat 
+1 43 -65 -92 0 0 0 1 0 1 0 -1 0 0 2348B.dat 
+1 16 60 -96 0 0 0 -1 0 1 0 1 0 0 4315.dat 
+1 16 78 -56 0 0 -1 0 0 0 -1 1 0 0 2349A.dat 
+1 43 75 -40 0 0 -1 0 0 0 -1 1 0 0 2348B.dat 
+0 STEP
+1 16 30 13 27 -1 0 0 0 1 0 0 0 -1 6014.dat 
+1 0 30 13 32 1 0 0 0 1 0 0 0 1 6015.dat 
+1 16 -90 13 27 -1 0 0 0 1 0 0 0 -1 6014.dat 
+1 0 -90 13 32 1 0 0 0 1 0 0 0 1 6015.dat 
+1 16 -90 13 -27 1 0 0 0 1 0 0 0 1 6014.dat 
+1 0 -90 13 -32 -1 0 0 0 1 0 0 0 -1 6015.dat 
+1 16 30 13 -27 1 0 0 0 1 0 0 0 1 6014.dat 
+1 0 30 13 -32 -1 0 0 0 1 0 0 0 -1 6015.dat 
+
+
+0 FILE 6556 - trailer.ldr 
+0 trailer
+0 Name: 6556 - trailer.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 4 0 -32 -190 -1 0 0 0 1 0 0 0 -1 2413.dat 
+0 STEP
+1 0 0 -32 -90 -1 0 0 0 1 0 0 0 -1 2508.dat 
+1 0 0 -40 -250 1 0 0 0 1 0 0 0 1 3069B.dat 
+0 STEP
+1 0 0 -40 -120 0 0 1 0 1 0 -1 0 0 3020.dat 
+0 STEP
+1 0 0 -24 -120 0 0 1 0 1 0 -1 0 0 3020.dat 
+1 0 0 -24 -210 -1 0 0 0 1 0 0 0 -1 2926.dat 
+0 STEP
+1 0 -50 -19 -210 1 0 0 0 1 0 0 0 1 3139.dat 
+1 15 -50 -20 -210 0 0 1 0 1 0 -1 0 0 4624.dat 
+1 0 50 -19 -210 -1 0 0 0 1 0 0 0 -1 3139.dat 
+1 15 50 -20 -210 0 0 -1 0 1 0 1 0 0 4624.dat 
+
+
+0 FILE 6556 - boat.ldr 
+0 boat
+0 Name: 6556 - boat.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 16 0 -8 0 1 0 0 0 1 0 0 0 1 30086.dat 
+1 16 0 -32 0 1 0 0 0 1 0 0 0 1 30087.dat 
+1 0 0 -40 70 1 0 0 0 1 0 0 0 1 3794A.dat 
+1 1 0 -48 70 -1 0 0 0 1 0 0 0 -1 4085C.dat 
+1 0 0 -56 90 0 0 -1 0 1 0 1 0 0 2433.dat 
+1 1 0 -56 70 -1 0 0 0 1 0 0 0 -1 4592.dat 
+1 7 0 -64 90 0 0 -1 0 1 0 1 0 0 6141.dat 
+1 7 0 -56 70 -1 0 0 0 0.866 0.5 0 0.5 -0.866 4593.dat 
+
+
+0 FILE 6556 - minifig 1.ldr 
+0 minifig 1
+0 Name: 6556 - minifig 1.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 0 0 -96 0 1 0 0 0 1 0 0 0 1 2446.dat 
+1 33 0 -96 0 1 0 0 0 1 0 0 0 1 30090.dat 
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626A.dat 
+1 1 0 -72 0 1 0 0 0 1 0 0 0 1 973.dat 
+1 1 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat 
+1 1 15.5 -64 0 1 0.17 0 -0.17 1 0 0 0 1 3819.dat 
+1 1 -15.5 -64 0 1 -0.17 0 0.17 1 0 0 0 1 3818.dat 
+1 0 23.658001 -46.148998 -10 1 0.12 -0.12 -0.17 0.697 -0.697 0 0.707 0.707 3820.dat 
+1 0 -23.658001 -46.148998 -10 1 -0.12 0.12 0.17 0.697 -0.697 0 0.707 0.707 3820.dat 
+1 0 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat 
+1 0 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat 
+1 1 -10 0 -1.818 1 0 0.174 0 1 0 -0.174 0 1 2599.dat 
+1 1 10 0 -1.818 1 0 -0.174 0 1 0 0.174 0 1 2599.dat 
+1 15 0 -72 0 1 0 0 0 1 0 0 0 1 30091.dat 
+
+
+0 FILE 6556 - minifig 2.ldr 
+0 minifig 2
+0 Name: 6556 - minifig 2.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 1 0 -96 0 1 0 0 0 1 0 0 0 1 4485.dat 
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626BP04.dat 
+1 15 0 -72 0 1 0 0 0 1 0 0 0 1 973.dat 
+1 1 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat 
+1 14 15.5 -64 0 1 0.17 0 -0.17 1 0 0 0 1 3819.dat 
+1 14 -15.5 -64 0 1 -0.17 0 0.17 1 0 0 0 1 3818.dat 
+1 14 23.66 -46.130001 -10 1 0.12 -0.12 -0.17 0.7 -0.7 0 0.71 0.71 3820.dat 
+1 14 -23.66 -46.130001 -10 1 -0.12 0.12 0.17 0.7 -0.7 0 0.71 0.71 3820.dat 
+1 1 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat 
+1 1 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat 
+
+
+0 FILE 6556 - flag.ldr 
+0 flag
+0 Name: 6556 - flag.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 4 0 -8 0 1 0 0 0 1 0 0 0 1 4032A.dat 
+1 15 0 -16 0 1 0 0 0 1 0 0 0 1 3957A.dat 
+1 15 0 -96 0 1 0 0 0 1 0 0 0 1 2335P01.dat 

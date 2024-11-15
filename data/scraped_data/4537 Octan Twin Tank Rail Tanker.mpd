@@ -1,0 +1,272 @@
+0 FILE 4537 - main.ldr 
+0 main
+0 Name: 4537 - main.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 16 -130 -40 -40 0.866 0 -0.5 0 1 0 0.5 0 0.866 4537 - CAR.LDR 
+1 16 60 -16 -200 0.5 0 0.866 0 1 0 -0.866 0 0.5 4537 - CONTAINER.LDR 
+1 16 270 0 150 0.866 0 -0.5 0 1 0 0.5 0 0.866 4537 - RAILWAY TANK.LDR 
+1 16 340 0 -150 0.5 0 0.866 0 1 0 -0.866 0 0.5 4537 - MINIFIG.LDR 
+
+
+0 FILE 4537 - railway tank.ldr 
+0 railway tank
+0 Name: 4537 - railway tank.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 0 10 -40 -60 0 0 1 0 1 0 -1 0 0 3034.dat 
+1 0 10 -48 -60 0 0 1 0 1 0 -1 0 0 3020.dat 
+0 STEP
+1 0 0 -56 -60 0 0 1 0 1 0 -1 0 0 2436A.dat 
+1 0 20 -56 -60 0 0 -1 0 1 0 1 0 0 2436A.dat 
+0 STEP
+1 0 10 -64 30 1 0 0 0 1 0 0 0 1 2878C01.dat 
+1 0 10 -64 -150 1 0 0 0 1 0 0 0 1 2878C01.dat 
+0 STEP
+1 0 10 -56 20 0 0 1 0 1 0 -1 0 0 3795.dat 
+1 0 10 -56 -140 0 0 1 0 1 0 -1 0 0 3795.dat 
+1 0 -38 -47 -60 0 1 0 0 0 1 1 0 0 3039PC4.dat 
+1 0 -38 -47 -90 0 1 0 0 0 -1 -1 0 0 4599A.dat 
+1 0 -22 -47 -30 0 1 0 0 0 1 1 0 0 2555.dat 
+1 0 58 -47 -60 0 -1 0 0 0 1 -1 0 0 3039PC4.dat 
+1 0 58 -47 -30 0 -1 0 0 0 -1 1 0 0 4599A.dat 
+1 0 42 -47 -90 0 -1 0 0 0 1 -1 0 0 2555.dat 
+0 STEP
+1 0 10 -64 -60 0 0 1 0 1 0 -1 0 0 3832.dat 
+0 STEP
+1 0 10 -64 -180 1 0 0 0 1 0 0 0 1 4022.dat 
+1 0 10 -64 60 -1 0 0 0 1 0 0 0 -1 4022.dat 
+1 0 10 -88 -60 0 0 1 0 1 0 -1 0 0 2584.dat 
+1 0 10 -94 -60 0 0 1 0 1 0 -1 0 0 2585.dat 
+1 7 48 -55 -90 1 0 0 0 0 1 0 -1 0 4210A.dat 
+0 STEP
+1 0 10 -72 50 1 0 0 0 1 0 0 0 1 3710.dat 
+1 0 10 -72 -170 1 0 0 0 1 0 0 0 1 3710.dat 
+1 0 -10 -72 -140 0 0 1 0 1 0 -1 0 0 3022.dat 
+1 0 30 -72 20 0 0 1 0 1 0 -1 0 0 3022.dat 
+1 0 -20 -72 20 -1 0 0 0 1 0 0 0 -1 3021.dat 
+1 0 40 -72 -140 -1 0 0 0 1 0 0 0 -1 3021.dat 
+1 0 10 -48 90 -1 0 0 0 1 0 0 0 -1 2920.dat 
+1 0 10 -44 123 -1 0 0 0 1 0 0 0 -1 2959C01.dat 
+1 0 10 -48 -210 1 0 0 0 1 0 0 0 1 2920.dat 
+1 0 10 -44 -243 1 0 0 0 1 0 0 0 1 2959C01.dat 
+0 STEP
+1 0 10 -80 30 0 0 -1 0 1 0 1 0 0 3021.dat 
+1 0 10 -80 -150 0 0 -1 0 1 0 1 0 0 3021.dat 
+1 0 60 -96 -140 0 0 1 0 1 0 -1 0 0 4865A.dat 
+1 0 -40 -96 20 0 0 -1 0 1 0 1 0 0 4865A.dat 
+1 15 10 -80 -140 0 0 -1 0 1 0 1 0 0 4537 - TANK.LDR 
+1 15 10 -80 20 0 0 -1 0 1 0 1 0 0 4537 - TANK.LDR 
+1 15 10 -224 -60 0 0 -1 0 1 0 1 0 0 3832.dat 
+0 STEP
+1 2 10 -232 -140 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 2 10 -232 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+0 STEP
+1 4 10 -240 20 0 0 -1 0 1 0 1 0 0 6141.dat 
+1 4 10 -240 -140 0 0 -1 0 1 0 1 0 0 6141.dat 
+
+
+0 FILE 4537 - car.ldr 
+0 car
+0 Name: 4537 - car.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 2 40 -37 20 1 0 0 0 1 0 0 0 1 3832.dat 
+1 0 120 -29 20 0 0 1 0 1 0 -1 0 0 4600.dat 
+1 0 -20 -29 20 0 0 1 0 1 0 -1 0 0 4600.dat 
+0 STEP
+1 4 130 -45 20 1 0 0 0 1 0 0 0 1 3021.dat 
+1 4 -10 -45 20 1 0 0 0 1 0 0 0 1 3021.dat 
+1 4 50 -45 20 0 0 -1 0 1 0 1 0 0 3023.dat 
+0 STEP
+1 2 -50 -45 20 0 0 1 0 1 0 -1 0 0 2436A.dat 
+1 4 30 -45 30 -1 0 0 0 1 0 0 0 -1 4081B.dat 
+1 4 30 -45 10 1 0 0 0 1 0 0 0 1 4081B.dat 
+0 STEP
+1 4 59 -43 50 0 -1 0 0 0 1 -1 0 0 3062B.dat 
+1 4 59 -43 -10 0 -1 0 0 0 1 -1 0 0 3062B.dat 
+1 4 40 -53 20 1 0 0 0 1 0 0 0 1 3022.dat 
+1 4 -40 -53 20 1 0 0 0 1 0 0 0 1 3022.dat 
+1 4 120 -61 20 0 0 1 0 1 0 -1 0 0 3787.dat 
+1 4 150 -53 20 0 0 -1 0 1 0 1 0 0 2436A.dat 
+1 2 -72 -35 20 0 1 0 0 0 -1 -1 0 0 3710.dat 
+0 STEP
+1 2 -80 -35 20 0 1 0 0 0 -1 -1 0 0 2412B.dat 
+1 47 -80 -35 50 0 1 0 0 0 -1 -1 0 0 3024.dat 
+1 47 -80 -35 -10 0 1 0 0 0 -1 -1 0 0 3024.dat 
+1 4 -20 -61 20 0 0 -1 0 1 0 1 0 0 4211.dat 
+1 4 80 -61 20 1 0 0 0 1 0 0 0 1 3020.dat 
+1 4 130 -61 20 0 0 1 0 1 0 -1 0 0 3023.dat 
+1 4 172 -43 20 0 -1 0 0 0 1 -1 0 0 3710.dat 
+0 STEP
+1 36 180 -43 50 0 -1 0 0 0 1 -1 0 0 3070A.dat 
+1 36 180 -43 -10 0 -1 0 0 0 1 -1 0 0 3070A.dat 
+1 2 180 -43 20 0 -1 0 0 0 1 -1 0 0 2412B.dat 
+1 4 20 -61 20 0 0 1 0 1 0 -1 0 0 3020.dat 
+1 4 -60 -61 50 -1 0 0 0 1 0 0 0 -1 3023.dat 
+1 4 -60 -61 -10 -1 0 0 0 1 0 0 0 -1 3023.dat 
+1 15 -50 -61 20 0 0 1 0 1 0 -1 0 0 3023.dat 
+0 STEP
+1 4 -50 -69 20 0 0 1 0 1 0 -1 0 0 3829C01.dat 
+1 4 170 -61 10 -1 0 0 0 1 0 0 0 -1 2420.dat 
+1 4 170 -61 30 0 0 -1 0 1 0 1 0 0 2420.dat 
+0 STEP
+1 15 150 -69 20 0 0 -1 0 1 0 1 0 0 3023.dat 
+1 15 50 -69 20 0 0 -1 0 1 0 1 0 0 3023.dat 
+1 15 170 -69 20 0 0 -1 0 1 0 1 0 0 3069B.dat 
+1 15 30 -69 20 0 0 -1 0 1 0 1 0 0 3069B.dat 
+1 15 100 -69 50 1 0 0 0 1 0 0 0 1 4162.dat 
+1 15 100 -69 -10 1 0 0 0 1 0 0 0 1 4162.dat 
+1 0 -70 -77 20 0 0 -1 0 1 0 1 0 0 2877.dat 
+0 STEP
+1 15 -70 -85 20 0 0 -1 0 1 0 1 0 0 3023.dat 
+1 15 -70 -85 50 0 0 -1 0 1 0 1 0 0 3005.dat 
+1 15 -70 -85 -10 0 0 -1 0 1 0 1 0 0 3005.dat 
+1 15 10 -85 20 0 0 -1 0 1 0 1 0 0 3010.dat 
+1 15 -50 -85 -10 0 0 1 0 1 0 -1 0 0 3822.dat 
+1 15 -50 -85 50 0 0 1 0 1 0 -1 0 0 3821.dat 
+1 4 50 -77 20 0 0 1 0 1 0 -1 0 0 3069B.dat 
+1 4 150 -77 20 0 0 1 0 1 0 -1 0 0 3069B.dat 
+0 STEP
+1 15 10 -133 20 0 0 1 0 1 0 -1 0 0 4214.dat 
+1 43 -50 -133 20 0 0 1 0 1 0 -1 0 0 3823.dat 
+1 15 -20 -141 20 0 0 1 0 1 0 -1 0 0 4213.dat 
+0 STEP
+1 15 -10 -149 20 0 0 1 0 1 0 -1 0 0 3794A.dat 
+1 15 -30 -165 40 0 0 -1 0 1 0 1 0 0 4865A.dat 
+1 15 -30 -165 0 0 0 -1 0 1 0 1 0 0 4865A.dat 
+1 15 -10 -157 20 0 0 1 0 1 0 -1 0 0 4592C01.dat 
+1 15 119 -24 50 -1 0 0 0 1 0 0 0 -1 6014.dat 
+1 0 119 -24 56 -1 0 0 0 1 0 0 0 -1 6015.dat 
+1 15 -21 -24 50 -1 0 0 0 1 0 0 0 -1 6014.dat 
+1 0 -21 -24 56 -1 0 0 0 1 0 0 0 -1 6015.dat 
+1 15 -21 -24 -10 1 0 0 0 1 0 0 0 1 6014.dat 
+1 0 -21 -24 -16 1 0 0 0 1 0 0 0 1 6015.dat 
+1 15 119 -24 -10 1 0 0 0 1 0 0 0 1 6014.dat 
+1 0 119 -24 -16 1 0 0 0 1 0 0 0 1 6015.dat 
+1 15 -40 -154 20 0 1 0 0 0 -1 -1 0 0 168185A.dat 
+
+
+0 FILE 4537 - container.ldr 
+0 container
+0 Name: 4537 - container.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 3035.dat 
+1 4 -70 8 -30 1 0 0 0 1 0 0 0 1 2420.dat 
+1 4 70 8 -30 0 0 -1 0 1 0 1 0 0 2420.dat 
+1 4 -70 8 30 0 0 1 0 1 0 -1 0 0 2420.dat 
+1 4 70 8 30 -1 0 0 0 1 0 0 0 -1 2420.dat 
+0 STEP
+1 4 -70 -48 0 0 0 -1 0 1 0 1 0 0 3185.dat 
+1 4 70 -48 0 0 0 -1 0 1 0 1 0 0 3185.dat 
+1 15 40 -8 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 15 40 -8 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 15 0 -8 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 15 -40 -8 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 15 -40 -8 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 15 0 -8 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+0 STEP
+1 2 40 -16 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 2 40 -16 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 2 0 -16 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 2 -40 -16 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 2 -40 -16 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 2 0 -16 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+0 STEP
+1 4 40 -24 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 4 40 -24 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 4 0 -24 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 4 -40 -24 20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 4 -40 -24 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+1 4 0 -24 -20 0 0 -1 0 1 0 1 0 0 4032A.dat 
+0 STEP
+1 15 -40 -48 20 0 0 -1 0 1 0 1 0 0 3941.dat 
+1 15 -40 -48 -20 0 0 -1 0 1 0 1 0 0 3941.dat 
+1 15 0 -48 -20 0 0 -1 0 1 0 1 0 0 3941.dat 
+1 15 40 -48 -20 0 0 -1 0 1 0 1 0 0 3941.dat 
+1 15 40 -48 20 0 0 -1 0 1 0 1 0 0 3941.dat 
+1 15 0 -48 20 0 0 -1 0 1 0 1 0 0 3941.dat 
+
+
+0 FILE 4537 - tank.ldr 
+0 tank
+0 Name: 4537 - tank.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 15 -30 -24 -30 1 0 0 0 1 0 0 0 1 2464.dat 
+1 15 -30 -24 30 0 0 1 0 1 0 -1 0 0 2464.dat 
+0 STEP
+1 15 30 -24 -30 0 0 -1 0 1 0 1 0 0 2464.dat 
+1 15 30 -24 30 -1 0 0 0 1 0 0 0 -1 2464.dat 
+0 STEP
+1 0 0 -48 0 0 0 1 0 1 0 -1 0 0 3001.dat 
+0 STEP
+1 2 -30 -56 0 0 0 1 0 1 0 -1 0 0 2419.dat 
+1 2 30 -56 0 0 0 -1 0 1 0 1 0 0 2419.dat 
+0 STEP
+1 4 30 -64 0 0 0 -1 0 1 0 1 0 0 2419.dat 
+1 4 -30 -64 0 0 0 1 0 1 0 -1 0 0 2419.dat 
+0 STEP
+1 15 -30 -88 -30 0 0 1 0 1 0 -1 0 0 2462.dat 
+1 15 -30 -88 30 -1 0 0 0 1 0 0 0 -1 2462.dat 
+1 15 30 -88 30 0 0 -1 0 1 0 1 0 0 2462.dat 
+1 15 30 -88 -30 1 0 0 0 1 0 0 0 1 2462.dat 
+0 STEP
+1 15 10 -112 20 -1 0 0 0 1 0 0 0 -1 2463.dat 
+1 15 20 -112 -10 0 0 -1 0 1 0 1 0 0 2463.dat 
+1 15 -10 -112 -20 1 0 0 0 1 0 0 0 1 2463.dat 
+1 15 -20 -112 10 0 0 1 0 1 0 -1 0 0 2463.dat 
+
+
+0 FILE 4537 - minifig.ldr 
+0 minifig
+0 Name: 4537 - minifig.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 2 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat 
+1 2 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat 
+1 14 -23.471001 -46 -9.88 1 -0.12 0.122 0.171 0.694 -0.699 0 0.709 0.705 3820.dat 
+1 14 23.524 -46 -10.093 1 0.121 -0.121 -0.171 0.694 -0.699 0 0.709 0.705 3820.dat 
+1 15 -15.357 -64 0 1 -0.171 0 0.171 1 0 0 0 1 3818.dat 
+1 15 15.35 -63.949001 0 1 0.171 0 -0.171 1 0 0 0 1 3819.dat 
+1 2 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat 
+1 15 0 -72 0 1 0 0 0 1 0 0 0 1 973PT2.dat 
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626BP01.dat 
+1 4 0 -96 0 1 0 0 0 1 0 0 0 1 4485.dat 

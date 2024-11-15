@@ -1,0 +1,1149 @@
+0 New Model
+0 Name: 6541-1.ldr
+0 Author: Strikeman
+0 Reproduction of official Model 6541-1
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 MLCAD BTG harbor
+1 7 316.801 120.532 -1179.9 1 0 0 0 1 0 0 0 1 2642.dat
+0 MLCAD BTG harbor
+1 7 316.801 120.532 -539.9 1 0 0 0 1 0 0 0 1 2617.dat
+0 MLCAD BTG harbor
+1 7 316.801 120.532 -859.9 1 0 0 0 1 0 0 0 1 2617.dat
+0 MLCAD BTG harbor
+1 14 316.801 -159.468 -699.9 0 0 -1 0 1 0 1 0 0 2641.dat
+0 MLCAD BTG harbor
+1 14 316.801 -159.468 -699.9 1 0 0 0 1 0 0 0 1 2641.dat
+0 MLCAD BTG harbor
+1 14 316.801 -159.468 -699.9 0 0 1 0 1 0 -1 0 0 2641.dat
+0 MLCAD BTG harbor
+1 14 316.801 -159.468 -699.9 -1 0 0 0 1 0 0 0 -1 2641.dat
+0 MLCAD BTG harbor
+1 14 316.801 -167.468 -699.9 -1 0 0 0 1 0 0 0 -1 3958.dat
+0 MLCAD BTG harbor
+1 0 466.801 120.532 -1019.9 0 0 -1 0 1 0 1 0 0 4175.dat
+0 MLCAD BTG harbor
+1 0 786.801 112.532 -1219.9 0 0 -1 0 1 0 1 0 0 4175.dat
+0 MLCAD BTG harbor
+1 0 596.801 112.532 -1229.9 -1 0 0 0 1 0 0 0 -1 4175.dat
+0 MLCAD BTG harbor
+1 0 466.801 120.532 -699.9 0 0 -1 0 1 0 1 0 0 4175.dat
+0 MLCAD BTG harbor
+1 0 466.801 120.532 -419.901 0 0 -1 0 1 0 1 0 0 4175.dat
+0 MLCAD BTG harbor
+1 15 446.801 120.532 -699.9 0 0 -1 0 1 0 1 0 0 2431p02.dat
+0 MLCAD BTG harbor
+1 15 186.801 120.532 -699.9 0 0 -1 0 1 0 1 0 0 2431p02.dat
+0 MLCAD BTG harbor
+1 15 186.801 120.532 -1019.9 0 0 -1 0 1 0 1 0 0 2431p02.dat
+0 MLCAD BTG harbor
+1 15 446.801 120.532 -1019.9 0 0 -1 0 1 0 1 0 0 2431p02.dat
+0 MLCAD BTG harbor
+1 7 456.801 168.532 -1319.9 0 0 -1 0 1 0 1 0 0 3022.dat
+0 MLCAD BTG harbor
+1 7 176.801 168.532 -1319.9 0 0 -1 0 1 0 1 0 0 3022.dat
+0 MLCAD BTG harbor
+1 7 176.801 168.532 -399.901 0 0 -1 0 1 0 1 0 0 3022.dat
+0 MLCAD BTG harbor
+1 7 456.801 168.532 -399.901 0 0 -1 0 1 0 1 0 0 3022.dat
+0 MLCAD BTG harbor
+1 7 456.801 168.532 -1019.9 0 0 -1 0 1 0 1 0 0 3020.dat
+0 MLCAD BTG harbor
+1 7 456.801 168.532 -699.9 0 0 -1 0 1 0 1 0 0 3020.dat
+0 MLCAD BTG harbor
+1 7 176.801 168.532 -699.9 0 0 -1 0 1 0 1 0 0 3020.dat
+0 MLCAD BTG harbor
+1 7 176.801 168.532 -1019.9 0 0 -1 0 1 0 1 0 0 3020.dat
+0 MLCAD BTG harbor
+1 7 466.801 152.532 -1109.9 0 0 -1 0 1 0 1 0 0 3005.dat
+0 MLCAD BTG harbor
+1 7 466.801 128.532 -1109.9 0 0 -1 0 1 0 1 0 0 3005.dat
+0 MLCAD BTG harbor
+1 7 466.801 120.532 -1109.9 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG harbor
+1 7 466.801 120.532 -929.9 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG harbor
+1 7 466.801 120.532 -789.9 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG harbor
+1 7 466.801 120.532 -609.9 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG harbor
+1 7 466.801 120.532 -469.901 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG harbor
+1 0 466.801 128.532 -469.901 0 0 -1 0 1 0 1 0 0 4070.dat
+0 MLCAD BTG harbor
+1 0 466.801 128.532 -789.9 0 0 -1 0 1 0 1 0 0 4070.dat
+0 MLCAD BTG harbor
+1 0 466.801 128.532 -609.9 0 0 -1 0 1 0 1 0 0 4070.dat
+0 MLCAD BTG harbor
+1 0 466.801 128.532 -929.9 0 0 -1 0 1 0 1 0 0 4070.dat
+0 MLCAD BTG harbor
+1 0 466.801 152.532 -929.9 0 0 -1 0 1 0 1 0 0 4070.dat
+0 MLCAD BTG harbor
+1 0 466.801 152.532 -789.9 0 0 -1 0 1 0 1 0 0 4070.dat
+0 MLCAD BTG harbor
+1 0 466.801 152.532 -609.9 0 0 -1 0 1 0 1 0 0 4070.dat
+0 MLCAD BTG harbor
+1 0 466.801 152.532 -469.901 0 0 -1 0 1 0 1 0 0 4070.dat
+0 MLCAD BTG harbor
+1 0 476.801 142.532 -469.901 0 -1 0 0 0 -1 1 0 0 4073.dat
+0 MLCAD BTG harbor
+1 0 476.801 142.532 -609.9 0 -1 0 0 0 -1 1 0 0 4073.dat
+0 MLCAD BTG harbor
+1 0 476.801 162.532 -609.9 0 -1 0 0 0 -1 1 0 0 4073.dat
+0 MLCAD BTG harbor
+1 0 476.801 162.532 -789.9 0 -1 0 0 0 -1 1 0 0 4073.dat
+0 MLCAD BTG harbor
+1 0 476.801 162.532 -929.9 0 -1 0 0 0 -1 1 0 0 4073.dat
+0 MLCAD BTG harbor
+1 0 476.801 142.532 -929.9 0 -1 0 0 0 -1 1 0 0 4073.dat
+0 MLCAD BTG harbor
+1 0 476.801 142.532 -789.9 0 -1 0 0 0 -1 1 0 0 4073.dat
+0 MLCAD BTG harbor
+1 0 476.801 162.532 -469.901 0 -1 0 0 0 -1 1 0 0 4073.dat
+0 MLCAD BTG harbor
+1 8 486.801 162.532 -859.9 0 -1 0 0 0 -1 1 0 0 4162.dat
+0 MLCAD BTG harbor
+1 8 486.801 162.532 -539.9 0 -1 0 0 0 -1 1 0 0 4162.dat
+0 MLCAD BTG harbor
+1 8 486.801 142.532 -539.9 0 -1 0 0 0 -1 1 0 0 4162.dat
+0 MLCAD BTG harbor
+1 8 486.801 142.532 -859.9 0 -1 0 0 0 -1 1 0 0 4162.dat
+0 MLCAD BTG harbor
+1 4 166.801 104.532 -389.901 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG harbor
+1 4 466.801 104.532 -389.901 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG harbor
+1 4 466.801 80.532 -389.901 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG harbor
+1 4 166.801 80.532 -389.901 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG harbor
+1 15 316.801 90.532 -403.901 1 0 0 0 0 -1 0 1 0 4168.dat
+0 MLCAD BTG harbor
+1 36 226.801 90.532 -403.901 1 0 0 0 0 1 0 -1 0 4073.dat
+0 MLCAD BTG harbor
+1 36 286.801 90.532 -403.901 1 0 0 0 0 1 0 -1 0 4073.dat
+0 MLCAD BTG harbor
+1 36 346.801 90.532 -403.901 1 0 0 0 0 1 0 -1 0 4073.dat
+0 MLCAD BTG harbor
+1 36 406.801 90.532 -403.901 1 0 0 0 0 1 0 -1 0 4073.dat
+0 MLCAD BTG harbor
+1 0 796.801 -7.468 -1099.9 1 0 0 0 1 0 0 0 1 4073.dat
+0 MLCAD BTG harbor
+1 0 796.801 -15.468 -1099.9 1 0 0 0 1 0 0 0 1 4073.dat
+0 MLCAD BTG harbor
+1 46 796.801 -39.468 -1099.9 1 0 0 0 1 0 0 0 1 3626b.dat
+0 MLCAD BTG harbor
+1 7 576.801 120.532 -1279.9 1 0 0 0 1 0 0 0 1 3456.dat
+0 MLCAD BTG harbor
+1 7 756.801 120.532 -1219.9 0 0 -1 0 1 0 1 0 0 3029.dat
+0 MLCAD BTG harbor
+1 7 806.801 120.532 -1089.9 -1 0 0 0 1 0 0 0 -1 2420.dat
+0 MLCAD BTG harbor
+1 0 796.801 128.532 -1099.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 736.801 128.532 -1119.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 776.801 128.532 -1319.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 776.801 128.532 -1199.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 636.801 128.532 -1239.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 776.801 152.532 -1199.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 636.801 152.532 -1239.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 636.801 128.532 -1319.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 796.801 152.532 -1099.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 736.801 152.532 -1119.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 776.801 152.532 -1319.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 636.801 152.532 -1319.9 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 MLCAD BTG harbor
+1 0 716.801 152.532 -1279.9 0 0 -1 0 1 0 1 0 0 3001.dat
+0 MLCAD BTG harbor
+1 0 716.801 128.532 -1279.9 0 0 -1 0 1 0 1 0 0 3001.dat
+0 MLCAD BTG harbor
+1 0 316.801 -191.468 -699.9 0 0 -1 0 1 0 1 0 0 3403c01.dat
+0 MLCAD BTG harbor
+1 14 166.801 56.532 -1219.9 0 0 -1 0 1 0 1 0 0 2583.dat
+0 MLCAD BTG harbor
+1 14 166.801 56.532 -1019.9 0 0 -1 0 1 0 1 0 0 2583.dat
+0 MLCAD BTG harbor
+1 15 516.801 72.532 -1329.9 -1 0 0 0 1 0 0 0 -1 2486.dat
+0 MLCAD BTG harbor
+1 15 736.801 72.532 -1329.9 -1 0 0 0 1 0 0 0 -1 2486.dat
+0 MLCAD BTG harbor
+1 15 796.801 96.532 -1099.9 -1 0 0 0 1 0 0 0 -1 3941.dat
+0 MLCAD BTG harbor
+1 4 796.801 72.532 -1099.9 -1 0 0 0 1 0 0 0 -1 3941.dat
+0 MLCAD BTG harbor
+1 15 796.801 48.532 -1099.9 -1 0 0 0 1 0 0 0 -1 3941.dat
+0 MLCAD BTG harbor
+1 4 796.801 24.532 -1099.9 -1 0 0 0 1 0 0 0 -1 3941.dat
+0 MLCAD BTG harbor
+1 15 796.801 0.532 -1099.9 -1 0 0 0 1 0 0 0 -1 3941.dat
+0 MLCAD BTG harbor
+1 4 626.801 42.532 -1337.9 -1 0 0 0 0 -1 0 -1 0 3022.dat
+0 MLCAD BTG harbor
+1 4 626.801 32.532 -1329.9 -1 0 0 0 0 -1 0 -1 0 3023.dat
+0 MLCAD BTG harbor
+1 4 626.801 52.532 -1329.9 -1 0 0 0 0 -1 0 -1 0 4596.dat
+0 MLCAD BTG harbor
+1 15 626.801 42.532 -1321.9 -1 0 0 0 0 -1 0 -1 0 4150c07.dat
+0 MLCAD BTG harbor
+1 15 796.801 -46.468 -1099.9 -1 0 0 0 1 0 0 0 -1 4740.dat
+0 MLCAD BTG harbor
+1 14 596.801 81.532 -1229.9 -1 0 0 0 1 0 0 0 -1 2432.dat
+0 MLCAD BTG harbor
+1 14 786.801 81.532 -1219.9 0 0 -1 0 1 0 1 0 0 2432.dat
+0 MLCAD BTG harbor
+1 14 466.801 89.532 -1019.9 0 0 -1 0 1 0 1 0 0 2432.dat
+0 MLCAD BTG harbor
+1 14 466.801 89.532 -699.9 0 0 -1 0 1 0 1 0 0 2432.dat
+0 MLCAD BTG harbor
+1 14 316.801 -199.468 -659.9 0 0 -1 0 1 0 1 0 0 3035.dat
+0 MLCAD BTG harbor
+1 4 316.801 -207.468 -589.9 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG harbor
+1 4 316.801 -215.468 -589.9 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG harbor
+1 14 316.801 -247.468 -589.9 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG harbor
+1 4 286.801 -223.468 -659.9 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG harbor
+1 4 346.801 -223.468 -659.9 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG harbor
+1 4 286.801 -223.468 -609.9 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG harbor
+1 4 346.801 -223.468 -609.9 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG harbor
+1 4 346.801 -223.468 -699.9 0 0 1 0 1 0 -1 0 0 4865a.dat
+0 MLCAD BTG harbor
+1 4 286.801 -223.468 -699.9 0 0 -1 0 1 0 1 0 0 4865a.dat
+0 MLCAD BTG harbor
+1 14 316.801 -239.468 -589.9 1 0 0 0 1 0 0 0 1 3700.dat
+0 MLCAD BTG harbor
+1 4 316.801 -223.468 -619.9 0 0 1 0 1 0 -1 0 0 2584.dat
+0 MLCAD BTG harbor
+1 0 316.801 -229.468 -619.9 0 0 1 0 1 0 -1 0 0 2585.dat
+0 MLCAD BTG harbor
+1 14 346.801 -247.468 -589.9 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG harbor
+1 14 286.801 -247.468 -589.9 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG harbor
+1 0 316.801 -229.468 -599.9 0 0 1 0 1 0 -1 0 0 3705.dat
+0 MLCAD BTG harbor
+1 7 316.801 -229.468 -553.9 0 0 1 -1 0 0 0 -1 0 3941.dat
+0 MLCAD BTG harbor
+1 14 316.801 -271.468 -589.9 -1 0 0 0 1 0 0 0 -1 3010.dat
+0 MLCAD BTG harbor
+1 14 346.801 -271.468 -639.9 0 0 -1 0 1 0 1 0 0 4863.dat
+0 MLCAD BTG harbor
+1 14 286.801 -271.468 -639.9 0 0 1 0 1 0 -1 0 0 4863.dat
+0 MLCAD BTG harbor
+1 47 286.801 -271.468 -659.9 0 0 1 0 1 0 -1 0 0 4862.dat
+0 MLCAD BTG harbor
+1 47 286.801 -271.468 -619.9 0 0 1 0 1 0 -1 0 0 4862.dat
+0 MLCAD BTG harbor
+1 47 346.801 -271.468 -619.9 0 0 -1 0 1 0 1 0 0 4862.dat
+0 MLCAD BTG harbor
+1 47 346.801 -271.468 -659.9 0 0 -1 0 1 0 1 0 0 4862.dat
+0 MLCAD BTG harbor
+1 4 316.801 -207.468 -699.9 1 0 0 0 1 0 0 0 1 4079.dat
+0 MLCAD BTG harbor
+1 14 346.801 -287.468 -589.9 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG harbor
+1 14 286.801 -287.468 -589.9 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG harbor
+1 14 316.801 -287.468 -659.9 1 0 0 0 1 0 0 0 1 3020.dat
+0 MLCAD BTG harbor
+1 14 316.801 -287.468 -619.9 1 0 0 0 1 0 0 0 1 3709b.dat
+0 MLCAD BTG harbor
+1 14 316.801 -287.468 -589.9 1 0 0 0 1 0 0 0 1 3794a.dat
+0 MLCAD BTG harbor
+1 7 296.801 -295.468 -649.9 1 0 0 0 1 0 0 0 1 3794a.dat
+0 MLCAD BTG harbor
+1 7 296.801 -295.468 -629.9 1 0 0 0 1 0 0 0 1 3794a.dat
+0 MLCAD BTG harbor
+1 7 336.801 -295.468 -629.9 1 0 0 0 1 0 0 0 1 3794a.dat
+0 MLCAD BTG harbor
+1 7 336.801 -295.468 -649.9 1 0 0 0 1 0 0 0 1 3794a.dat
+0 MLCAD BTG harbor
+1 7 316.801 -359.468 -589.9 -1 0 0 0 1 0 0 0 -1 2449.dat
+0 MLCAD BTG harbor
+1 0 306.801 -207.468 -729.9 1 0 0 0 1 0 0 0 1 4592c01.dat
+0 MLCAD BTG harbor
+1 0 326.801 -207.468 -729.9 1 0 0 0 1 0 0 0 1 4592c01.dat
+0 MLCAD BTG harbor
+1 47 316.801 -295.468 -729.9 1 0 0 0 1 0 0 0 1 4872.dat
+0 MLCAD BTG harbor
+1 14 286.801 -279.468 -669.9 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG harbor
+1 14 346.801 -279.468 -669.9 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG harbor
+1 14 316.801 -279.468 -589.9 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG harbor
+1 14 286.801 -279.468 -619.9 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG harbor
+1 14 346.801 -279.468 -619.9 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG harbor
+1 0 316.801 -295.468 -669.9 1 0 0 0 1 0 0 0 1 4625.dat
+0 MLCAD BTG harbor
+1 0 316.801 -303.468 -699.9 1 0 0 0 1 0 0 0 1 2349.dat
+0 MLCAD BTG harbor
+1 47 316.801 -299.468 -683.9 -1 0 0 0 1 0 0 0 -1 2348b.dat
+0 MLCAD BTG harbor
+1 7 316.801 -303.468 -639.9 -1 0 0 0 1 0 0 0 -1 3021.dat
+0 MLCAD BTG harbor
+1 7 316.801 -359.468 -639.9 -1 0 0 0 1 0 0 0 -1 3021.dat
+0 MLCAD BTG harbor
+1 7 296.801 -327.468 -639.9 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG harbor
+1 7 336.801 -327.468 -639.9 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG harbor
+1 7 336.801 -351.468 -639.9 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG harbor
+1 0 316.801 -327.468 -729.9 1 0 0 0 1 0 0 0 1 3004.dat
+0 MLCAD BTG harbor
+1 7 296.801 -351.468 -639.9 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG harbor
+1 7 296.801 -383.468 -639.9 0 0 -1 0 1 0 1 0 0 3700.dat
+0 MLCAD BTG harbor
+1 7 336.801 -383.468 -639.9 0 0 -1 0 1 0 1 0 0 3700.dat
+0 MLCAD BTG harbor
+1 7 316.801 -373.468 -639.9 0 -1 0 0.707107 0 0.707107 -0.707107 0 0.707107 2637.dat
+0 MLCAD BTG harbor
+1 0 326.801 -327.468 -759.9 0 0 -1 0 1 0 1 0 0 3700.dat
+0 MLCAD BTG harbor
+1 0 306.801 -327.468 -759.9 0 0 -1 0 1 0 1 0 0 3700.dat
+0 MLCAD BTG harbor
+1 0 346.801 -303.468 -769.9 0 0 -1 0 1 0 1 0 0 3024.dat
+0 MLCAD BTG harbor
+1 0 286.801 -303.468 -769.9 0 0 -1 0 1 0 1 0 0 3024.dat
+0 MLCAD BTG harbor
+1 0 316.801 -303.468 -749.9 -1 0 0 0 1 0 0 0 -1 3710.dat
+0 MLCAD BTG harbor
+1 0 316.801 -303.468 -769.9 1 0 0 0 1 0 0 0 1 2540.dat
+0 MLCAD BTG harbor
+1 7 316.801 -383.468 -569.9 1 0 0 0 1 0 0 0 1 3040b.dat
+0 MLCAD BTG harbor
+1 0 316.801 -391.468 -569.9 1 0 0 0 1 0 0 0 1 3623.dat
+0 MLCAD BTG harbor
+1 0 356.801 -391.468 -579.9 0 0 1 0 1 0 -1 0 0 3023.dat
+0 MLCAD BTG harbor
+1 0 276.801 -391.468 -579.9 0 0 1 0 1 0 -1 0 0 3023.dat
+0 MLCAD BTG harbor
+1 7 296.801 -391.468 -619.9 0 0 1 0 1 0 -1 0 0 3710.dat
+0 MLCAD BTG harbor
+1 7 336.801 -391.468 -619.9 0 0 1 0 1 0 -1 0 0 3710.dat
+0 MLCAD BTG harbor
+1 0 346.801 -383.468 -569.9 1 0 0 0 1 0 0 0 1 3660.dat
+0 MLCAD BTG harbor
+1 0 286.801 -383.468 -569.9 1 0 0 0 1 0 0 0 1 3660.dat
+0 MLCAD BTG harbor
+1 0 286.801 -415.468 -569.9 1 0 0 0 1 0 0 0 1 3039.dat
+0 MLCAD BTG harbor
+1 0 346.801 -415.468 -569.9 1 0 0 0 1 0 0 0 1 3039.dat
+0 MLCAD BTG harbor
+1 0 316.801 -335.468 -769.9 1 0 0 0 1 0 0 0 1 3069b.dat
+0 MLCAD BTG harbor
+1 0 316.801 -335.468 -739.9 1 0 0 0 1 0 0 0 1 3068b.dat
+0 MLCAD BTG harbor
+1 0 336.801 -317.468 -759.9 1 0 0 0 1 0 0 0 1 4459.dat
+0 MLCAD BTG harbor
+1 0 296.801 -317.468 -759.9 1 0 0 0 1 0 0 0 1 4459.dat
+0 MLCAD BTG harbor
+1 7 316.801 -439.178 -848.171 1 0 0 0 0.529919 0.848048 0 -0.848048 0.529919 2636.dat
+0 MLCAD BTG harbor
+1 7 316.801 -449.776 -831.211 -1 0 0 0 -0.529919 0.848048 0 0.848048 0.529919 2636.dat
+0 MLCAD BTG harbor
+1 7 316.801 -351.191 -781.399 -1 0 0 0 -0.529919 0.848048 0 0.848048 0.529919 3673.dat
+0 MLCAD BTG harbor
+1 7 316.801 -452.957 -844.99 -1 0 0 0 -0.529919 0.848048 0 0.848048 0.529919 3673.dat
+0 MLCAD BTG harbor
+1 7 315.801 -589.065 -942.212 0.999881 0.000621 0.015412 0.000621 0.996756 -0.080482 -0.015412 0.080482 0.996637 2638.dat
+0 MLCAD BTG harbor
+1 0 316.801 -373.468 -639.9 1 0 0 0 1 0 0 0 1 3705.dat
+0 MLCAD BTG harbor
+1 7 280.801 -373.468 -639.9 0 0 -1 0 1 0 1 0 0 4265a.dat
+0 MLCAD BTG harbor
+1 7 352.801 -373.468 -639.9 0 0 1 0 1 0 -1 0 0 4265a.dat
+0 GROUP 184 harbor
+0 MLCAD BTG yellow container with blue car
+1 0 296.901 -8.5 -599.701 1 0 0 0 1 0 0 0 1 3022.dat
+0 MLCAD BTG yellow container with blue car
+1 0 296.901 -8.5 -679.701 1 0 0 0 1 0 0 0 1 4600.dat
+0 MLCAD BTG yellow container with blue car
+1 0 296.901 -0.5 -599.701 1 0 0 0 1 0 0 0 1 4600.dat
+0 MLCAD BTG yellow container with blue car
+1 15 266.901 4.5 -599.701 0 0 1 0 -1 0 1 0 0 4624.dat
+0 MLCAD BTG yellow container with blue car
+1 0 266.901 4.5 -599.701 0 0 1 0 -1 0 1 0 0 3641.dat
+0 MLCAD BTG yellow container with blue car
+1 15 326.901 4.5 -599.701 0 0 -1 0 -1 0 -1 0 0 4624.dat
+0 MLCAD BTG yellow container with blue car
+1 0 326.901 4.5 -599.701 0 0 -1 0 -1 0 -1 0 0 3641.dat
+0 MLCAD BTG yellow container with blue car
+1 15 266.901 -3.5 -679.701 0 0 1 0 -1 0 1 0 0 4624.dat
+0 MLCAD BTG yellow container with blue car
+1 0 266.901 -3.5 -679.701 0 0 1 0 -1 0 1 0 0 4084.dat
+0 MLCAD BTG yellow container with blue car
+1 15 326.901 -3.5 -679.701 0 0 -1 0 -1 0 -1 0 0 4624.dat
+0 MLCAD BTG yellow container with blue car
+1 0 326.901 -3.5 -679.701 0 0 -1 0 -1 0 -1 0 0 4084.dat
+0 MLCAD BTG yellow container with blue car
+1 1 296.901 -16.5 -639.701 0 0 -1 0 1 0 1 0 0 3795.dat
+0 MLCAD BTG yellow container with blue car
+1 1 296.901 -48.5 -609.701 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG yellow container with blue car
+1 1 296.901 -40.5 -629.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG yellow container with blue car
+1 0 306.901 -40.5 -609.701 -1 0 0 0 1 0 0 0 -1 3062b.dat
+0 MLCAD BTG yellow container with blue car
+1 0 286.901 -40.5 -609.701 -1 0 0 0 1 0 0 0 -1 3062b.dat
+0 MLCAD BTG yellow container with blue car
+1 1 306.901 -40.5 -589.701 -1 0 0 0 1 0 0 0 -1 4070.dat
+0 MLCAD BTG yellow container with blue car
+1 46 306.901 -30.5 -575.701 -1 0 0 0 0 -1 0 -1 0 4073.dat
+0 MLCAD BTG yellow container with blue car
+1 1 286.901 -40.5 -589.701 -1 0 0 0 1 0 0 0 -1 4070.dat
+0 MLCAD BTG yellow container with blue car
+1 46 286.901 -30.5 -575.701 -1 0 0 0 0 -1 0 -1 0 4073.dat
+0 MLCAD BTG yellow container with blue car
+1 14 266.901 34 -709.701 1 0 0 0 1 0 0 0 1 2420.dat
+0 MLCAD BTG yellow container with blue car
+1 14 326.901 34 -709.701 0 0 -1 0 1 0 1 0 0 2420.dat
+0 MLCAD BTG yellow container with blue car
+1 14 326.901 34 -569.701 -1 0 0 0 1 0 0 0 -1 2420.dat
+0 MLCAD BTG yellow container with blue car
+1 14 266.901 34 -569.701 0 0 1 0 1 0 -1 0 0 2420.dat
+0 MLCAD BTG yellow container with blue car
+1 14 326.901 26 -639.701 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG yellow container with blue car
+1 14 266.901 26 -639.701 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG yellow container with blue car
+1 14 326.901 -54 -639.701 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG yellow container with blue car
+1 14 266.901 -54 -639.701 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG yellow container with blue car
+1 14 296.901 26 -709.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG yellow container with blue car
+1 14 296.901 -46 -709.701 -1 0 0 0 1 0 0 0 -1 4215a.dat
+0 MLCAD BTG yellow container with blue car
+1 15 296.901 -5 -702.701 -1 0 0 0 0 -1 0 -1 0 4079.dat
+0 MLCAD BTG yellow container with blue car
+1 14 296.901 -46 -569.701 1 0 0 0 1 0 0 0 1 4215a.dat
+0 MLCAD BTG yellow container with blue car
+1 14 296.901 26 -569.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG yellow container with blue car
+1 1 326.901 18 -639.701 0 0 1 0 1 0 -1 0 0 3829c01.dat
+0 MLCAD BTG yellow container with blue car
+1 14 296.901 -62 -639.701 1 0 0 0 1 0 0 0 1 3020.dat
+0 MLCAD BTG yellow container with blue car
+1 4 296.901 -70 -639.701 1 0 0 0 1 0 0 0 1 2376.dat
+0 GROUP 36 yellow container with blue car
+0 MLCAD BTG white container with bike
+1 7 526.901 152 -736.701 0 0 1 0 1 0 -1 0 0 2420.dat
+0 MLCAD BTG white container with bike
+1 7 526.901 152 -796.701 1 0 0 0 1 0 0 0 1 2420.dat
+0 MLCAD BTG white container with bike
+1 7 666.901 152 -796.701 0 0 -1 0 1 0 1 0 0 2420.dat
+0 MLCAD BTG white container with bike
+1 7 666.901 152 -736.701 -1 0 0 0 1 0 0 0 -1 2420.dat
+0 MLCAD BTG white container with bike
+1 7 596.901 144 -796.701 -1 0 0 0 1 0 0 0 -1 3460.dat
+0 MLCAD BTG white container with bike
+1 7 596.901 144 -736.701 -1 0 0 0 1 0 0 0 -1 3460.dat
+0 MLCAD BTG white container with bike
+1 15 596.901 64 -796.701 -1 0 0 0 1 0 0 0 -1 3460.dat
+0 MLCAD BTG white container with bike
+1 15 596.901 64 -736.701 -1 0 0 0 1 0 0 0 -1 3460.dat
+0 MLCAD BTG white container with bike
+1 15 596.901 56 -766.701 0 0 1 0 1 0 -1 0 0 3001.dat
+0 MLCAD BTG white container with bike
+1 7 526.901 144 -766.701 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG white container with bike
+1 7 666.901 144 -766.701 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG white container with bike
+1 7 596.901 152 -766.701 0 0 -1 0 1 0 1 0 0 3020.dat
+0 MLCAD BTG white container with bike
+1 7 596.901 144 -756.701 -1 0 0 0 1 0 0 0 -1 2431.dat
+0 MLCAD BTG white container with bike
+1 7 596.901 144 -776.701 -1 0 0 0 1 0 0 0 -1 2431.dat
+0 MLCAD BTG white container with bike
+1 15 596.901 112 -736.701 -1 0 0 0 1 0 0 0 -1 2432.dat
+0 MLCAD BTG white container with bike
+1 15 596.901 112 -796.701 1 0 0 0 1 0 0 0 1 2432.dat
+0 MLCAD BTG white container with bike
+1 15 526.901 72 -766.701 0 0 -1 0 1 0 1 0 0 4215a.dat
+0 MLCAD BTG white container with bike
+1 15 666.901 72 -766.701 0 0 1 0 1 0 -1 0 0 4215a.dat
+0 MLCAD BTG white container with bike
+1 3 556.901 104 -766.701 0 0 -1 0 1 0 1 0 0 73429.dat
+0 MLCAD BTG white container with bike
+1 36 528.901 114 -766.701 0 1 0 0 0 1 1 0 0 3024.dat
+0 MLCAD BTG white container with bike
+1 46 649.901 90 -766.701 0 -1 0 0 0 -1 1 0 0 6141.dat
+0 GROUP 21 white container with bike
+0 MLCAD BTG truck
+1 0 300.901 90 -972.701 1 0 0 0 1 0 0 0 1 4600.dat
+0 MLCAD BTG truck
+1 15 330.901 95 -972.701 0 0 -1 0 1 0 1 0 0 4624.dat
+0 MLCAD BTG truck
+1 0 330.901 95 -972.701 0 0 -1 0 1 0 1 0 0 4084.dat
+0 MLCAD BTG truck
+1 15 330.901 95 -832.701 0 0 -1 0 1 0 1 0 0 4624.dat
+0 MLCAD BTG truck
+1 0 330.901 95 -832.701 0 0 -1 0 1 0 1 0 0 4084.dat
+0 MLCAD BTG truck
+1 15 270.901 95 -832.701 0 0 1 0 1 0 -1 0 0 4624.dat
+0 MLCAD BTG truck
+1 0 270.901 95 -832.701 0 0 1 0 1 0 -1 0 0 4084.dat
+0 MLCAD BTG truck
+1 15 270.901 95 -972.701 0 0 1 0 1 0 -1 0 0 4624.dat
+0 MLCAD BTG truck
+1 0 270.901 95 -972.701 0 0 1 0 1 0 -1 0 0 4084.dat
+0 MLCAD BTG truck
+1 0 300.901 90 -832.701 1 0 0 0 1 0 0 0 1 4600.dat
+0 MLCAD BTG truck
+1 0 300.901 90 -892.701 0 0 1 0 1 0 -1 0 0 3709b.dat
+0 MLCAD BTG truck
+1 0 300.901 82 -892.701 0 0 1 0 1 0 -1 0 0 3738.dat
+0 MLCAD BTG truck
+1 0 300.901 82 -982.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG truck
+1 0 300.901 74 -952.701 0 0 1 0 1 0 -1 0 0 3020.dat
+0 MLCAD BTG truck
+1 7 300.901 74 -832.701 0 0 1 0 1 0 -1 0 0 4032a.dat
+0 MLCAD BTG truck
+1 7 300.901 74 -902.701 -1 0 0 0 1 0 0 0 -1 2412b.dat
+0 MLCAD BTG truck
+1 0 290.901 74 -1002.7 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG truck
+1 0 310.901 74 -1002.7 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG truck
+1 15 290.901 42 -1002.7 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG truck
+1 15 310.901 42 -1002.7 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG truck
+1 7 300.901 66 -832.701 1 0 0 0 1 0 0 0 1 4150.dat
+0 MLCAD BTG truck
+1 1 300.901 58 -972.701 1 0 0 0 1 0 0 0 1 4211.dat
+0 MLCAD BTG truck
+1 1 270.901 58 -922.701 0 0 1 0 1 0 -1 0 0 2420.dat
+0 MLCAD BTG truck
+1 1 330.901 58 -922.701 -1 0 0 0 1 0 0 0 -1 2420.dat
+0 MLCAD BTG truck
+1 46 270.901 58 -1002.7 -1 0 0 0 1 0 0 0 -1 3024.dat
+0 MLCAD BTG truck
+1 46 330.901 58 -1002.7 -1 0 0 0 1 0 0 0 -1 3024.dat
+0 MLCAD BTG truck
+1 4 300.901 58 -982.701 1 0 0 0 1 0 0 0 1 3829c01.dat
+0 MLCAD BTG truck
+1 15 270.901 34 -1002.7 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG truck
+1 15 330.901 34 -1002.7 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG truck
+1 15 300.901 34 -922.701 1 0 0 0 1 0 0 0 1 3010.dat
+0 MLCAD BTG truck
+1 1 300.901 -14 -922.701 1 0 0 0 1 0 0 0 1 4214.dat
+0 MLCAD BTG truck
+1 1 300.901 -22 -952.701 1 0 0 0 1 0 0 0 1 4213.dat
+0 MLCAD BTG truck
+1 41 300.901 -14 -982.701 1 0 0 0 1 0 0 0 1 3823.dat
+0 MLCAD BTG truck
+1 15 300.901 34 -1002.7 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG truck
+1 15 270.901 34 -982.701 1 0 0 0 1 0 0 0 1 3821.dat
+0 MLCAD BTG truck
+1 15 330.901 34 -982.701 1 0 0 0 1 0 0 0 1 3822.dat
+0 MLCAD BTG truck
+1 1 300.901 52 -1016.7 1 0 0 0 0 -1 0 1 0 2412b.dat
+0 MLCAD BTG truck
+1 7 300.901 84 -1016.7 1 0 0 0 0 -1 0 1 0 2431.dat
+0 MLCAD BTG truck
+1 7 300.901 98 -922.701 -1 0 0 0 1 0 0 0 -1 3839b.dat
+0 GROUP 39 truck
+0 MLCAD BTG bicycle
+1 4 456.901 68.5 -1295.2 -1 0 0 0 1 0 0 0 -1 4719c01.dat
+0 MLCAD BTG bicycle
+1 46 456.901 64.5 -1205.2 -1 0 0 0 0 -1 0 -1 0 4073.dat
+0 MLCAD BTG bicycle
+1 36 456.901 60.5 -1295.2 -1 0 0 0 1 0 0 0 -1 4073.dat
+0 GROUP 3 bicycle
+0 MLCAD BTG trailer
+1 15 296.901 50 -839.701 -1 0 0 0 1 0 0 0 -1 3031.dat
+0 MLCAD BTG trailer
+1 15 296.901 50 -679.701 0 0 -1 0 1 0 1 0 0 3029.dat
+0 MLCAD BTG trailer
+1 0 296.901 58 -629.701 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG trailer
+1 0 296.901 58 -719.701 0 0 -1 0 1 0 1 0 0 3795.dat
+0 MLCAD BTG trailer
+1 0 296.901 58 -819.701 0 0 -1 0 1 0 1 0 0 3491.dat
+0 MLCAD BTG trailer
+1 7 296.901 80 -871.701 0 0 -1 -1 0 0 0 1 0 2736.dat
+0 MLCAD BTG trailer
+1 1 266.901 42 -799.701 0 0 -1 0 1 0 1 0 0 4162.dat
+0 MLCAD BTG trailer
+1 1 266.901 42 -639.701 0 0 -1 0 1 0 1 0 0 4162.dat
+0 MLCAD BTG trailer
+1 1 326.901 42 -639.701 0 0 -1 0 1 0 1 0 0 4162.dat
+0 MLCAD BTG trailer
+1 1 326.901 42 -799.701 0 0 -1 0 1 0 1 0 0 4162.dat
+0 MLCAD BTG trailer
+1 1 296.901 42 -589.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG trailer
+1 1 296.901 42 -689.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG trailer
+1 1 296.901 42 -749.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG trailer
+1 1 296.901 42 -849.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG trailer
+1 7 296.901 34 -589.701 -1 0 0 0 1 0 0 0 -1 3069b.dat
+0 MLCAD BTG trailer
+1 7 296.901 34 -689.701 -1 0 0 0 1 0 0 0 -1 3069b.dat
+0 MLCAD BTG trailer
+1 7 296.901 34 -749.701 -1 0 0 0 1 0 0 0 -1 3069b.dat
+0 MLCAD BTG trailer
+1 7 296.901 34 -849.701 -1 0 0 0 1 0 0 0 -1 3069b.dat
+0 MLCAD BTG trailer
+1 0 296.901 90 -639.701 -1 0 0 0 1 0 0 0 -1 4600.dat
+0 MLCAD BTG trailer
+1 0 296.901 66 -629.701 -1 0 0 0 1 0 0 0 -1 3747a.dat
+0 MLCAD BTG trailer
+1 0 296.901 66 -649.701 1 0 0 0 1 0 0 0 1 3747a.dat
+0 MLCAD BTG trailer
+1 0 296.901 66 -749.701 1 0 0 0 1 0 0 0 1 2452.dat
+0 MLCAD BTG trailer
+1 0 296.901 66 -739.701 0 0 1 0 1 0 -1 0 0 4531.dat
+0 MLCAD BTG trailer
+1 0 296.901 82 -729.701 -1 0 0 0 1 0 0 0 -1 4081b.dat
+0 MLCAD BTG trailer
+1 7 284.901 82 -709.701 0 1 0 1 0 0 0 0 -1 4073.dat
+0 MLCAD BTG trailer
+1 7 308.901 82 -709.701 0 -1 0 -1 0 0 0 0 -1 4073.dat
+0 MLCAD BTG trailer
+1 15 296.901 58 -589.701 -1 0 0 0 1 0 0 0 -1 2436a.dat
+0 MLCAD BTG trailer
+1 9 296.901 68 -567.701 -1 0 0 0 0 -1 0 -1 0 3069b.dat
+0 MLCAD BTG trailer
+1 36 266.901 68 -567.701 -1 0 0 0 0 -1 0 -1 0 3070b.dat
+0 MLCAD BTG trailer
+1 36 326.901 68 -567.701 -1 0 0 0 0 -1 0 -1 0 3070b.dat
+0 MLCAD BTG trailer
+1 15 266.901 95 -639.701 0 0 1 0 1 0 -1 0 0 4624.dat
+0 MLCAD BTG trailer
+1 0 266.901 95 -639.701 0 0 1 0 1 0 -1 0 0 4084.dat
+0 MLCAD BTG trailer
+1 15 326.901 95 -639.701 0 0 -1 0 1 0 1 0 0 4624.dat
+0 MLCAD BTG trailer
+1 0 326.901 95 -639.701 0 0 -1 0 1 0 1 0 0 4084.dat
+0 GROUP 34 trailer
+0 MLCAD BTG cargoship
+1 4 596.901 161 -1016.7 1 0 0 0 1 0 0 0 1 2621.dat
+0 MLCAD BTG cargoship
+1 0 596.901 169 -1066.7 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 0 536.901 169 -926.701 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 0 536.901 169 -806.701 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 0 536.901 169 -686.701 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 0 536.901 169 -566.701 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 0 656.901 169 -926.701 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 0 656.901 169 -806.701 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 0 656.901 169 -686.701 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 0 656.901 169 -566.701 1 0 0 0 1 0 0 0 1 2654.dat
+0 MLCAD BTG cargoship
+1 14 646.901 137 -976.701 1 0 0 0 1 0 0 0 1 3062b.dat
+0 MLCAD BTG cargoship
+1 14 646.901 113 -976.701 0 0 -1 0 1 0 1 0 0 4599a.dat
+0 MLCAD BTG cargoship
+1 4 596.901 161 -866.701 1 0 0 0 1 0 0 0 1 3033.dat
+0 MLCAD BTG cargoship
+1 4 596.901 153 -946.701 0 0 -1 0 1 0 1 0 0 2376.dat
+0 MLCAD BTG cargoship
+1 4 596.901 161 -746.701 1 0 0 0 1 0 0 0 1 3033.dat
+0 MLCAD BTG cargoship
+1 4 596.901 161 -626.701 1 0 0 0 1 0 0 0 1 3033.dat
+0 MLCAD BTG cargoship
+1 4 596.901 161 -546.701 1 0 0 0 1 0 0 0 1 3832.dat
+0 MLCAD BTG cargoship
+1 1 506.901 137 -886.701 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG cargoship
+1 1 506.901 137 -936.701 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG cargoship
+1 1 506.901 137 -786.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 506.901 137 -626.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 596.901 113 -516.701 -1 0 0 0 1 0 0 0 -1 3008.dat
+0 MLCAD BTG cargoship
+1 1 686.901 113 -586.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 7 686.901 105 -536.701 0 0 -1 0 1 0 1 0 0 4073.dat
+0 MLCAD BTG cargoship
+1 7 686.901 105 -556.701 0 0 -1 0 1 0 1 0 0 4073.dat
+0 MLCAD BTG cargoship
+1 7 686.901 105 -896.701 0 0 -1 0 1 0 1 0 0 4073.dat
+0 MLCAD BTG cargoship
+1 7 686.901 105 -916.701 0 0 -1 0 1 0 1 0 0 4073.dat
+0 MLCAD BTG cargoship
+1 7 506.901 105 -896.701 0 0 -1 0 1 0 1 0 0 4073.dat
+0 MLCAD BTG cargoship
+1 7 506.901 105 -916.701 0 0 -1 0 1 0 1 0 0 4073.dat
+0 MLCAD BTG cargoship
+1 1 686.901 97 -546.701 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG cargoship
+1 1 686.901 89 -546.701 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG cargoship
+1 7 506.901 105 -536.701 0 0 -1 0 1 0 1 0 0 4073.dat
+0 MLCAD BTG cargoship
+1 7 506.901 105 -556.701 0 0 -1 0 1 0 1 0 0 4073.dat
+0 MLCAD BTG cargoship
+1 1 506.901 97 -546.701 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG cargoship
+1 1 506.901 89 -546.701 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG cargoship
+1 1 686.901 113 -746.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 686.901 113 -906.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 506.901 113 -586.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 506.901 113 -746.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 506.901 113 -906.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 686.901 137 -886.701 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG cargoship
+1 1 686.901 137 -936.701 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG cargoship
+1 1 686.901 137 -786.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 686.901 137 -626.701 0 0 -1 0 1 0 1 0 0 3008.dat
+0 MLCAD BTG cargoship
+1 1 516.901 137 -536.701 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 MLCAD BTG cargoship
+1 1 556.901 137 -536.701 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 MLCAD BTG cargoship
+1 1 596.901 137 -536.701 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 MLCAD BTG cargoship
+1 1 636.901 137 -536.701 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 MLCAD BTG cargoship
+1 1 676.901 137 -536.701 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 MLCAD BTG cargoship
+1 15 546.901 137 -566.701 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG cargoship
+1 15 546.901 137 -616.701 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG cargoship
+1 15 646.901 137 -566.701 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG cargoship
+1 15 646.901 137 -616.701 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG cargoship
+1 15 546.901 113 -636.701 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG cargoship
+1 15 646.901 113 -636.701 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG cargoship
+1 15 546.901 113 -566.701 0 0 1 0 1 0 -1 0 0 3010.dat
+0 MLCAD BTG cargoship
+1 15 546.901 89 -606.701 0 0 1 0 1 0 -1 0 0 3009.dat
+0 MLCAD BTG cargoship
+1 4 596.901 81 -606.701 0 0 1 0 1 0 -1 0 0 3958.dat
+0 MLCAD BTG cargoship
+1 15 576.901 57 -656.701 1 0 0 0 1 0 0 0 1 3660.dat
+0 MLCAD BTG cargoship
+1 0 596.901 57 -556.701 1 0 0 0 1 0 0 0 1 3004.dat
+0 MLCAD BTG cargoship
+1 0 596.901 33 -536.701 0 0 -1 0 1 0 1 0 0 3002.dat
+0 MLCAD BTG cargoship
+1 15 546.901 57 -566.701 0 0 -1 0 1 0 1 0 0 3700.dat
+0 MLCAD BTG cargoship
+1 15 646.901 57 -566.701 0 0 -1 0 1 0 1 0 0 3700.dat
+0 MLCAD BTG cargoship
+1 15 616.901 57 -656.701 1 0 0 0 1 0 0 0 1 3660.dat
+0 MLCAD BTG cargoship
+1 15 646.901 57 -626.701 0 0 -1 0 1 0 1 0 0 3660.dat
+0 MLCAD BTG cargoship
+1 15 546.901 57 -626.701 0 0 1 0 1 0 -1 0 0 3660.dat
+0 MLCAD BTG cargoship
+1 15 646.901 33 -566.701 0 0 -1 0 1 0 1 0 0 3660.dat
+0 MLCAD BTG cargoship
+1 15 546.901 33 -566.701 0 0 1 0 1 0 -1 0 0 3660.dat
+0 MLCAD BTG cargoship
+1 15 526.901 33 -606.701 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG cargoship
+1 15 526.901 33 -656.701 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG cargoship
+1 15 596.901 33 -676.701 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG cargoship
+1 15 666.901 33 -606.701 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG cargoship
+1 15 666.901 33 -656.701 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG cargoship
+1 4 596.901 49 -656.701 1 0 0 0 1 0 0 0 1 3829c01.dat
+0 MLCAD BTG cargoship
+1 15 556.901 49 -656.701 1 0 0 0 1 0 0 0 1 3069bp08.dat
+0 MLCAD BTG cargoship
+1 15 636.901 49 -656.701 -1 0 0 0 1 0 0 0 -1 3069bp52.dat
+0 MLCAD BTG cargoship
+1 15 546.901 57 -596.701 0 0 1 0 1 0 -1 0 0 3665.dat
+0 MLCAD BTG cargoship
+1 15 646.901 57 -596.701 0 0 -1 0 1 0 1 0 0 3665.dat
+0 MLCAD BTG cargoship
+1 15 556.901 41 -536.701 -1 0 0 0 1 0 0 0 -1 3684.dat
+0 MLCAD BTG cargoship
+1 0 596.901 -95 -536.701 -1 0 0 0 1 0 0 0 -1 3684.dat
+0 MLCAD BTG cargoship
+1 15 666.901 -23 -576.701 0 0 -1 0 1 0 1 0 0 3665.dat
+0 MLCAD BTG cargoship
+1 15 526.901 -23 -576.701 0 0 1 0 1 0 -1 0 0 3665.dat
+0 MLCAD BTG cargoship
+1 15 556.901 33 -536.701 -1 0 0 0 1 0 0 0 -1 2540.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -71 -676.701 1 0 0 0 1 0 0 0 1 2540.dat
+0 MLCAD BTG cargoship
+1 7 596.901 -66 -701.701 0 0 -1 0.866025 0.5 0 0.5 -0.866025 0 2555.dat
+0 MLCAD BTG cargoship
+1 46 596.901 -62 -708.629 0 0 -1 0.866025 0.5 0 0.5 -0.866025 0 4073.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -79 -666.701 1 0 0 0 1 0 0 0 1 4289.dat
+0 MLCAD BTG cargoship
+1 15 576.901 -127 -656.701 1 0 0 0 1 0 0 0 1 4592c01.dat
+0 MLCAD BTG cargoship
+1 15 616.901 -127 -656.701 1 0 0 0 1 0 0 0 1 4592c01.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -71 -656.701 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG cargoship
+1 15 636.901 33 -536.701 -1 0 0 0 1 0 0 0 -1 2540.dat
+0 MLCAD BTG cargoship
+1 0 596.901 25 -516.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG cargoship
+1 0 596.901 17 -546.701 0 0 1 0 1 0 -1 0 0 3020.dat
+0 MLCAD BTG cargoship
+1 15 596.901 9 -546.701 0 0 1 0 1 0 -1 0 0 3020.dat
+0 MLCAD BTG cargoship
+1 0 596.901 1 -576.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG cargoship
+1 0 596.901 -31 -556.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG cargoship
+1 0 596.901 -39 -556.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG cargoship
+1 0 586.901 -47 -556.701 0 0 1 0 1 0 -1 0 0 4085b.dat
+0 MLCAD BTG cargoship
+1 0 596.901 -71 -556.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 0 596.901 -95 -556.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 0 596.901 -103 -546.701 1 0 0 0 1 0 0 0 1 4859.dat
+0 MLCAD BTG cargoship
+1 0 606.901 -47 -556.701 0 0 -1 0 1 0 1 0 0 4085b.dat
+0 MLCAD BTG cargoship
+1 4 596.901 -15 -536.701 0 0 1 0 1 0 -1 0 0 3002.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -23 -576.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -31 -576.701 -1 0 0 0 1 0 0 0 -1 3460.dat
+0 MLCAD BTG cargoship
+1 34 506.901 -31 -576.701 -1 0 0 0 1 0 0 0 -1 4073.dat
+0 MLCAD BTG cargoship
+1 36 686.901 -31 -576.701 -1 0 0 0 1 0 0 0 -1 4073.dat
+0 MLCAD BTG cargoship
+1 15 526.901 -39 -576.701 -1 0 0 0 1 0 0 0 -1 3623.dat
+0 MLCAD BTG cargoship
+1 15 666.901 -39 -576.701 -1 0 0 0 1 0 0 0 -1 3623.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -39 -646.701 -1 0 0 0 1 0 0 0 -1 3036.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -39 -576.701 1 0 0 0 1 0 0 0 1 4625.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -47 -606.701 1 0 0 0 1 0 0 0 1 4213.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -63 -656.701 1 0 0 0 1 0 0 0 1 3010.dat
+0 MLCAD BTG cargoship
+1 0 586.901 -55 -626.701 0 0 -1 0 1 0 1 0 0 30244.dat
+0 MLCAD BTG cargoship
+1 4 596.901 -111 -556.701 1 0 0 0 1 0 0 0 1 30244.dat
+0 MLCAD BTG cargoship
+1 4 586.901 -127 -536.701 1 0 0 0 1 0 0 0 1 4589.dat
+0 MLCAD BTG cargoship
+1 4 606.901 -127 -536.701 1 0 0 0 1 0 0 0 1 4589.dat
+0 MLCAD BTG cargoship
+1 0 606.901 -55 -626.701 0 0 -1 0 1 0 1 0 0 30244.dat
+0 MLCAD BTG cargoship
+1 15 646.901 -63 -676.701 1 0 0 0 1 0 0 0 1 3045.dat
+0 MLCAD BTG cargoship
+1 15 546.901 -63 -676.701 0 0 1 0 1 0 -1 0 0 3045.dat
+0 MLCAD BTG cargoship
+1 15 546.901 -63 -626.701 0 0 1 0 1 0 -1 0 0 3037.dat
+0 MLCAD BTG cargoship
+1 15 646.901 -63 -626.701 0 0 -1 0 1 0 1 0 0 3037.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -63 -676.701 1 0 0 0 1 0 0 0 1 3037.dat
+0 MLCAD BTG cargoship
+1 15 596.901 25 -536.701 -1 0 0 0 1 0 0 0 -1 3666.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -23 -536.701 0 0 1 0 1 0 -1 0 0 3021.dat
+0 MLCAD BTG cargoship
+1 4 566.901 -31 -556.701 0 0 1 0 1 0 -1 0 0 2569.dat
+0 MLCAD BTG cargoship
+1 4 626.901 -31 -556.701 0 0 1 0 1 0 -1 0 0 2569.dat
+0 MLCAD BTG cargoship
+1 15 596.901 25 -566.701 -1 0 0 0 1 0 0 0 -1 3034.dat
+0 MLCAD BTG cargoship
+1 15 526.901 1 -576.701 -1 0 0 0 1 0 0 0 -1 3040b.dat
+0 MLCAD BTG cargoship
+1 15 526.901 17 -606.701 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG cargoship
+1 15 666.901 17 -606.701 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG cargoship
+1 15 666.901 17 -656.701 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG cargoship
+1 15 526.901 17 -656.701 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG cargoship
+1 15 596.901 17 -676.701 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG cargoship
+1 15 556.901 -23 -576.701 -1 0 0 0 1 0 0 0 -1 2377.dat
+0 MLCAD BTG cargoship
+1 41 556.901 -23 -576.701 -1 0 0 0 1 0 0 0 -1 4862.dat
+0 MLCAD BTG cargoship
+1 15 636.901 -23 -576.701 -1 0 0 0 1 0 0 0 -1 2377.dat
+0 MLCAD BTG cargoship
+1 41 636.901 -23 -576.701 -1 0 0 0 1 0 0 0 -1 4862.dat
+0 MLCAD BTG cargoship
+1 15 526.901 25 -626.701 0 0 1 0 1 0 -1 0 0 2431.dat
+0 MLCAD BTG cargoship
+1 15 666.901 25 -626.701 0 0 1 0 1 0 -1 0 0 2431.dat
+0 MLCAD BTG cargoship
+1 15 596.901 25 -676.701 -1 0 0 0 1 0 0 0 -1 4162.dat
+0 MLCAD BTG cargoship
+1 15 666.901 1 -576.701 -1 0 0 0 1 0 0 0 -1 3040b.dat
+0 MLCAD BTG cargoship
+1 15 596.901 81 -1046.7 -1 0 0 0 1 0 0 0 -1 3403c01.dat
+0 MLCAD BTG cargoship
+1 15 596.901 1 -1026.7 -1 0 0 0 1 0 0 0 -1 4318.dat
+0 MLCAD BTG cargoship
+1 7 596.901 -167 -656.701 -1 0 0 0 1 0 0 0 -1 4599a.dat
+0 MLCAD BTG cargoship
+1 46 596.901 -175 -656.701 -1 0 0 0 1 0 0 0 -1 4073.dat
+0 MLCAD BTG cargoship
+1 7 596.901 -163 -676.701 -1 0 0 0 0 -1 0 -1 0 3794a.dat
+0 MLCAD BTG cargoship
+1 15 596.901 -7 -1002.7 -1 0 0 0 -0.707107 -0.707107 0 -0.707107 0.707107 2375.dat
+0 MLCAD BTG cargoship
+1 7 596.901 57 -1066.7 -1 0 0 0 1 0 0 0 -1 2584.dat
+0 MLCAD BTG cargoship
+1 0 596.901 51 -1066.7 -1 0 0 0 1 0 0 0 -1 2585.dat
+0 MLCAD BTG cargoship
+1 7 596.901 73 -1116.7 1 0 0 0 1 0 0 0 1 2432.dat
+0 MLCAD BTG cargoship
+1 15 636.901 41 -536.701 -1 0 0 0 1 0 0 0 -1 3684.dat
+0 MLCAD BTG cargoship
+1 15 646.901 89 -606.701 0 0 1 0 1 0 -1 0 0 3009.dat
+0 MLCAD BTG cargoship
+1 15 646.901 113 -566.701 0 0 1 0 1 0 -1 0 0 3010.dat
+0 MLCAD BTG cargoship
+1 1 596.901 137 -996.701 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG cargoship
+1 14 596.901 113 -1076.7 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 0 596.901 89 -516.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 1 516.901 89 -516.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 1 676.901 89 -516.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 1 686.901 89 -576.701 1 0 0 0 1 0 0 0 1 4286.dat
+0 MLCAD BTG cargoship
+1 1 506.901 89 -576.701 1 0 0 0 1 0 0 0 1 4286.dat
+0 MLCAD BTG cargoship
+1 1 506.901 89 -996.701 -1 0 0 0 1 0 0 0 -1 4286.dat
+0 MLCAD BTG cargoship
+1 1 686.901 89 -996.701 -1 0 0 0 1 0 0 0 -1 4286.dat
+0 MLCAD BTG cargoship
+1 0 596.901 65 -516.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 14 596.901 113 -1036.7 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG cargoship
+1 1 636.901 113 -996.701 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG cargoship
+1 1 596.901 129 -996.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG cargoship
+1 1 596.901 121 -996.701 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG cargoship
+1 0 596.901 113 -996.701 -1 0 0 0 1 0 0 0 -1 4175.dat
+0 MLCAD BTG cargoship
+1 0 596.901 57 -516.701 -1 0 0 0 1 0 0 0 -1 4175.dat
+0 MLCAD BTG cargoship
+1 1 546.901 113 -996.701 -1 0 0 0 1 0 0 0 -1 4070.dat
+0 MLCAD BTG cargoship
+1 1 566.901 113 -996.701 -1 0 0 0 1 0 0 0 -1 4070.dat
+0 MLCAD BTG cargoship
+1 15 596.901 137 -656.701 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG cargoship
+1 15 596.901 89 -656.701 1 0 0 0 1 0 0 0 1 4863.dat
+0 MLCAD BTG cargoship
+1 41 576.901 89 -656.701 1 0 0 0 1 0 0 0 1 4862.dat
+0 MLCAD BTG cargoship
+1 41 616.901 89 -656.701 1 0 0 0 1 0 0 0 1 4862.dat
+0 MLCAD BTG cargoship
+1 15 526.901 -31 -626.701 0 0 1 0 1 0 -1 0 0 4863.dat
+0 MLCAD BTG cargoship
+1 41 526.901 -31 -606.701 0 0 1 0 1 0 -1 0 0 4862.dat
+0 MLCAD BTG cargoship
+1 41 526.901 -31 -646.701 0 0 1 0 1 0 -1 0 0 4862.dat
+0 MLCAD BTG cargoship
+1 15 666.901 -31 -626.701 0 0 -1 0 1 0 1 0 0 4863.dat
+0 MLCAD BTG cargoship
+1 41 666.901 -31 -646.701 0 0 -1 0 1 0 1 0 0 4862.dat
+0 MLCAD BTG cargoship
+1 41 666.901 -31 -606.701 0 0 -1 0 1 0 1 0 0 4862.dat
+0 MLCAD BTG cargoship
+1 15 596.901 9 -676.701 1 0 0 0 1 0 0 0 1 2634.dat
+0 MLCAD BTG cargoship
+1 1 596.901 137 -1046.7 1 0 0 0 1 0 0 0 1 2622.dat
+0 MLCAD BTG cargoship
+1 1 596.901 113 -1066.7 1 0 0 0 1 0 0 0 1 2622.dat
+0 MLCAD BTG cargoship
+1 1 596.901 105 -1086.7 1 0 0 0 1 0 0 0 1 2623.dat
+0 MLCAD BTG cargoship
+1 0 546.901 123 -982.701 1 0 0 0 0 1 0 -1 0 4592.dat
+0 MLCAD BTG cargoship
+1 7 546.901 123 -980.701 1 0 0 0 1 0 0 0 1 4593.dat
+0 MLCAD BTG cargoship
+1 0 566.901 123 -982.701 1 0 0 0 0 1 0 -1 0 4592.dat
+0 MLCAD BTG cargoship
+1 7 566.901 123 -980.701 1 0 0 0 1 0 0 0 1 4593.dat
+0 MLCAD BTG cargoship
+1 15 646.901 57 -656.701 1 0 0 0 1 0 0 0 1 3676.dat
+0 MLCAD BTG cargoship
+1 15 546.901 57 -656.701 0 0 1 0 1 0 -1 0 0 3676.dat
+0 MLCAD BTG cargoship
+1 1 556.901 105 -1016.7 0 0 1 0 1 0 -1 0 0 3021.dat
+0 MLCAD BTG cargoship
+1 1 596.901 105 -1016.7 0 0 1 0 1 0 -1 0 0 3021.dat
+0 MLCAD BTG cargoship
+1 1 636.901 105 -1016.7 0 0 1 0 1 0 -1 0 0 3021.dat
+0 MLCAD BTG cargoship
+1 7 666.901 105 -996.701 1 0 0 0 1 0 0 0 1 2555.dat
+0 MLCAD BTG cargoship
+1 7 526.901 105 -996.701 1 0 0 0 1 0 0 0 1 2555.dat
+0 GROUP 197 cargoship
+0 MLCAD BTG minifig 1
+1 15 745.901 25 -1159.7 0 0 -1 0 1 0 1 0 0 3624.dat
+0 MLCAD BTG minifig 1
+1 14 745.901 25 -1159.7 0 0 -1 0 1 0 1 0 0 3626bp01.dat
+0 MLCAD BTG minifig 1
+1 0 745.901 49 -1159.7 0 0 -1 0 1 0 1 0 0 973p05.dat
+0 MLCAD BTG minifig 1
+1 0 745.901 81 -1159.7 0 0 -1 0 1 0 1 0 0 3815.dat
+0 MLCAD BTG minifig 1
+1 0 745.901 58 -1175.25 0 0 -1 0.17 0.985 0 0.985 -0.17 0 3818.dat
+0 MLCAD BTG minifig 1
+1 0 745.901 58 -1144.15 0 0 -1 -0.17 0.985 0 0.985 0.17 0 3819.dat
+0 MLCAD BTG minifig 1
+1 14 756.221 75.596 -1183.56 0 -0.707 -0.707 0.17 0.696395 -0.696395 0.985 -0.12019 0.12019 3820.dat
+0 MLCAD BTG minifig 1
+1 14 756.221 75.596 -1135.84 0 -0.707 -0.707 -0.17 0.696395 -0.696395 0.985 0.12019 -0.12019 3820.dat
+0 MLCAD BTG minifig 1
+1 0 745.901 93 -1159.7 0 0 -1 0 1 0 1 0 0 3816.dat
+0 MLCAD BTG minifig 1
+1 0 745.901 93 -1159.7 0 0 -1 0 1 0 1 0 0 3817.dat
+0 GROUP 10 minifig 1
+0 MLCAD BTG minifig 2
+1 15 745.901 22 -1259.7 0 0 -1 0 1 0 1 0 0 3833.dat
+0 MLCAD BTG minifig 2
+1 14 745.901 22 -1259.7 0 0 -1 0 1 0 1 0 0 3626bp01.dat
+0 MLCAD BTG minifig 2
+1 14 745.901 49 -1259.7 0 0 -1 0 1 0 1 0 0 2610.dat
+0 MLCAD BTG minifig 2
+1 15 745.901 49 -1259.7 0 0 -1 0 1 0 1 0 0 973p09.dat
+0 MLCAD BTG minifig 2
+1 1 745.901 81 -1259.7 0 0 -1 0 1 0 1 0 0 3815.dat
+0 MLCAD BTG minifig 2
+1 15 745.901 58 -1275.25 0 0 -1 0.17 0.985 0 0.985 -0.17 0 3818.dat
+0 MLCAD BTG minifig 2
+1 15 745.901 58 -1244.15 0 0 -1 -0.17 0.985 0 0.985 0.17 0 3819.dat
+0 MLCAD BTG minifig 2
+1 14 756.221 75.596 -1283.56 0 -0.707 -0.707 0.17 0.696395 -0.696395 0.985 -0.12019 0.12019 3820.dat
+0 MLCAD BTG minifig 2
+1 14 756.221 75.596 -1235.84 0 -0.707 -0.707 -0.17 0.696395 -0.696395 0.985 0.12019 -0.12019 3820.dat
+0 MLCAD BTG minifig 2
+1 1 745.901 93 -1259.7 0 0 -1 0 1 0 1 0 0 3816.dat
+0 MLCAD BTG minifig 2
+1 1 745.901 93 -1259.7 0 0 -1 0 1 0 1 0 0 3817.dat
+0 GROUP 11 minifig 2
+0 MLCAD BTG minifig 3
+1 4 675.901 25 -1289.7 1 0 0 0 1 0 0 0 1 3833.dat
+0 MLCAD BTG minifig 3
+1 14 675.901 25 -1289.7 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 MLCAD BTG minifig 3
+1 15 675.901 49 -1289.7 1 0 0 0 1 0 0 0 1 973p1a.dat
+0 MLCAD BTG minifig 3
+1 0 675.901 81 -1289.7 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig 3
+1 15 660.351 58 -1289.7 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 MLCAD BTG minifig 3
+1 15 691.451 58 -1289.7 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 MLCAD BTG minifig 3
+1 14 652.041 75.596 -1300.02 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 3
+1 14 699.761 75.596 -1300.02 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 3
+1 0 675.901 93 -1289.7 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig 3
+1 0 675.901 93 -1289.7 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 10 minifig 3
+0 MLCAD BTG minifig 4
+1 4 595.901 25 -1289.7 1 0 0 0 1 0 0 0 1 3833.dat
+0 MLCAD BTG minifig 4
+1 14 595.901 25 -1289.7 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 MLCAD BTG minifig 4
+1 15 595.901 49 -1289.7 1 0 0 0 1 0 0 0 1 973p1b.dat
+0 MLCAD BTG minifig 4
+1 1 595.901 81 -1289.7 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig 4
+1 15 580.351 58 -1289.7 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 MLCAD BTG minifig 4
+1 15 611.451 58 -1289.7 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 MLCAD BTG minifig 4
+1 14 572.041 75.596 -1300.02 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 4
+1 14 619.761 75.596 -1300.02 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 4
+1 1 595.901 93 -1289.7 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig 4
+1 1 595.901 93 -1289.7 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 10 minifig 4
+0 MLCAD BTG minifig 5
+1 0 515.901 25 -1289.7 1 0 0 0 1 0 0 0 1 3901.dat
+0 MLCAD BTG minifig 5
+1 14 515.901 25 -1289.7 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 MLCAD BTG minifig 5
+1 15 515.901 49 -1289.7 1 0 0 0 1 0 0 0 1 973p1c.dat
+0 MLCAD BTG minifig 5
+1 4 515.901 81 -1289.7 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig 5
+1 15 500.351 58 -1289.7 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 MLCAD BTG minifig 5
+1 15 531.451 58 -1289.7 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 MLCAD BTG minifig 5
+1 14 492.041 75.596 -1300.02 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 5
+1 14 539.761 75.596 -1300.02 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 5
+1 4 515.901 93 -1289.7 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig 5
+1 4 515.901 93 -1289.7 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 10 minifig 5
+0

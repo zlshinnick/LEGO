@@ -1,0 +1,159 @@
+0 FILE 6386 - model B - main.ldr 
+0 model B - main
+0 Name: 6386 - model B - main.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 // based on first image at last page of instruction (http://peeron.com/scans/6386-1/16)
+1 15 0 -16 0 1 0 0 0 1 0 0 0 1 6386 - MODEL B - CAR.LDR 
+1 4 -16 1 133 1 0 0 0 1 0 0 0 1 6386 - MODEL B - ROAD SIGN.LDR 
+1 4 -115 0 120 -0.866 0 -0.5 0 1 0 0.5 0 -0.866 6386 - MODEL B - MINIFIG.LDR 
+
+
+0 FILE 6386 - model B - car.ldr 
+0 model B - car
+0 Name: 6386 - model B - car.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+1 16 55 -24 0 1 0 0 0 1 0 0 0 1 3021.dat 
+1 16 -95 -24 0 1 0 0 0 1 0 0 0 1 3020.dat 
+1 16 -15 -24 0 1 0 0 0 1 0 0 0 1 3031.dat 
+1 16 -145 -24 0 0 0 1 0 1 0 -1 0 0 3710.dat 
+0 STEP
+1 0 -35 -32 0 1 0 0 0 1 0 0 0 1 2445.dat 
+1 0 -15 -32 30 1 0 0 0 1 0 0 0 1 3710.dat 
+1 0 -15 -32 -30 1 0 0 0 1 0 0 0 1 3710.dat 
+1 36 -145 -32 30 1 0 0 0 1 0 0 0 1 3024.dat 
+1 36 -145 -32 -30 1 0 0 0 1 0 0 0 1 3024.dat 
+0 STEP
+1 0 -135 -40 0 0 0 1 0 1 0 -1 0 0 3020.dat 
+1 0 -15 -40 30 -1 0 0 0 1 0 0 0 -1 3666.dat 
+1 0 -15 -40 -30 -1 0 0 0 1 0 0 0 -1 3666.dat 
+1 16 -95 -48 0 0 0 -1 0 1 0 1 0 0 3788.dat 
+1 16 65 -48 0 0 0 -1 0 1 0 1 0 0 3788.dat 
+1 0 -55 -40 0 0 0 -1 0 1 0 1 0 0 3022.dat 
+0 STEP
+1 16 75 -48 0 0 0 -1 0 1 0 1 0 0 4175.dat 
+1 16 -95 -56 -30 1 0 0 0 1 0 0 0 1 3023.dat 
+1 16 -95 -56 30 1 0 0 0 1 0 0 0 1 3023.dat 
+1 16 55 -56 30 1 0 0 0 1 0 0 0 1 3024.dat 
+1 16 55 -56 -30 1 0 0 0 1 0 0 0 1 3024.dat 
+0 STEP
+1 46 75 -56 -30 1 0 0 0 1 0 0 0 1 3024.dat 
+1 46 75 -56 30 1 0 0 0 1 0 0 0 1 3024.dat 
+1 0 75 -56 0 0 0 1 0 1 0 -1 0 0 3023.dat 
+1 16 -95 -64 -30 1 0 0 0 1 0 0 0 1 3023.dat 
+1 16 -95 -64 30 1 0 0 0 1 0 0 0 1 3023.dat 
+1 16 35 -64 30 1 0 0 0 1 0 0 0 1 3005.dat 
+1 16 35 -64 -30 1 0 0 0 1 0 0 0 1 3005.dat 
+1 16 -55 -64 30 1 0 0 0 1 0 0 0 1 3004.dat 
+1 16 -55 -64 -30 1 0 0 0 1 0 0 0 1 3004.dat 
+1 16 -135 -64 -30 1 0 0 0 1 0 0 0 1 3004.dat 
+1 16 -135 -64 30 1 0 0 0 1 0 0 0 1 3004.dat 
+0 STEP
+1 16 -75 -88 30 1 0 0 0 1 0 0 0 1 3004.dat 
+1 16 -75 -88 -30 1 0 0 0 1 0 0 0 1 3004.dat 
+1 16 -125 -88 30 1 0 0 0 1 0 0 0 1 3622.dat 
+1 16 -125 -88 -30 1 0 0 0 1 0 0 0 1 3622.dat 
+1 16 15 -64 30 0 0 -1 0 1 0 1 0 0 3822.dat 
+1 16 15 -64 -30 0 0 -1 0 1 0 1 0 0 3821.dat 
+1 16 65 -64 0 0 0 1 0 1 0 -1 0 0 3020.dat 
+0 STEP
+1 16 -95 -112 30 -1 0 0 0 1 0 0 0 -1 3010.dat 
+1 16 -95 -112 -30 -1 0 0 0 1 0 0 0 -1 3010.dat 
+1 0 -145 -112 30 0 0 1 0 1 0 -1 0 0 4070.dat 
+1 0 -145 -112 -30 0 0 1 0 1 0 -1 0 0 4070.dat 
+1 16 -45 -112 0 0 0 -1 0 1 0 1 0 0 4214.dat 
+1 43 15 -112 0 0 0 -1 0 1 0 1 0 0 3823.dat 
+1 0 -15 -120 0 0 0 -1 0 1 0 1 0 0 2349A.dat 
+1 43 2 -116 0 0 0 -1 0 1 0 1 0 0 2348B.dat 
+0 STEP
+1 0 -159 -102 0 0 1 0 0 0 1 1 0 0 4625.dat 
+1 7 15 -128 30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 7 15 -128 -30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 7 15 -128 0 0 0 -1 0 1 0 1 0 0 3794A.dat 
+1 0 -115 -120 0 0 0 -1 0 1 0 1 0 0 3031.dat 
+1 16 -65 -120 0 0 0 -1 0 1 0 1 0 0 3710.dat 
+0 STEP
+1 16 -162 -96 0 1 0 0 0 1 0 0 0 1 6386 - MODEL B - CAR - BACK DOOR.LDR 
+1 7 -145 -128 0 0 0 -1 0 1 0 1 0 0 3794A.dat 
+1 33 15 -136 30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 33 15 -136 -30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 16 15 -136 0 0 0 -1 0 1 0 1 0 0 4592C01.dat 
+1 4 -75 -136 0 0 0 1 0 1 0 -1 0 0 4590.dat 
+0 STEP
+1 0 -65 -148 30 0 0 -1 0 1 0 1 0 0 4592C01.dat 
+1 0 -65 -148 -30 0 0 -1 0 1 0 1 0 0 4592C01.dat 
+1 16 -75 -160 0 0 0 -1 0 1 0 1 0 0 3937.dat 
+1 0 -65 -152 0 0 -1 0 0 0 -1 1 0 0 3938.dat 
+1 33 -145 -136 0 0 0 -1 0 1 0 1 0 0 3024.dat 
+0 STEP
+1 46 -145 -16 -30 0 0 -1 0 1 0 1 0 0 6141.dat 
+1 46 -145 -16 30 0 0 -1 0 1 0 1 0 0 6141.dat 
+1 16 -145 -8 0 0 0 -1 0 1 0 1 0 0 3710.dat 
+1 16 -56 -152 0 0 -1 0 0 0 -1 1 0 0 3069BP18.dat 
+1 0 -95 -16 0 0 0 -1 0 1 0 1 0 0 122C02.dat 
+1 0 65 -16 0 0 0 -1 0 1 0 1 0 0 122C02.dat 
+0 STEP
+1 0 -95 -10 -30 1 0 0 0 1 0 0 0 1 4084.dat 
+1 0 65 -10 -30 1 0 0 0 1 0 0 0 1 4084.dat 
+1 0 65 -10 35 1 0 0 0 1 0 0 0 1 4084.dat 
+1 0 -95 -10 35 1 0 0 0 1 0 0 0 1 4084.dat 
+
+
+0 FILE 6386 - model B - car - back door.ldr 
+0 model B - car - back door
+0 Name: 6386 - model B - car - back door.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+1 16 -4 36 0 0 1 0 0 0 -1 -1 0 0 2349A.dat 
+1 43 0 53 0 0 1 0 0 0 -1 -1 0 0 2348B.dat 
+0 STEP
+1 36 -12 66 30 0 1 0 0 0 -1 -1 0 0 3070A.dat 
+1 16 -12 66 0 0 1 0 0 0 -1 -1 0 0 3069BP18.dat 
+1 36 -12 66 -30 0 1 0 0 0 -1 -1 0 0 3070A.dat 
+
+
+0 FILE 6386 - model B - road sign.ldr 
+0 model B - road sign
+0 Name: 6386 - model B - road sign.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+1 15 0 -49 0 0 0 1 0 1 0 -1 0 0 3942BP01.dat 
+1 36 0 -57 0 0 0 1 0 1 0 -1 0 0 6141.dat 
+
+
+0 FILE 6386 - model B - minifig.ldr 
+0 model B - minifig
+0 Name: 6386 - model B - minifig.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+1 15 0 -96 0 1 0 0 0 1 0 0 0 1 3624.dat 
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626BP01.dat 
+1 0 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat 
+1 0 15.5 -64 0 1 0.17 0 -0.17 1 0 0 0 1 3819.dat 
+1 0 -15.5 -64 0 1 -0.17 0 0.17 1 0 0 0 1 3818.dat 
+1 14 23.658001 -46.126999 -10 1 0.12 -0.12 -0.17 0.697 -0.697 0 0.707 0.707 3820.dat 
+1 14 -23.658001 -46.126999 -10 1 -0.12 0.12 0.17 0.697 -0.697 0 0.707 0.707 3820.dat 
+1 0 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat 
+1 0 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat 
+1 0 0 -72 0 1 0 0 0 1 0 0 0 1 973P1G.dat 

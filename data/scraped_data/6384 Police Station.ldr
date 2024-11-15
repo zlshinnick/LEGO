@@ -1,0 +1,833 @@
+0 Untitled
+0 Name: 6384-1.ldr
+0 Author: Strikeman
+0 Reproduction of official Model 6384-1
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 MLCAD BTG police station
+1 15 0 -32 320 1 0 0 0 1 0 0 0 1 3460.dat
+0 MLCAD BTG police station
+1 0 -110 -24 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -110 -48 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 90 -48 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -290 -72 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -290 -96 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -110 -72 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 90 -72 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -110 -96 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 90 -96 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 90 -120 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 90 -96 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 310 -104 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 310 -128 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 310 -128 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 200 -128 170 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG police station
+1 15 310 -104 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 210 -104 240 0 0 1 0 1 0 -1 0 0 3008.dat
+0 MLCAD BTG police station
+1 15 190 -104 170 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 90 -120 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -110 -120 300 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -110 -120 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 90 -72 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -110 -72 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -110 -96 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 210 -56 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -290 -72 190 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 -290 -72 90 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 190 -56 170 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 210 -56 310 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 -10 -56 310 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 -10 -80 310 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 210 -56 230 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 260 -56 170 -1 0 0 0 1 0 0 0 -1 3010.dat
+0 MLCAD BTG police station
+1 15 310 -56 240 0 0 1 0 1 0 -1 0 0 3008.dat
+0 MLCAD BTG police station
+1 15 90 -48 180 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -290 -48 280 0 0 1 0 1 0 -1 0 0 3010.dat
+0 MLCAD BTG police station
+1 15 -110 -48 140 0 0 1 0 1 0 -1 0 0 3009.dat
+0 MLCAD BTG police station
+1 15 -290 -48 160 0 0 1 0 1 0 -1 0 0 3008.dat
+0 MLCAD BTG police station
+1 0 60 -24 310 1 0 0 0 1 0 0 0 1 3010.dat
+0 MLCAD BTG police station
+1 0 90 -24 290 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG police station
+1 4 280 -8 250 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG police station
+1 4 280 -16 250 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG police station
+1 4 280 -16 190 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG police station
+1 4 280 -8 190 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG police station
+1 0 260 -8 310 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG police station
+1 0 260 -8 170 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG police station
+1 0 240 -16 170 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG police station
+1 0 90 -16 180 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG police station
+1 0 90 -24 180 0 0 -1 0 1 0 1 0 0 3023.dat
+0 MLCAD BTG police station
+1 0 90 -8 190 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 0 210 -16 310 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 0 310 -16 310 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 0 310 -16 170 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 0 310 -24 310 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 0 210 -24 310 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 15 -90 -32 310 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 0 190 -24 170 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 0 -40 -24 310 1 0 0 0 1 0 0 0 1 3009.dat
+0 MLCAD BTG police station
+1 0 -110 -24 140 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG police station
+1 0 -290 -24 260 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG police station
+1 0 -290 -24 140 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG police station
+1 0 210 -24 240 0 0 1 0 1 0 -1 0 0 3009.dat
+0 MLCAD BTG police station
+1 0 310 -24 240 0 0 1 0 1 0 -1 0 0 3009.dat
+0 MLCAD BTG police station
+1 0 140 -8 170 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG police station
+1 0 260 -24 170 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG police station
+1 0 -110 -24 60 0 0 1 0 1 0 -1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -110 -48 60 0 0 1 0 1 0 -1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -110 -72 60 0 0 1 0 1 0 -1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -110 -96 60 0 0 1 0 1 0 -1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -110 -120 60 0 0 1 0 1 0 -1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -110 -144 60 0 0 1 0 1 0 -1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -290 -48 60 0 0 -1 0 1 0 1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -290 -72 60 0 0 -1 0 1 0 1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -290 -96 190 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 -290 -96 90 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 -290 -96 60 0 0 -1 0 1 0 1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -290 -120 60 0 0 -1 0 1 0 1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -290 -144 60 0 0 -1 0 1 0 1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -110 -144 120 0 0 -1 0 1 0 1 0 0 3010.dat
+0 MLCAD BTG police station
+1 15 -290 -144 300 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -290 -144 190 0 0 -1 0 1 0 1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 -290 -144 90 0 0 -1 0 1 0 1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 -110 -168 60 0 0 1 0 1 0 -1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -290 -168 60 0 0 -1 0 1 0 1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 -290 -168 300 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 -290 -168 190 0 0 -1 0 1 0 1 0 0 3005.dat
+0 MLCAD BTG police station
+1 15 -290 -168 90 0 0 -1 0 1 0 1 0 0 3005.dat
+0 MLCAD BTG police station
+1 1 170 -128 170 0 0 -1 0 1 0 1 0 0 3861.dat
+0 MLCAD BTG police station
+1 0 230 -128 310 0 0 1 0 1 0 -1 0 0 3861.dat
+0 MLCAD BTG police station
+1 15 -110 -144 240 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG police station
+1 15 210 -128 240 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG police station
+1 0 -290 -24 60 0 0 -1 0 1 0 1 0 0 4216.dat
+0 MLCAD BTG police station
+1 15 310 -32 280 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG police station
+1 15 210 -32 280 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG police station
+1 15 210 -32 230 0 0 -1 0 1 0 1 0 0 3024.dat
+0 MLCAD BTG police station
+1 15 200 -32 170 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG police station
+1 15 290 -32 170 -1 0 0 0 1 0 0 0 -1 3024.dat
+0 MLCAD BTG police station
+1 15 250 -32 170 -1 0 0 0 1 0 0 0 -1 3024.dat
+0 MLCAD BTG police station
+1 15 220 -32 200 -1 0 0 0 1 0 0 0 -1 3022.dat
+0 MLCAD BTG police station
+1 4 280 -24 220 0 0 -1 0 1 0 1 0 0 3020.dat
+0 MLCAD BTG police station
+1 15 310 -32 200 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG police station
+1 15 270 -32 170 1 0 0 0 1 0 0 0 1 4085a.dat
+0 MLCAD BTG police station
+1 15 230 -32 170 1 0 0 0 1 0 0 0 1 4085a.dat
+0 MLCAD BTG police station
+1 15 210 -56 280 0 0 1 0 1 0 -1 0 0 3660.dat
+0 MLCAD BTG police station
+1 15 190 -64 280 0 0 1 0 1 0 -1 0 0 3023.dat
+0 MLCAD BTG police station
+1 15 310 -80 210 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 290 -80 170 1 0 0 0 1 0 0 0 1 3622.dat
+0 MLCAD BTG police station
+1 15 210 -80 290 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 210 -80 200 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 210 -80 240 0 0 1 0 1 0 -1 0 0 3039p34.dat
+0 MLCAD BTG police station
+1 15 310 -80 280 0 0 1 0 1 0 -1 0 0 3010.dat
+0 MLCAD BTG police station
+1 15 220 -80 170 -1 0 0 0 1 0 0 0 -1 3010.dat
+0 MLCAD BTG police station
+1 1 40 -80 310 -1 0 0 0 1 0 0 0 -1 3185.dat
+0 MLCAD BTG police station
+1 1 -60 -80 310 -1 0 0 0 1 0 0 0 -1 3185.dat
+0 MLCAD BTG police station
+1 1 -290 -168 240 0 0 1 0 1 0 -1 0 0 3185.dat
+0 MLCAD BTG police station
+1 1 -290 -168 140 0 0 1 0 1 0 -1 0 0 3185.dat
+0 MLCAD BTG police station
+1 15 -110 -168 280 0 0 1 0 1 0 -1 0 0 3010.dat
+0 MLCAD BTG police station
+1 15 -110 -168 160 0 0 1 0 1 0 -1 0 0 3008.dat
+0 MLCAD BTG police station
+1 15 310 -152 240 0 0 1 0 1 0 -1 0 0 3009.dat
+0 MLCAD BTG police station
+1 15 260 -152 170 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG police station
+1 15 140 -152 170 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG police station
+1 15 140 -152 310 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG police station
+1 15 260 -152 310 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG police station
+1 15 210 -152 290 -1 0 0 0 1 0 0 0 -1 3005.dat
+0 MLCAD BTG police station
+1 15 90 -152 290 -1 0 0 0 1 0 0 0 -1 3005.dat
+0 MLCAD BTG police station
+1 15 90 -152 210 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 210 -152 210 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 210 -152 260 0 0 -1 0 1 0 1 0 0 3660.dat
+0 MLCAD BTG police station
+1 15 90 -152 260 0 0 -1 0 1 0 1 0 0 3660.dat
+0 MLCAD BTG police station
+1 1 260 -128 170 -1 0 0 0 1 0 0 0 -1 3185.dat
+0 MLCAD BTG police station
+1 1 310 -128 240 0 0 1 0 1 0 -1 0 0 3185.dat
+0 MLCAD BTG police station
+1 1 -110 -120 120 0 0 -1 0 1 0 1 0 0 3853.dat
+0 MLCAD BTG police station
+1 1 140 -264 230 1 0 0 0 1 0 0 0 1 3853.dat
+0 MLCAD BTG police station
+1 1 260 -264 230 1 0 0 0 1 0 0 0 1 3853.dat
+0 MLCAD BTG police station
+1 47 -110 -120 120 0 0 -1 0 1 0 1 0 0 3855.dat
+0 MLCAD BTG police station
+1 47 140 -264 230 1 0 0 0 1 0 0 0 1 3855.dat
+0 MLCAD BTG police station
+1 47 260 -264 230 1 0 0 0 1 0 0 0 1 3855.dat
+0 MLCAD BTG police station
+1 1 -290 -96 240 0 0 1 0 1 0 -1 0 0 3185.dat
+0 MLCAD BTG police station
+1 1 -290 -96 140 0 0 1 0 1 0 -1 0 0 3185.dat
+0 MLCAD BTG police station
+1 15 -290 -120 280 0 0 1 0 1 0 -1 0 0 3010.dat
+0 MLCAD BTG police station
+1 15 -290 -120 160 0 0 1 0 1 0 -1 0 0 3008.dat
+0 MLCAD BTG police station
+1 15 -110 -144 170 0 0 -1 0 1 0 1 0 0 3665.dat
+0 MLCAD BTG police station
+1 15 -110 -144 310 0 0 -1 0 1 0 1 0 0 3665.dat
+0 MLCAD BTG police station
+1 15 210 -128 310 0 0 1 0 1 0 -1 0 0 3665.dat
+0 MLCAD BTG police station
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 6100p02.dat
+0 MLCAD BTG police station
+1 15 -90 -152 240 0 0 -1 0 1 0 1 0 0 3460.dat
+0 MLCAD BTG police station
+1 15 90 -128 240 0 0 -1 0 1 0 1 0 0 3460.dat
+0 MLCAD BTG police station
+1 15 -290 -192 180 0 0 -1 0 1 0 1 0 0 4217.dat
+0 MLCAD BTG police station
+1 15 -110 -192 180 0 0 1 0 1 0 -1 0 0 4217.dat
+0 MLCAD BTG police station
+1 0 0 -160 200 1 0 0 0 1 0 0 0 1 3033.dat
+0 MLCAD BTG police station
+1 0 160 -160 240 0 0 -1 0 1 0 1 0 0 3033.dat
+0 MLCAD BTG police station
+1 0 280 -160 240 0 0 -1 0 1 0 1 0 0 3033.dat
+0 MLCAD BTG police station
+1 0 0 -160 300 1 0 0 0 1 0 0 0 1 3030.dat
+0 MLCAD BTG police station
+1 1 -200 -24 60 1 0 0 0 1 0 0 0 1 4219a.dat
+0 MLCAD BTG police station
+1 1 -200 -42 60 1 0 0 0 1 0 0 0 1 4218a.dat
+0 MLCAD BTG police station
+1 47 -200 -60 60 1 0 0 0 1 0 0 0 1 4218a.dat
+0 MLCAD BTG police station
+1 47 -200 -78 60 1 0 0 0 1 0 0 0 1 4218a.dat
+0 MLCAD BTG police station
+1 47 -200 -96 60 1 0 0 0 1 0 0 0 1 4218a.dat
+0 MLCAD BTG police station
+1 47 -200 -114 60 1 0 0 0 1 0 0 0 1 4218a.dat
+0 MLCAD BTG police station
+1 47 -200 -132 60 1 0 0 0 1 0 0 0 1 4218a.dat
+0 MLCAD BTG police station
+1 1 -200 -150 60 1 0 0 0 1 0 0 0 1 4218a.dat
+0 MLCAD BTG police station
+1 1 -200 -168 60 1 0 0 0 1 0 0 0 1 4218a.dat
+0 MLCAD BTG police station
+1 1 -200 -184 72 1 0 0 0 0.866025 0.5 0 -0.5 0.866025 4218a.dat
+0 MLCAD BTG police station
+1 15 -200 -200 60 1 0 0 0 1 0 0 0 1 3832.dat
+0 MLCAD BTG police station
+1 15 -200 -200 300 1 0 0 0 1 0 0 0 1 3832.dat
+0 MLCAD BTG police station
+1 15 -120 -200 180 0 0 1 0 1 0 -1 0 0 3832.dat
+0 MLCAD BTG police station
+1 15 -280 -200 180 0 0 1 0 1 0 -1 0 0 3832.dat
+0 MLCAD BTG police station
+1 15 310 -184 280 0 0 1 0 1 0 -1 0 0 3010.dat
+0 MLCAD BTG police station
+1 15 90 -184 280 0 0 1 0 1 0 -1 0 0 3010.dat
+0 MLCAD BTG police station
+1 4 290 -184 250 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 4 230 -184 250 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG police station
+1 4 260 -168 280 1 0 0 0 1 0 0 0 1 4079.dat
+0 MLCAD BTG police station
+1 15 260 -184 230 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG police station
+1 15 140 -184 230 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG police station
+1 0 -40 -208 260 -1 0 0 0 1 0 0 0 -1 3942a.dat
+0 MLCAD BTG police station
+1 15 310 -192 280 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG police station
+1 15 90 -192 280 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG police station
+1 15 280 -192 230 1 0 0 0 1 0 0 0 1 3710.dat
+0 MLCAD BTG police station
+1 15 160 -192 230 1 0 0 0 1 0 0 0 1 3460.dat
+0 MLCAD BTG police station
+1 0 -120 -208 260 0 0 -1 0 1 0 1 0 0 3035.dat
+0 MLCAD BTG police station
+1 0 -120 -208 100 0 0 -1 0 1 0 1 0 0 3035.dat
+0 MLCAD BTG police station
+1 0 -280 -208 100 0 0 -1 0 1 0 1 0 0 3035.dat
+0 MLCAD BTG police station
+1 0 -280 -208 260 0 0 -1 0 1 0 1 0 0 3035.dat
+0 MLCAD BTG police station
+1 33 -190 -232 240 0 0 -1 0 1 0 1 0 0 3939.dat
+0 MLCAD BTG police station
+1 33 -190 -232 120 0 0 -1 0 1 0 1 0 0 3939.dat
+0 MLCAD BTG police station
+1 33 -210 -232 120 0 0 1 0 1 0 -1 0 0 3939.dat
+0 MLCAD BTG police station
+1 33 -210 -232 240 0 0 1 0 1 0 -1 0 0 3939.dat
+0 MLCAD BTG police station
+1 0 -220 -208 310 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG police station
+1 0 -180 -208 310 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG police station
+1 0 -220 -208 50 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG police station
+1 0 -180 -208 50 0 0 -1 0 1 0 1 0 0 3021.dat
+0 MLCAD BTG police station
+1 15 90 -216 300 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 310 -216 300 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 90 -216 250 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 310 -240 240 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 90 -240 240 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 200 -240 230 1 0 0 0 1 0 0 0 1 3004.dat
+0 MLCAD BTG police station
+1 0 20 -168 180 1 0 0 0 1 0 0 0 1 3680c01.dat
+0 MLCAD BTG police station
+1 15 310 -240 290 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 90 -240 290 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 90 -264 250 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 200 -264 230 -1 0 0 0 1 0 0 0 -1 3660p01.dat
+0 MLCAD BTG police station
+1 15 90 -264 300 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 310 -264 300 0 0 -1 0 1 0 1 0 0 3004.dat
+0 MLCAD BTG police station
+1 15 310 -264 250 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG police station
+1 15 310 -216 250 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG police station
+1 4 260 -192 250 1 0 0 0 1 0 0 0 1 3710.dat
+0 MLCAD BTG police station
+1 15 200 -216 230 -1 0 0 0 1 0 0 0 -1 3039p34.dat
+0 MLCAD BTG police station
+1 4 290 -216 250 -1 0 0 0 1 0 0 0 -1 3040p02.dat
+0 MLCAD BTG police station
+1 0 20 -176 190 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG police station
+1 15 280 -272 230 -1 0 0 0 1 0 0 0 -1 3710.dat
+0 MLCAD BTG police station
+1 15 310 -272 280 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG police station
+1 15 90 -272 280 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG police station
+1 15 160 -272 230 -1 0 0 0 1 0 0 0 -1 3460.dat
+0 MLCAD BTG police station
+1 15 200 -272 250 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG police station
+1 0 20 -192 170 1 0 0 0 1 0 0 0 1 3937.dat
+0 MLCAD BTG police station
+1 0 20 -192 170 1 0 0 0 1 0 0 0 1 3938.dat
+0 MLCAD BTG police station
+1 0 200 -280 260 1 0 0 0 1 0 0 0 1 3456.dat
+0 MLCAD BTG police station
+1 0 20 -200 170 1 0 0 0 1 0 0 0 1 3710.dat
+0 MLCAD BTG police station
+1 0 200 -288 230 1 0 0 0 1 0 0 0 1 3794a.dat
+0 MLCAD BTG police station
+1 0 200 -288 250 1 0 0 0 1 0 0 0 1 3794a.dat
+0 MLCAD BTG police station
+1 7 200 -296 250 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 7 200 -304 250 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG police station
+1 7 200 -304 230 1 0 0 0 1 0 0 0 1 3963.dat
+0 MLCAD BTG police station
+1 7 -40 -232 260 1 0 0 0 1 0 0 0 1 3144.dat
+0 MLCAD BTG police station
+1 7 -10 -224 170 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG police station
+1 7 50 -224 170 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG police station
+1 46 -10 -214 156 1 0 0 0 0 -1 0 1 0 3024.dat
+0 MLCAD BTG police station
+1 46 50 -214 156 1 0 0 0 0 -1 0 1 0 3024.dat
+0 MLCAD BTG police station
+1 14 -300 2 -200 1 0 0 0 1 0 0 0 1 3741c01.dat
+0 MLCAD BTG police station
+1 4 -260 2 -260 1 0 0 0 1 0 0 0 1 3741c01.dat
+0 MLCAD BTG police station
+1 0 270 -30 -290 1 0 0 0 1 0 0 0 1 3062b.dat
+0 MLCAD BTG police station
+1 0 190 -30 -290 1 0 0 0 1 0 0 0 1 3062b.dat
+0 MLCAD BTG police station
+1 1 230 -38 -290 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG police station
+1 1 230 -70 -290 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG police station
+1 15 230 -62 -290 1 0 0 0 1 0 0 0 1 3009p18.dat
+0 GROUP 237 police station
+0 MLCAD BTG police car
+1 0 -145.98 -32 -115.058 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 4212b.dat
+0 MLCAD BTG police car
+1 0 -115.981 -24 -167.018 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 122c01.dat
+0 MLCAD BTG police car
+1 0 -90 -18 -152.02 0.5 0 0.866025 0 1 0 -0.866025 0 0.5 3641.dat
+0 MLCAD BTG police car
+1 0 -141.962 -18 -182.019 -0.5 0 -0.866025 0 1 0 0.866025 0 -0.5 3641.dat
+0 MLCAD BTG police car
+1 0 -150 -18 -48.096 0.5 0 0.866025 0 1 0 -0.866025 0 0.5 3641.dat
+0 MLCAD BTG police car
+1 0 -201.961 -18 -78.095 -0.5 0 -0.866025 0 1 0 0.866025 0 -0.5 3641.dat
+0 MLCAD BTG police car
+1 0 -175.981 -24 -63.097 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 122c01.dat
+0 MLCAD BTG police car
+1 0 -165 -64 -22.116 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3957a.dat
+0 MLCAD BTG police car
+1 0 -145.98 -112 -115.058 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 4213.dat
+0 MLCAD BTG police car
+1 0 -170.981 -112 -71.756 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 4315.dat
+0 MLCAD BTG police car
+1 15 -158.302 -120 -133.718 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3794a.dat
+0 MLCAD BTG police car
+1 15 -123.661 -120 -113.718 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3794a.dat
+0 MLCAD BTG police car
+1 33 -158.302 -128 -133.718 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3024.dat
+0 MLCAD BTG police car
+1 33 -123.661 -128 -113.718 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3024.dat
+0 MLCAD BTG police car
+1 0 -145.98 -22 -115.058 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 4079.dat
+0 MLCAD BTG police car
+1 0 -130.982 -40 -141.038 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3829c01.dat
+0 MLCAD BTG police car
+1 15 -100.98 -40 -193 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3023.dat
+0 MLCAD BTG police car
+1 15 -190.98 -40 -37.116 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3023.dat
+0 MLCAD BTG police car
+1 15 -115.981 -48 -167.018 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3788.dat
+0 MLCAD BTG police car
+1 15 -175.981 -48 -63.097 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3788.dat
+0 MLCAD BTG police car
+1 15 -180.98 -48 -54.435 0.5 0 0.866025 0 1 0 -0.866025 0 0.5 3021.dat
+0 MLCAD BTG police car
+1 15 -110.981 -48 -175.68 0.5 0 0.866025 0 1 0 -0.866025 0 0.5 3021.dat
+0 MLCAD BTG police car
+1 15 -186.961 -56 -104.077 0.5 0 0.866025 0 1 0 -0.866025 0 0.5 3005.dat
+0 MLCAD BTG police car
+1 15 -135.001 -56 -74.076 0.5 0 0.866025 0 1 0 -0.866025 0 0.5 3005.dat
+0 MLCAD BTG police car
+1 15 -175.981 -56 -63.097 -0.866025 0 0.5 0 1 0 -0.5 0 -0.866025 3020.dat
+0 MLCAD BTG police car
+1 0 -105.98 -56 -184.34 -0.866025 0 0.5 0 1 0 -0.5 0 -0.866025 3022.dat
+0 MLCAD BTG police car
+1 47 -170.981 -104 -71.756 -0.866025 0 0.5 0 1 0 -0.5 0 -0.866025 3823.dat
+0 MLCAD BTG police car
+1 47 -130.982 -104 -141.038 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3823.dat
+0 MLCAD BTG police car
+1 15 -120.98 -56 -158.359 -0.866025 0 0.5 0 1 0 -0.5 0 -0.866025 3023.dat
+0 MLCAD BTG police car
+1 0 -190.98 -56 -37.116 -0.866025 0 0.5 0 1 0 -0.5 0 -0.866025 3023.dat
+0 MLCAD BTG police car
+1 15 -90 -56 -152.02 0.5 0 0.866025 0 1 0 -0.866025 0 0.5 3023.dat
+0 MLCAD BTG police car
+1 15 -141.962 -56 -182.019 0.5 0 0.866025 0 1 0 -0.866025 0 0.5 3023.dat
+0 MLCAD BTG police car
+1 15 -126.96 -56 -208 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 4070.dat
+0 MLCAD BTG police car
+1 46 -119.961 -46 -220.125 0.866025 -0.5 0 0 0 -1 0.5 0.866025 0 3024.dat
+0 MLCAD BTG police car
+1 46 -68 -46 -190.124 0.866025 -0.5 0 0 0 -1 0.5 0.866025 0 3024.dat
+0 MLCAD BTG police car
+1 36 -223.962 -46 -39.991 0.866025 0.5 0 0 0 1 0.5 -0.866025 0 3024.dat
+0 MLCAD BTG police car
+1 36 -172 -46 -9.991 0.866025 0.5 0 0 0 1 0.5 -0.866025 0 3024.dat
+0 MLCAD BTG police car
+1 15 -75 -56 -178 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 4070.dat
+0 MLCAD BTG police car
+1 15 -105 -56 -126.04 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3822p02.dat
+0 MLCAD BTG police car
+1 15 -156.962 -56 -156.039 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 3821p02.dat
+0 MLCAD BTG police car
+1 15 -165 -56 -22.116 -0.866025 0 0.5 0 1 0 -0.5 0 -0.866025 4070.dat
+0 MLCAD BTG police car
+1 15 -216.962 -56 -52.115 -0.866025 0 0.5 0 1 0 -0.5 0 -0.866025 4070.dat
+0 GROUP 42 police car
+0 MLCAD BTG police helo
+1 7 97.089 -8 -54.957 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3460.dat
+0 MLCAD BTG police helo
+1 7 167.799 -8 -125.668 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3460.dat
+0 MLCAD BTG police helo
+1 7 118.302 -16 -33.744 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3024.dat
+0 MLCAD BTG police helo
+1 7 153.657 -24 -69.099 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3666.dat
+0 MLCAD BTG police helo
+1 7 111.231 -24 -111.526 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3666.dat
+0 MLCAD BTG police helo
+1 7 139.515 -168 -83.242 0 0 -1 0 1 0 1 0 0 3461.dat
+0 MLCAD BTG police helo
+1 7 139.515 -196 -173.242 0 0 -1 0 1 0 1 0 0 3460.dat
+0 MLCAD BTG police helo
+1 7 139.515 -196 6.759 0 0 -1 0 1 0 1 0 0 3460.dat
+0 MLCAD BTG police helo
+1 7 49.514 -196 -83.242 1 0 0 0 1 0 0 0 1 3460.dat
+0 MLCAD BTG police helo
+1 7 229.516 -196 -83.242 1 0 0 0 1 0 0 0 1 3460.dat
+0 MLCAD BTG police helo
+1 7 111.231 -158 -69.099 0.707107 -0.707107 0 0 0 1 -0.707107 -0.707107 0 3957a.dat
+0 MLCAD BTG police helo
+1 7 153.657 -158 -111.526 0.707107 -0.707107 0 0 0 1 -0.707107 -0.707107 0 3957a.dat
+0 MLCAD BTG police helo
+1 7 302.15 -128 79.393 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3481.dat
+0 MLCAD BTG police helo
+1 7 302.15 -128 79.393 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3480.dat
+0 MLCAD BTG police helo
+1 7 198.912 -78 -66.271 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3959.dat
+0 MLCAD BTG police helo
+1 7 156.486 -78 -23.845 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3959.dat
+0 MLCAD BTG police helo
+1 15 118.302 -32 -76.17 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3020.dat
+0 MLCAD BTG police helo
+1 0 118.302 -40 -104.455 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 4079.dat
+0 MLCAD BTG police helo
+1 15 146.586 -32 -104.455 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3020.dat
+0 MLCAD BTG police helo
+1 15 97.089 -40 -83.242 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3023.dat
+0 MLCAD BTG police helo
+1 15 118.302 -64 -62.028 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3040b.dat
+0 MLCAD BTG police helo
+1 15 160.728 -64 -104.455 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3040b.dat
+0 MLCAD BTG police helo
+1 15 132.444 -88 -47.886 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3040b.dat
+0 MLCAD BTG police helo
+1 0 302.15 -152 65.251 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3040b.dat
+0 MLCAD BTG police helo
+1 0 309.221 -160 72.322 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3794a.dat
+0 MLCAD BTG police helo
+1 36 309.221 -168 72.322 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3024.dat
+0 MLCAD BTG police helo
+1 0 167.799 -152 -54.957 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3298.dat
+0 MLCAD BTG police helo
+1 0 316.292 -152 79.393 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3040b.dat
+0 MLCAD BTG police helo
+1 15 153.657 -112 -69.099 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3004.dat
+0 MLCAD BTG police helo
+1 15 167.799 -112 -54.957 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3010.dat
+0 MLCAD BTG police helo
+1 15 146.586 -88 -33.744 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 4070.dat
+0 MLCAD BTG police helo
+1 15 189.012 -88 -76.17 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 4070.dat
+0 MLCAD BTG police helo
+1 15 174.87 -88 -90.313 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3040b.dat
+0 MLCAD BTG police helo
+1 15 139.515 -64 -54.957 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3660.dat
+0 MLCAD BTG police helo
+1 0 167.799 -88 -54.957 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3660.dat
+0 MLCAD BTG police helo
+1 0 181.941 -112 -40.815 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3660.dat
+0 MLCAD BTG police helo
+1 0 139.515 -120 -40.815 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 4175.dat
+0 MLCAD BTG police helo
+1 0 181.941 -120 -83.242 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 4175.dat
+0 MLCAD BTG police helo
+1 0 153.657 -136 -69.099 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3004.dat
+0 MLCAD BTG police helo
+1 0 174.87 -120 -47.886 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3022.dat
+0 MLCAD BTG police helo
+1 0 259.723 -120 36.967 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3832.dat
+0 MLCAD BTG police helo
+1 0 323.363 -128 100.606 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3023.dat
+0 MLCAD BTG police helo
+1 0 295.078 -136 86.464 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3023.dat
+0 MLCAD BTG police helo
+1 0 167.799 -128 -54.957 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3710.dat
+0 MLCAD BTG police helo
+1 0 231.439 -128 8.682 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3034.dat
+0 MLCAD BTG police helo
+1 0 132.444 -128 -47.886 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3024.dat
+0 MLCAD BTG police helo
+1 0 174.87 -128 -90.313 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3024.dat
+0 MLCAD BTG police helo
+1 15 153.657 -88 -69.099 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3004.dat
+0 MLCAD BTG police helo
+1 15 167.799 -64 -83.242 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3660.dat
+0 MLCAD BTG police helo
+1 15 153.657 -40 -69.099 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3710.dat
+0 MLCAD BTG police helo
+1 15 160.728 -40 -104.455 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 4085a.dat
+0 MLCAD BTG police helo
+1 15 118.302 -40 -62.028 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 4085a.dat
+0 MLCAD BTG police helo
+1 0 104.16 -48 -47.886 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 4349.dat
+0 MLCAD BTG police helo
+1 15 139.515 -40 -125.668 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3023.dat
+0 MLCAD BTG police helo
+1 15 97.089 -48 -125.668 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3794a.dat
+0 MLCAD BTG police helo
+1 15 97.089 -40 -125.668 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3710.dat
+0 MLCAD BTG police helo
+1 15 97.089 -32 -125.668 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3023.dat
+0 MLCAD BTG police helo
+1 46 118.302 -32 -146.881 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3024.dat
+0 MLCAD BTG police helo
+1 46 75.875 -32 -104.455 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3024.dat
+0 MLCAD BTG police helo
+1 0 97.089 -72 -125.668 0.707107 -0.707107 0 0 0 -1 0.707107 0.707107 0 3959.dat
+0 MLCAD BTG police helo
+1 7 75.875 -16 -76.17 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3024.dat
+0 MLCAD BTG police helo
+1 7 146.586 -16 -146.881 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3024.dat
+0 MLCAD BTG police helo
+1 7 189.012 -16 -104.455 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3024.dat
+0 MLCAD BTG police helo
+1 15 132.444 -112 -47.886 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3665.dat
+0 MLCAD BTG police helo
+1 15 174.87 -112 -90.313 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3665.dat
+0 MLCAD BTG police helo
+1 0 118.302 -136 -62.028 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3665.dat
+0 MLCAD BTG police helo
+1 0 132.444 -144 -90.313 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 4213.dat
+0 MLCAD BTG police helo
+1 0 139.515 -152 -83.242 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3021.dat
+0 MLCAD BTG police helo
+1 0 160.728 -160 -62.028 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3022.dat
+0 MLCAD BTG police helo
+1 0 125.373 -160 -97.384 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3023.dat
+0 MLCAD BTG police helo
+1 0 139.515 -168 -83.242 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 3462.dat
+0 MLCAD BTG police helo
+1 0 132.444 -160 -76.17 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 4081a.dat
+0 MLCAD BTG police helo
+1 0 146.586 -160 -90.313 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 4081a.dat
+0 MLCAD BTG police helo
+1 0 97.089 -144 -125.668 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 4315.dat
+0 MLCAD BTG police helo
+1 47 97.089 -136 -125.668 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3823.dat
+0 MLCAD BTG police helo
+1 47 82.946 -88 -139.81 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 4284.dat
+0 MLCAD BTG police helo
+1 0 160.728 -136 -104.455 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 3665.dat
+0 MLCAD BTG police helo
+1 0 139.515 -136 -40.815 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3023.dat
+0 MLCAD BTG police helo
+1 0 181.941 -136 -83.242 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3023.dat
+0 GROUP 79 police helo
+0 MLCAD BTG police bike
+1 0 -20 -48 235 1 0 0 0 1 0 0 0 1 73311.dat
+0 MLCAD BTG police bike
+1 15 -20 -56 235 0 0 1 0 1 0 -1 0 0 3023.dat
+0 MLCAD BTG police bike
+1 15 0 -38 235 0 -1 0 0 0 1 -1 0 0 3069b.dat
+0 MLCAD BTG police bike
+1 15 -40 -38 235 0 1 0 0 0 1 1 0 0 3069b.dat
+0 MLCAD BTG police bike
+1 33 -20 -64 245 0 0 1 0 1 0 -1 0 0 3024.dat
+0 MLCAD BTG police bike
+1 36 -20 -38 263 0 0 -1 1 0 0 0 -1 0 4073.dat
+0 MLCAD BTG police bike
+1 46 -20 -62 142 0 0 -1 -1 0 0 0 1 0 4073.dat
+0 GROUP 7 police bike
+0 MLCAD BTG minifig 1
+1 0 110 -96 -285 1 0 0 0 1 0 0 0 1 3901.dat
+0 MLCAD BTG minifig 1
+1 14 110 -96 -285 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 MLCAD BTG minifig 1
+1 4 110 -72 -285 1 0 0 0 1 0 0 0 1 973.dat
+0 MLCAD BTG minifig 1
+1 1 110 -40 -285 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig 1
+1 4 94.448 -63 -285 0.985 -0.120208 -0.120208 0.17 0.6965 0.6965 0 -0.707107 0.707107 3818.dat
+0 MLCAD BTG minifig 1
+1 4 125.552 -63 -285 0.985 0.120208 0.120208 -0.17 0.6965 0.6965 0 -0.707107 0.707107 3819.dat
+0 MLCAD BTG minifig 1
+1 14 88.311 -58.006 -305.564 0.81669 0.57631 0 -0.576187 0.816603 0 0 0 0.999849 3820.dat
+0 MLCAD BTG minifig 1
+1 14 131.689 -58.006 -305.564 0.81669 -0.57631 0 0.576187 0.816603 0 0 0 0.999849 3820.dat
+0 MLCAD BTG minifig 1
+1 15 68.466 -86.126 -325.213 0.81669 -0.139467 -0.559021 -0.576187 -0.197618 -0.792105 0 0.969854 -0.241963 3900.dat
+0 MLCAD BTG minifig 1
+1 34 69.617 -85.707 -333.334 0.81669 -0.139467 -0.559021 -0.576187 -0.197618 -0.792105 0 0.969854 -0.241963 6141.dat
+0 MLCAD BTG minifig 1
+1 15 151.534 -86.126 -325.213 0.81669 0.139467 0.559021 0.576187 -0.197618 -0.792105 0 0.969854 -0.241963 3900.dat
+0 MLCAD BTG minifig 1
+1 36 151.383 -85.707 -333.334 0.81669 0.139467 0.559021 0.576187 -0.197618 -0.792105 0 0.969854 -0.241963 4073.dat
+0 MLCAD BTG minifig 1
+1 1 110 -28 -285 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig 1
+1 1 110 -28 -285 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 14 minifig 1
+0 MLCAD BTG minifig 2
+1 15 30 -96 -290 1 0 0 0 1 0 0 0 1 3842a.dat
+0 MLCAD BTG minifig 2
+1 14 30 -96 -290 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 MLCAD BTG minifig 2
+1 0 30 -72 -290 1 0 0 0 1 0 0 0 1 973p1g.dat
+0 MLCAD BTG minifig 2
+1 0 30 -40 -290 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig 2
+1 0 14.448 -63 -290 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 MLCAD BTG minifig 2
+1 0 45.552 -63 -290 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 MLCAD BTG minifig 2
+1 14 6.137 -45.404 -300.321 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 2
+1 14 53.863 -45.404 -300.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 2
+1 0 30 -28 -290 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig 2
+1 0 30 -28 -290 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 10 minifig 2
+0 MLCAD BTG minifig 3
+1 15 -40 -96 -290 1 0 0 0 1 0 0 0 1 3842a.dat
+0 MLCAD BTG minifig 3
+1 14 -40 -96 -290 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 MLCAD BTG minifig 3
+1 0 -40 -72 -290 1 0 0 0 1 0 0 0 1 973p1g.dat
+0 MLCAD BTG minifig 3
+1 0 -40 -40 -290 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig 3
+1 0 -55.552 -63 -290 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 MLCAD BTG minifig 3
+1 0 -24.448 -63 -290 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 MLCAD BTG minifig 3
+1 14 -63.863 -45.404 -300.321 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 3
+1 14 -16.137 -45.404 -300.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 3
+1 0 -40 -28 -290 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig 3
+1 0 -40 -28 -290 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 10 minifig 3
+0 MLCAD BTG minifig 4
+1 15 -110 -96 -290 1 0 0 0 1 0 0 0 1 3624.dat
+0 MLCAD BTG minifig 4
+1 14 -110 -96 -290 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 MLCAD BTG minifig 4
+1 0 -110 -72 -290 1 0 0 0 1 0 0 0 1 973p1f.dat
+0 MLCAD BTG minifig 4
+1 0 -110 -40 -290 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig 4
+1 0 -125.552 -63 -290 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 MLCAD BTG minifig 4
+1 0 -94.448 -63 -290 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 MLCAD BTG minifig 4
+1 14 -133.863 -45.4044 -300.321 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 4
+1 14 -86.1366 -45.4044 -300.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig 4
+1 0 -110 -28 -290 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig 4
+1 0 -110 -28 -290 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 10 minifig 4
+0
