@@ -1,0 +1,224 @@
+0 FILE 6694 - main.ldr 
+0 main
+0 Name: 6694 - main.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 1 -20 0 70 1 0 0 0 1 0 0 0 1 6694 - CAR.LDR 
+1 1 -20 0 220 1 0 0 0 1 0 0 0 1 6694 - TRAILER.LDR 
+1 1 90 0 440 0.5 0 -0.866 0 1 0 0.866 0 0.5 6694 - MINIFIG 1.LDR 
+1 1 180 0 470 1 0 0 0 1 0 0 0 1 6694 - MINIFIG 2.LDR 
+
+
+0 FILE 6694 - car.ldr 
+0 car
+0 Name: 6694 - car.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 15 0 -32 0 1 0 0 0 1 0 0 0 1 4212B.dat 
+0 STEP
+1 16 -30 -24 0 0 0 1 0 1 0 -1 0 0 3710.dat 
+1 16 30 -24 0 0 0 1 0 1 0 -1 0 0 3710.dat 
+0 STEP
+1 16 0 -48 60 1 0 0 0 1 0 0 0 1 3788.dat 
+1 16 0 -48 -60 1 0 0 0 1 0 0 0 1 3788.dat 
+1 16 0 -40 90 1 0 0 0 1 0 0 0 1 3023.dat 
+1 14 0 -40 -30 1 0 0 0 1 0 0 0 1 3829C01.dat 
+0 STEP
+1 16 30 -56 30 0 0 -1 0 1 0 1 0 0 3005.dat 
+1 16 -30 -56 30 0 0 -1 0 1 0 1 0 0 3005.dat 
+1 16 0 -48 80 -1 0 0 0 1 0 0 0 -1 3730.dat 
+1 16 0 -56 -90 1 0 0 0 1 0 0 0 1 3004.dat 
+0 STEP
+1 16 -30 -56 -90 1 0 0 0 1 0 0 0 1 4070.dat 
+1 16 -30 -56 90 -1 0 0 0 1 0 0 0 -1 4070.dat 
+1 16 30 -56 90 -1 0 0 0 1 0 0 0 -1 4070.dat 
+1 14 0 -24 0 1 0 0 0 1 0 0 0 1 4079.dat 
+1 16 30 -56 -90 1 0 0 0 1 0 0 0 1 4070.dat 
+0 STEP
+1 36 -30 -46 104 1 0 0 0 0 1 0 -1 0 3024.dat 
+1 36 30 -46 104 1 0 0 0 0 1 0 -1 0 3024.dat 
+1 46 30 -46 -104 1 0 0 0 0 -1 0 1 0 3024.dat 
+1 46 -30 -46 -104 1 0 0 0 0 -1 0 1 0 3024.dat 
+1 16 -30 -56 -30 1 0 0 0 1 0 0 0 1 3821.dat 
+1 16 30 -56 -30 1 0 0 0 1 0 0 0 1 3822.dat 
+1 16 0 -56 60 1 0 0 0 1 0 0 0 1 3020.dat 
+1 16 0 -56 -60 1 0 0 0 1 0 0 0 1 3020.dat 
+1 16 0 -56 90 -1 0 0 0 1 0 0 0 -1 3023.dat 
+0 STEP
+1 47 0 -104 -30 1 0 0 0 1 0 0 0 1 3823.dat 
+1 47 0 -104 50 -1 0 0 0 1 0 0 0 -1 3823.dat 
+1 15 0 -112 0 1 0 0 0 1 0 0 0 1 4213.dat 
+1 15 0 -112 50 1 0 0 0 1 0 0 0 1 4315.dat 
+1 0 0 -24 60 1 0 0 0 1 0 0 0 1 122C01.dat 
+1 0 0 -24 -60 1 0 0 0 1 0 0 0 1 122C01.dat 
+1 0 30 -18 -60 0 0 -1 0 1 0 1 0 0 3641.dat 
+1 0 30 -18 60 0 0 -1 0 1 0 1 0 0 3641.dat 
+1 0 -30 -18 60 0 0 -1 0 1 0 1 0 0 3641.dat 
+1 0 -30 -18 -60 0 0 -1 0 1 0 1 0 0 3641.dat 
+
+
+0 FILE 6694 - trailer.ldr 
+0 trailer
+0 Name: 6694 - trailer.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 16 0 -32 80 0 0 -1 0 1 0 1 0 0 3832.dat 
+1 15 0 -40 140 0 0 -1 0 1 0 1 0 0 3022.dat 
+1 4 -10 -96 30 1 0 0 0 1 0 0 0 1 3899.dat 
+1 4 10 -96 170 -0.5 0 0.866 0 1 0 -0.866 0 -0.5 3899.dat 
+0 STEP
+1 15 0 -48 120 1 0 0 0 1 0 0 0 1 4211.dat 
+1 15 10 -40 -10 0 0 -1 0 1 0 1 0 0 4085A.dat 
+1 15 -10 -40 -10 0 0 1 0 1 0 -1 0 0 4085A.dat 
+0 STEP
+1 15 0 -40 10 1 0 0 0 1 0 0 0 1 3023.dat 
+1 15 20 -40 50 0 0 -1 0 1 0 1 0 0 3021.dat 
+1 15 -20 -40 50 0 0 -1 0 1 0 1 0 0 3021.dat 
+0 STEP
+1 15 30 -48 150 1 0 0 0 1 0 0 0 1 3024.dat 
+1 15 -30 -48 150 1 0 0 0 1 0 0 0 1 3024.dat 
+1 15 30 -48 70 0 0 -1 0 1 0 1 0 0 3623.dat 
+1 15 -30 -48 70 0 0 -1 0 1 0 1 0 0 3623.dat 
+0 STEP
+1 15 -30 -56 100 0 0 -1 0 1 0 1 0 0 3666.dat 
+1 15 30 -56 140 0 0 -1 0 1 0 1 0 0 3069B.dat 
+1 15 30 -56 100 0 0 -1 0 1 0 1 0 0 3069B.dat 
+1 15 30 -56 60 0 0 -1 0 1 0 1 0 0 3069B.dat 
+0 STEP
+1 14 0 -64 30 1 0 0 0 1 0 0 0 1 3004.dat 
+1 15 -30 -64 30 1 0 0 0 1 0 0 0 1 3665.dat 
+1 15 30 -64 30 1 0 0 0 1 0 0 0 1 3665.dat 
+1 15 -20 -64 170 -1 0 0 0 1 0 0 0 -1 3660.dat 
+1 15 20 -64 170 -1 0 0 0 1 0 0 0 -1 3660.dat 
+1 15 -30 -64 100 0 0 -1 0 1 0 1 0 0 3666.dat 
+0 STEP
+1 15 0 -48 0 1 0 0 0 1 0 0 0 1 3731.dat 
+1 14 0 -72 30 1 0 0 0 1 0 0 0 1 3023.dat 
+1 14 0 -72 170 1 0 0 0 1 0 0 0 1 3023.dat 
+1 16 0 -72 190 1 0 0 0 1 0 0 0 1 3023.dat 
+1 16 -30 -72 170 -1 0 0 0 1 0 0 0 -1 3024.dat 
+1 16 30 -72 170 -1 0 0 0 1 0 0 0 -1 3024.dat 
+1 36 30 -72 190 -1 0 0 0 1 0 0 0 -1 3024.dat 
+1 36 -30 -72 190 -1 0 0 0 1 0 0 0 -1 3024.dat 
+0 STEP
+1 16 30 -72 20 0 0 1 0 1 0 -1 0 0 3023.dat 
+1 16 -30 -72 20 0 0 1 0 1 0 -1 0 0 3023.dat 
+1 16 0 -72 10 1 0 0 0 1 0 0 0 1 3039.dat 
+0 STEP
+1 47 0 -120 30 1 0 0 0 1 0 0 0 1 4594.dat 
+1 47 0 -120 170 -1 0 0 0 1 0 0 0 -1 4594.dat 
+1 16 -30 -136 140 0 0 1 0 1 0 -1 0 0 4035.dat 
+1 16 -30 -136 80 0 0 1 0 1 0 -1 0 0 4033.dat 
+1 47 -30 -136 140 0 0 1 0 1 0 -1 0 0 4036.dat 
+1 47 -33 -102 80 0 0 1 0 1 0 -1 0 0 3855B.dat 
+0 STEP
+1 16 0 -144 170 -1 0 0 0 1 0 0 0 -1 3037.dat 
+1 16 0 -144 30 1 0 0 0 1 0 0 0 1 3037.dat 
+1 16 -30 -144 50 0 0 1 0 1 0 -1 0 0 3024.dat 
+1 16 -30 -144 150 0 0 1 0 1 0 -1 0 0 3024.dat 
+0 STEP
+1 16 -30 -144 100 0 0 -1 0 1 0 1 0 0 4625.dat 
+1 15 -30 -152 160 0 0 1 0 1 0 -1 0 0 3023.dat 
+1 15 -30 -152 40 0 0 1 0 1 0 -1 0 0 3023.dat 
+1 15 10 -152 170 -1 0 0 0 1 0 0 0 -1 3623.dat 
+1 15 10 -152 30 -1 0 0 0 1 0 0 0 -1 3623.dat 
+0 STEP
+1 16 -36 -148 100 0 0.866 -0.5 0 0.5 0.866 1 0 0 6694 - TRAILER - SUBPART.LDR 
+1 0 -30 -18 120 0 0 -1 0 1 0 1 0 0 3641.dat 
+1 0 30 -18 120 0 0 -1 0 1 0 1 0 0 3641.dat 
+1 0 0 -24 120 1 0 0 0 1 0 0 0 1 122C01.dat 
+1 0 -30 -28 -10 0.866 -0.5 0 0 0 -1 0.5 0.866 0 3959.dat 
+1 0 30 -28 -10 0.866 0.5 0 0 0 -1 -0.5 0.866 0 3959.dat 
+
+
+0 FILE 6694 - trailer - subpart.ldr 
+0 trailer - subpart
+0 Name: 6694 - trailer - subpart.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 15 0 -4 -36 1 0 0 0 1 0 0 0 1 4213.dat 
+0 STEP
+1 15 50 -4 -46 0 0 1 0 1 0 -1 0 0 3623.dat 
+1 15 -50 -4 -46 0 0 1 0 1 0 -1 0 0 3623.dat 
+0 STEP
+1 47 40 -12 -36 0 0 1 0 1 0 -1 0 0 3022.dat 
+1 47 -40 -12 -36 0 0 1 0 1 0 -1 0 0 3022.dat 
+0 STEP
+1 15 0 4 -66 1 0 0 0 1 0 0 0 1 3666.dat 
+0 STEP
+1 47 20 46 -69 1 0 0 0 1 0 0 0 1 3855B.dat 
+1 47 -40 12 -66 1 0 0 0 1 0 0 0 1 4036.dat 
+1 16 20 12 -66 1 0 0 0 1 0 0 0 1 4033.dat 
+1 16 -40 12 -66 1 0 0 0 1 0 0 0 1 4035.dat 
+0 STEP
+1 15 0 84 -66 1 0 0 0 1 0 0 0 1 3666.dat 
+
+
+0 FILE 6694 - minifig 1.ldr 
+0 minifig 1
+0 Name: 6694 - minifig 1.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 4 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat 
+1 4 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat 
+1 14 -23.471001 -46 -9.88 1 -0.12 0.122 0.171 0.694 -0.699 0 0.709 0.705 3820.dat 
+1 14 23.524 -46 -10.093 1 0.121 -0.121 -0.171 0.694 -0.699 0 0.709 0.705 3820.dat 
+1 4 -15.357 -64 0 1 -0.171 0 0.171 1 0 0 0 1 3818.dat 
+1 4 15.35 -63.949001 0 1 0.171 0 -0.171 1 0 0 0 1 3819.dat 
+1 4 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat 
+1 15 0 -72 0 1 0 0 0 1 0 0 0 1 973P01.dat 
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626BP01.dat 
+1 4 0 -96 0 1 0 0 0 1 0 0 0 1 4530.dat 
+
+
+0 FILE 6694 - minifig 2.ldr 
+0 minifig 2
+0 Name: 6694 - minifig 2.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 0 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat 
+1 0 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat 
+1 14 -23.471001 -46 -9.88 1 -0.12 0.122 0.171 0.694 -0.699 0 0.709 0.705 3820.dat 
+1 14 23.524 -46 -10.093 1 0.121 -0.121 -0.171 0.694 -0.699 0 0.709 0.705 3820.dat 
+1 4 -15.357 -64 0 1 -0.171 0 0.171 1 0 0 0 1 3818.dat 
+1 4 15.35 -63.949001 0 1 0.171 0 -0.171 1 0 0 0 1 3819.dat 
+1 0 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat 
+1 4 0 -72 0 1 0 0 0 1 0 0 0 1 973.dat 
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626BP01.dat 
+1 0 0 -96 0 1 0 0 0 1 0 0 0 1 3901.dat 

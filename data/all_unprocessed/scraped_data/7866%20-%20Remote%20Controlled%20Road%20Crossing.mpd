@@ -1,0 +1,303 @@
+0 FILE 7866 - main.ldr
+0 main
+0 Name: 7866 - main.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 7866 - level crossing.ldr 
+1 7 250 -160 300 1 0 0 0 1 0 0 0 1 7866 - minifig.ldr 
+1 7 390 0 -440 -0.866 0 -0.5 0 1 0 0.5 0 -0.866 7866 - control.ldr 
+
+
+
+0 FILE 7866 - level crossing.ldr
+0 level crossing
+0 Name: 7866 - level crossing.ldr
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 606p01.dat
+1 7 -190 -8 300 -1 0 0 0 1 0 0 0 -1 4169.dat
+1 7 -170 -8 240 0 0 1 0 1 0 -1 0 0 3710.dat
+1 7 -280 -8 270 1 0 0 0 1 0 0 0 1 3710.dat
+1 7 -280 -8 210 1 0 0 0 1 0 0 0 1 3710.dat
+1 7 190 -8 -300 1 0 0 0 1 0 0 0 1 4169.dat
+1 7 170 -8 -240 0 0 -1 0 1 0 1 0 0 3710.dat
+1 7 280 -8 -270 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 7 280 -8 -210 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 7 480 0 240 1 0 0 0 1 0 0 0 1 3865.dat
+0 STEP
+1 0 190 -131 -301 0 0 -1 1 0 0 0 -1 0 512p01.dat
+1 0 190 -131 -276 1 0 0 0 0 1 0 -1 0 266bc02.dat
+1 0 -190 -131 301 0 0 1 1 0 0 0 1 0 512p01.dat
+1 0 -190 -131 276 -1 0 0 0 0 1 0 1 0 266bc02.dat
+1 0 190 -111 -288 1 0 0 0 0 1 0 -1 0 766c01.dat
+1 0 -190 -111 288 -1 0 0 0 0 1 0 1 0 766c01.dat
+1 7 -170 -24 190 0 0 1 0 1 0 -1 0 0 3005.dat
+1 7 170 -24 -190 1 0 0 0 1 0 0 0 1 3005.dat
+1 8 -160 -8 80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 8 -160 -8 -80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 8 180 -8 80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 8 180 -8 -80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 16 380 0 280 1 0 0 0 1 0 0 0 1 7866 - level crossing - building.ldr
+0 STEP
+1 8 320 -8 -80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 8 320 -8 80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 8 0 -8 -80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 8 0 -8 80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 8 -320 -8 -80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 8 -320 -8 80 0 0 1 0 1 0 -1 0 0 4166b.dat
+1 7 160 -24 130 1 0 0 0 1 0 0 0 1 3228b.dat
+1 7 -160 -24 -130 1 0 0 0 1 0 0 0 1 3228b.dat
+1 7 -240 -48 240 -1 0 0 0 1 0 0 0 -1 70026.dat
+1 7 240 -48 -240 1 0 0 0 1 0 0 0 1 70026.dat
+1 7 -160 -24 -30 1 0 0 0 1 0 0 0 1 3228b.dat
+1 7 -160 -24 30 1 0 0 0 1 0 0 0 1 3228b.dat
+1 7 -160 -24 130 1 0 0 0 1 0 0 0 1 3228b.dat
+1 7 160 -24 -130 1 0 0 0 1 0 0 0 1 3228b.dat
+1 7 160 -24 -30 1 0 0 0 1 0 0 0 1 3228b.dat
+1 7 160 -24 30 1 0 0 0 1 0 0 0 1 3228b.dat
+1 0 -170 -24 -200 0 0 1 0 1 0 -1 0 0 3004.dat
+1 0 -170 -48 -200 0 0 1 0 1 0 -1 0 0 3004.dat
+1 0 170 -24 200 0 0 1 0 1 0 -1 0 0 3004.dat
+1 0 170 -48 200 0 0 1 0 1 0 -1 0 0 3004.dat
+1 4 -320 -32 240 0 0 -1 0 1 0 1 0 0 766c01.dat
+1 4 320 -32 -240 0 0 1 0 1 0 -1 0 0 766c01.dat
+0 STEP
+1 7 0 -16 110 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 0 -16 50 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 0 -16 -50 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 0 -16 -110 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 0 -16 0 0 0 1 0 1 0 -1 0 0 3022.dat
+1 7 -140 -16 110 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 -140 -16 50 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 -140 -16 -50 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 -140 -16 -110 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 -140 -16 0 0 0 1 0 1 0 -1 0 0 3022.dat
+1 7 160 -16 110 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 160 -16 50 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 160 -16 -50 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 160 -16 -110 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 7 160 -16 0 0 0 1 0 1 0 -1 0 0 3022.dat
+1 0 -170 -56 -200 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 -170 -64 -200 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 170 -56 200 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 170 -64 200 0 0 1 0 1 0 -1 0 0 3023.dat
+1 7 200 -60 -239 1 0 0 0 0 1 0 -1 0 4143.dat
+1 0 200 -56 -210 1 0 0 0 1 0 0 0 1 3710.dat
+1 0 200 -64 -210 1 0 0 0 1 0 0 0 1 3710.dat
+1 7 -200 -60 239.397 -1 0 0 0 0 1 0 1 0 4143.dat
+1 0 -200 -56 210.399 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 0 -200 -64 210.399 -1 0 0 0 1 0 0 0 -1 3710.dat
+0 STEP
+1 0 -170 -72 -200 0 0 1 0 1 0 -1 0 0 3069b.dat
+1 0 170 -72 200 0 0 1 0 1 0 -1 0 0 3069b.dat
+1 0 200 -88 -210 1 0 0 0 1 0 0 0 1 3701.dat
+1 0 -200 -88 210.399 -1 0 0 0 1 0 0 0 -1 3701.dat
+1 7 80 -24 -200 1 0 0 0 1 0 0 0 1 4515.dat
+1 7 -80 -24 -200 1 0 0 0 1 0 0 0 1 4515.dat
+1 7 80 -24 200 -1 0 0 0 1 0 0 0 -1 4515.dat
+1 7 -80 -24 200 -1 0 0 0 1 0 0 0 -1 4515.dat
+1 7 -160 -24 -80 1 0 0 0 1 0 0 0 1 3240b.dat
+1 7 160 -24 -80 1 0 0 0 1 0 0 0 1 3240b.dat
+1 7 -160 -24 80 1 0 0 0 1 0 0 0 1 3240b.dat
+1 7 160 -24 80 1 0 0 0 1 0 0 0 1 3240b.dat
+0 STEP
+1 16 -200 -78 200.396 -0.259 1 0 1 0.259 0 0 0 -1 7866 - level crossing - barrier.ldr
+1 16 200 -78 -200 0.259 -0.966 0 1 0.259 0 0 0 1 7866 - level crossing - barrier.ldr
+1 4 190 -104 -280 1 0 0 0 1 0 0 0 1 766c01.dat
+1 7 80 -24 -50 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 80 -24 -110 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 80 -24 110 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 80 -24 50 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 80 -24 10 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 80 -24 -10 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 -80 -24 -50 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 -80 -24 -110 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 -80 -24 110 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 -80 -24 50 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 -80 -24 10 -1 0 0 0 1 0 0 0 -1 4162.dat
+1 7 -80 -24 -10 -1 0 0 0 1 0 0 0 -1 4162.dat
+
+0 FILE 7866 - level crossing - building.ldr
+0 level crossing - building
+0 Name: 7866 - level crossing - building.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 0 -230 -24 20 0 0 -1 0 1 0 1 0 0 3660.dat 
+1 0 -150 -24 20 0 0 1 0 1 0 -1 0 0 3004.dat 
+0 STEP
+1 0 -210 -48 20 0 0 -1 0 1 0 1 0 0 3660.dat 
+1 0 -150 -48 20 0 0 1 0 1 0 -1 0 0 3004.dat 
+1 7 -230 -32 20 0 0 1 0 1 0 -1 0 0 3710.dat 
+0 STEP
+1 0 -190 -72 20 0 0 -1 0 1 0 1 0 0 3660.dat 
+1 0 -150 -72 20 0 0 1 0 1 0 -1 0 0 3004.dat 
+1 7 -210 -56 20 0 0 1 0 1 0 -1 0 0 3710.dat 
+1 0 -60 -120 -20 1 0 0 0 1 0 0 0 1 4476.dat 
+1 0 100 -120 -20 1 0 0 0 1 0 0 0 1 4476.dat 
+1 0 -60 -120 60 1 0 0 0 1 0 0 0 1 4476.dat 
+1 0 100 -120 60 1 0 0 0 1 0 0 0 1 4476.dat 
+0 STEP
+1 7 -190 -80 20 0 0 1 0 1 0 -1 0 0 3710.dat 
+1 0 -160 -96 20 0 0 -1 0 1 0 1 0 0 3003.dat 
+1 4 20 -128 20 1 0 0 0 1 0 0 0 1 3033.dat 
+0 STEP
+1 7 -170 -104 20 0 0 1 0 1 0 -1 0 0 3710.dat 
+1 0 -150 -120 20 0 0 -1 0 1 0 1 0 0 3660.dat 
+1 4 -70 -136 20 0 0 -1 0 1 0 1 0 0 3710.dat 
+1 4 -70 -152 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 -70 -152 -30 1 0 0 0 1 0 0 0 1 3665.dat 
+1 4 110 -152 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 110 -152 -30 1 0 0 0 1 0 0 0 1 3665.dat 
+1 15 110 -200 20 0 0 -1 0 1 0 1 0 0 4033.dat 
+1 47 113 -166 20 0 0 -1 0 1 0 1 0 0 3855b.dat 
+0 STEP
+1 0 -130 -144 20 0 0 -1 0 1 0 1 0 0 3660.dat 
+1 7 -150 -128 20 0 0 1 0 1 0 -1 0 0 3710.dat 
+1 4 -70 -144 20 0 0 -1 0 1 0 1 0 0 3710.dat 
+1 7 90 -152 20 0 0 1 0 1 0 -1 0 0 3010.dat 
+1 0 20 -136 20 1 0 0 0 1 0 0 0 1 3680c01.dat 
+0 STEP
+1 7 -100 -152 20 0 0 -1 0 1 0 1 0 0 3031.dat 
+1 7 90 -176 0 0 0 1 0 1 0 -1 0 0 3039p34.dat 
+1 7 90 -176 40 0 0 1 0 1 0 -1 0 0 3039p23.dat 
+0 STEP
+1 4 -70 -160 20 0 0 -1 0 1 0 1 0 0 3666.dat 
+1 7 20 -144 20 1 0 0 0 1 0 0 0 1 4079.dat 
+0 STEP
+1 4 110 -176 -50 1 0 0 0 1 0 0 0 1 3665.dat 
+1 4 110 -176 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 -70 -176 -50 1 0 0 0 1 0 0 0 1 3665.dat 
+1 4 -70 -184 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 110 -176 -30 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 -70 -168 -30 0 0 -1 0 1 0 1 0 0 3024.dat 
+1 4 -70 -176 -30 0 0 -1 0 1 0 1 0 0 3024.dat 
+0 STEP
+1 4 -70 -208 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 -70 -200 -70 1 0 0 0 1 0 0 0 1 3665.dat 
+1 4 110 -200 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 110 -200 -70 1 0 0 0 1 0 0 0 1 3665.dat 
+1 4 -70 -200 -40 0 0 1 0 1 0 -1 0 0 3004.dat 
+1 4 110 -200 -40 0 0 1 0 1 0 -1 0 0 3004.dat 
+1 15 -20 -200 -90 -1 0 0 0 1 0 0 0 -1 4447.dat 
+1 15 60 -200 -90 -1 0 0 0 1 0 0 0 -1 4447.dat 
+1 47 -20 -200 -90 -1 0 0 0 1 0 0 0 -1 4448.dat 
+1 47 60 -200 -90 -1 0 0 0 1 0 0 0 -1 4448.dat 
+0 STEP
+1 4 -70 -208 -50 0 0 1 0 1 0 -1 0 0 3623.dat 
+1 4 80 -208 -90 -1 0 0 0 1 0 0 0 -1 3710.dat 
+1 4 -20 -208 -90 -1 0 0 0 1 0 0 0 -1 3666.dat 
+1 4 110 -208 0 0 0 -1 0 1 0 1 0 0 3460.dat 
+0 STEP
+1 47 113 -246 20 0 0 -1 0 1 0 1 0 0 3855b.dat 
+1 15 110 -280 20 0 0 -1 0 1 0 1 0 0 4033.dat 
+1 47 113 -246 -60 0 0 -1 0 1 0 1 0 0 3855b.dat 
+1 15 110 -280 -60 0 0 -1 0 1 0 1 0 0 4033.dat 
+1 47 60 -246 -93 1 0 0 0 1 0 0 0 1 3855b.dat 
+1 15 60 -280 -90 1 0 0 0 1 0 0 0 1 4033.dat 
+1 47 -20 -246 -93 1 0 0 0 1 0 0 0 1 3855b.dat 
+1 15 -20 -280 -90 1 0 0 0 1 0 0 0 1 4033.dat 
+1 47 -73 -246 -60 0 0 1 0 1 0 -1 0 0 3855b.dat 
+1 15 -70 -280 -60 0 0 1 0 1 0 -1 0 0 4033.dat 
+1 4 110 -256 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 -70 -256 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 -70 -232 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 110 -232 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 110 -152 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 110 -280 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 4 -70 -280 70 1 0 0 0 1 0 0 0 1 3005.dat 
+1 15 -70 -280 50 -1 0 0 0 1 0 0 0 -1 4343c01.dat 
+0 STEP
+1 4 -60 -288 0 0 0 1 0 1 0 -1 0 0 3832.dat 
+1 4 100 -288 0 0 0 1 0 1 0 -1 0 0 3832.dat 
+1 4 20 -288 -80 -1 0 0 0 1 0 0 0 -1 3795.dat 
+0 STEP
+1 4 20 -288 80 -1 0 0 0 1 0 0 0 -1 3795.dat 
+1 0 20 -296 40 -1 0 0 0 1 0 0 0 -1 3035.dat 
+1 0 20 -296 -40 -1 0 0 0 1 0 0 0 -1 3035.dat 
+0 STEP
+1 4 -70 -312 70 -1 0 0 0 1 0 0 0 -1 3040b.dat 
+1 4 -70 -312 -70 1 0 0 0 1 0 0 0 1 3040b.dat 
+1 4 -70 -312 0 0 0 1 0 1 0 -1 0 0 3009.dat 
+1 4 110 -312 -70 1 0 0 0 1 0 0 0 1 3040b.dat 
+1 4 110 -312 70 -1 0 0 0 1 0 0 0 -1 3040b.dat 
+1 4 110 -312 0 0 0 -1 0 1 0 1 0 0 3009.dat 
+
+
+
+0 FILE 7866 - level crossing - barrier.ldr
+0 level crossing - barrier
+0 Name: 7866 - level crossing - barrier.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 7 0 0 -24 1 0 0 0 1 0 0 0 1 4143.dat 
+1 0 0 0 -4 0 0 1 0 1 0 -1 0 0 4519.dat 
+0 STEP
+1 0 0 0 12 0 0 1 0 1 0 -1 0 0 70163.dat 
+1 15 0 0 1 0 0 1 0 -1 0 1 0 0 4512p01.dat 
+
+
+
+0 FILE 7866 - minifig.ldr
+0 minifig
+0 Name: 7866 - minifig.ldr 
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626bp01.dat 
+1 1 0 -72 0 1 0 0 0 1 0 0 0 1 973p26.dat 
+1 1 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat 
+1 1 15.5 -64 0 1 0.17 0 -0.17 1 0 0 0 1 3819.dat 
+1 1 -15.5 -64 0 1 -0.17 0 0.17 1 0 0 0 1 3818.dat 
+1 14 23.658 -46.127 -10 1 0.12 -0.12 -0.17 0.697 -0.697 0 0.707 0.707 3820.dat 
+1 14 -23.658 -46.127 -10 1 -0.12 0.12 0.17 0.697 -0.697 0 0.707 0.707 3820.dat 
+1 1 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat 
+1 1 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat 
+1 4 0 -96 0 1 0 0 0 1 0 0 0 1 3624.dat 
+
+
+
+0 FILE 7866 - control.ldr
+0 control
+0 Name: 7866 - control.ldr
+0 Author: Robert Paciorek [bercik]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+0 !HISTORY 2017-04-07 [bercik] first OMR version
+0 !HISTORY 2018-01-21 [bercik] bugfix
+1 7 -40 -40 -140 1 0 0 0 1 0 0 0 1 990.dat
+1 7 -40 -22 -180 -1 0 0 0 1 0 0 0 -1 766c01.dat
+1 7 0 -48 0 -1 0 0 0 1 0 0 0 -1 u9005c01.dat
+1 7 20 -22 -100 -1 0 0 0 1 0 0 0 -1 766c01.dat
+

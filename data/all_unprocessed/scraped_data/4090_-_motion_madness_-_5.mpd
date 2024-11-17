@@ -1,0 +1,138 @@
+0 FILE 4090 - 5 - main squid.ldr
+0 5 - main squid
+0 Recreation of the fifth model of the official LEGO set 4090 Motion Madness
+0 Name: 4090 - 4 - main squid.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Creator
+
+1 15 0 0 0 0 1 0 -1 0 0 0 0 1 32013.dat
+1 15 0 0 -60 -1 0 0 0 -1 0 0 0 1 32034.dat
+1 0 0 0 -30 0 0 -1 0 -1 0 -1 0 0 32062.dat
+0 STEP
+1 0 0 0 -110 0 0 -1 0 -1 0 -1 0 0 3705.dat
+1 7 0 0 -100 1 0 0 0 -1 0 0 0 -1 3713.dat
+0 STEP
+1 1 0 0 -120 0 0 1 0 1 0 -1 0 0 32014.dat
+1 7 0 0 -140 -1 0 0 0 1 0 0 0 -1 32270.dat
+0 STEP
+1 0 0 -30 -120 0 1 0 1 0 0 0 0 -1 32062.dat
+1 0 -30 0 -120 1 0 0 0 -1 0 0 0 -1 32062.dat
+1 7 0 0 -60 1 0 0 0 1 0 0 0 1 32556.dat
+0 STEP
+1 0 0 -40 -106 -1 0 0 0 0 1 0 1 0 4090 - 5 - head.ldr
+0 STEP
+1 7 0 0 0 0 0 1 -1 0 0 0 -1 0 32556.dat
+0 STEP
+1 14 -10 20 0 0 1 0 0 0 -1 -1 0 0 4090 - 5 - leg short.ldr
+1 14 10 -20 0 0 -1 0 0 0 1 -1 0 0 4090 - 5 - leg short.ldr
+0 STEP
+1 73 -30 14 -60 0 0 -1 0 1 0 1 0 0 4090 - 5 - leg long.ldr
+1 73 30 -14 -60 0 0 1 0 -1 0 1 0 0 4090 - 5 - leg long.ldr
+0 STEP
+1 7 -40 14 -180 0 0 -1 0 1 0 1 0 0 4090 - 5 - gear assembly.ldr
+
+0 FILE 4090 - 5 - head.ldr
+0 5 - head
+0 Name: 4090 - 5 - head.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Creator
+
+1 73 0 0 0 1 0 0 0 1 0 0 0 1 3666.dat
+0 STEP
+1 1 -40 -24 0 1 0 0 0 1 0 0 0 1 32064a.dat
+1 1 0 -24 0 1 0 0 0 1 0 0 0 1 32064a.dat
+1 1 40 -24 0 1 0 0 0 1 0 0 0 1 32064a.dat
+0 STEP
+1 73 0 -32 0 1 0 0 0 1 0 0 0 1 3666.dat
+1 0 -40 -14 -10 0 0 1 0 1 0 -1 0 0 32062.dat
+1 0 40 -14 -10 0 0 1 0 1 0 -1 0 0 32062.dat
+0 STEP
+1 15 40 -14 -14 0 0 1 -1 0 0 0 -1 0 4032a.dat
+1 15 -40 -14 -14 0 0 1 -1 0 0 0 -1 0 4032a.dat
+1 15 -30 -40 0 0 0 1 0 1 0 -1 0 0 4592.dat
+1 0 -30 -40 0 0 0.5 0.866 0 0.866 -0.5 -1 0 0 4593.dat
+1 0 30 -40 0 0 -0.5 -0.866 0 0.866 -0.5 1 0 0 4593.dat
+1 15 30 -40 0 0 0 -1 0 1 0 1 0 0 4592.dat
+
+0 FILE 4090 - 5 - leg short.ldr
+0 5 - leg short
+0 Name: 4090 - 5 - leg short.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Creator
+
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 3700.dat
+1 73 -40 -8 0 1 0 0 0 1 0 0 0 1 3666.dat
+0 STEP
+1 73 -120 0 -10 0 0 1 0 1 0 -1 0 0 41765.dat
+0 STEP
+1 14 -160 -8 0 -1 0 0 0 1 0 0 0 -1 2412b.dat
+
+0 FILE 4090 - 5 - leg long.ldr
+0 5 - leg long
+0 Name: 4090 - 5 - leg long.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Creator
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3022.dat
+0 STEP
+1 73 0 -24 -10 1 0 0 0 1 0 0 0 1 3700.dat
+0 STEP
+1 73 0 -8 10 1 0 0 0 1 0 0 0 1 3023.dat
+1 73 0 -16 10 1 0 0 0 1 0 0 0 1 3023.dat
+0 STEP
+1 1 80 -24 10 1 0 0 0 1 0 0 0 1 4477.dat
+0 STEP
+1 0 0 -32 0 1 0 0 0 1 0 0 0 1 3022.dat
+0 STEP
+1 73 160 -16 0 0 0 -1 0 1 0 1 0 0 41764.dat
+
+0 FILE 4090 - 5 - gear assembly.ldr
+0 5 - gear assembly
+0 Name: 4090 - 5 - gear assembly.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Creator
+
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 3460.dat
+1 1 60 -24 0 1 0 0 0 1 0 0 0 1 32064a.dat
+0 STEP
+1 1 -20 -24 0 1 0 0 0 1 0 0 0 1 3894.dat
+0 STEP
+1 14 0 -32 0 1 0 0 0 1 0 0 0 1 3460.dat
+0 STEP
+1 256 -60 -14 -20 1 0 0 0 0 1 0 -1 0 4090 - 5 - wheel.ldr
+0 STEP
+1 7 -60 -14 20 0.997 -0.078 0 -0.078 -0.997 0 0 0 -1 3649.dat
+0 STEP
+1 7 20 -14 0 0 -0.966 0.259 0 -0.259 -0.966 1 0 0 4519.dat
+1 7 20 -14 -20 0.259 -0.966 0 -0.966 -0.259 0 0 0 -1 32270.dat
+0 STEP
+1 7 20 -14 20 0.259 -0.966 0 -0.966 -0.259 0 0 0 -1 3648b.dat
+
+0 FILE 4090 - 5 - wheel.ldr
+0 5 - wheel
+0 Name: 4090 - 5 - wheel.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Creator
+
+1 15 0 0 0 -0.078 0.997 0 0 0 -1 -0.997 -0.078 0 3482.dat
+1 7 0 -20 0 0 -0.078 -0.997 1 0 0 0 -0.997 0.078 4519.dat
+0 STEP
+1 256 0 0 0 0.997 -0.078 0 0 0 1 -0.078 -0.997 0 44799.dat

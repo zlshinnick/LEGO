@@ -1,0 +1,95 @@
+0 FILE Jedi Defense II.ldr
+0 Jedi Defense II
+0 Name: Jedi Defense II.ldr
+0 Author: R Paluczak
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 -30 16 0 1 0 0 0 1 0 0 0 1 3035.dat
+1 7 -48.3 -47.9 -154.3 1 0 0 0 1 0 0 0 1 Qui-Gon Jin.ldr
+1 7 -140 -27.9 -230 0 0 -1 0 1 0 1 0 0 Battle Droid Commander.ldr
+1 7 -159.713 -30 -326.116 0 0 -1 0 1 0 1 0 0 Battle Droid Security.ldr
+1 7 -30 -128 -10 1 0 0 0 1 0 0 0 1 3009.dat
+1 7 -90 -104 30 1 0 0 0 1 0 0 0 1 2454.dat
+1 8 -90 -32 -10 1 0 0 0 1 0 0 0 1 2877.dat
+1 8 -90 -56 -10 1 0 0 0 1 0 0 0 1 2877.dat
+1 8 -90 -80 -10 1 0 0 0 1 0 0 0 1 2877.dat
+1 8 30 -32 -10 1 0 0 0 1 0 0 0 1 2877.dat
+1 8 30 -56 -10 1 0 0 0 1 0 0 0 1 2877.dat
+1 8 30 -80 -10 1 0 0 0 1 0 0 0 1 2877.dat
+1 7 -80 -8 -10 0 0 -1 0 1 0 1 0 0 3040b.dat
+1 7 -80 -104 -10 0 0 -1 0 1 0 1 0 0 3665.dat
+1 7 -100 -128 10 0 0 -1 0 1 0 1 0 0 3622.dat
+1 7 40 -128 10 0 0 -1 0 1 0 1 0 0 3622.dat
+1 7 20 -8 -10 0 0 1 0 1 0 -1 0 0 3040b.dat
+1 7 20 -104 -10 0 0 1 0 1 0 -1 0 0 3665.dat
+1 7 30 -104 30 1 0 0 0 1 0 0 0 1 2454.dat
+1 19 40 -8 -10 1 0 0 0 1 0 0 0 1 3062b.dat
+1 19 -100 -8 -10 1 0 0 0 1 0 0 0 1 3062b.dat
+1 19 40 -104 -10 1 0 0 0 1 0 0 0 1 3062b.dat
+1 19 -100 -104 -10 1 0 0 0 1 0 0 0 1 3062b.dat
+1 19 -80 -128 30 1 0 0 0 1 0 0 0 1 3062b.dat
+1 19 20 -128 30 1 0 0 0 1 0 0 0 1 3062b.dat
+1 0 -30 8 10 1 0 0 0 1 0 0 0 1 4162.dat
+1 0 -30 -136 -10 1 0 0 0 1 0 0 0 1 4162.dat
+1 0 -90 -136 30 1 0 0 0 1 0 0 0 1 2412b.dat
+1 0 30 -136 30 1 0 0 0 1 0 0 0 1 2412b.dat
+1 0 -20 -52 -6.2 1 0 0 0 0 -1 0 1 0 Door.ldr
+0
+0 FILE Qui-Gon Jin.ldr
+0 Qui-Gon Jin
+0 Name: Qui-Gon Jin.ldr
+0 Author: R Paluczak
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 6 0 -27 0 1 0 0 0 1 0 0 0 1 92756.dat
+1 14 0 -27 0 1 0 0 0 1 0 0 0 1 3626bps9.dat
+1 6 0 -2 0 1 0 0 0 1 0 0 0 1 522.dat
+1 19 0 0 0 1 0 0 0 1 0 0 0 1 973pr3.dat
+1 6 0 32 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 19 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 19 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.8634 26.5956 -10.321 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 14 23.8634 26.5956 -10.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 42 -23.1951 22.7236 -33.8217 0.985 -0.0874983 0.14567 0.17 0.506976 -0.844031 0 0.856884 0.514696 577c01.dat
+1 6 0 44 0 1 0 0 0 1 0 0 0 1 3816.dat
+1 6 0 44 0 1 0 0 0 1 0 0 0 1 3817.dat
+0
+0 FILE Battle Droid Commander.ldr
+0 Battle Droid Commander
+0 Name: Battle Droid Commander.ldr
+0 Author: R Paluczak
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 19 -18 44 0 1 0 0 0 1 0 0 0 1 30375cs1.dat
+1 19 -18.1 -14 15.1 1 0 0 0 0 1 0 -1 0 3070b.dat
+1 0 -47.2 12.1 -12 0 1 0 1 0 0 0 0 -1 4349.dat
+1 38 -47.2 12.2 -38.1 0 0 1 1 0 0 0 1 0 4073.dat
+0
+0 FILE Battle Droid Security.ldr
+0 Battle Droid Security
+0 Name: Battle Droid Security.ldr
+0 Author: R Paluczak
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 19 -6 46 0 1 0 0 0 1 0 0 0 1 30375cs2.dat
+1 0 -35.2 14.2 -12 0 1 0 1 0 0 0 0 -1 4349.dat
+1 38 -35.2 14.3 -38.1 0 0 1 1 0 0 0 1 0 4073.dat
+0
+0 FILE Door.ldr
+0 Door
+0 Name: Door.ldr
+0 Author: R Paluczak
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 8 -10 16 0 1 0 0 0 1 0 0 0 1 3958.dat
+1 19 -60 16 80 0 0 -1 0 1 0 1 0 0 2540.dat
+1 19 40 16 80 0 0 1 0 1 0 -1 0 0 2540.dat
+1 0 40 8 20 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 -60 8 20 0 0 1 0 1 0 -1 0 0 4162.dat
+0
+0

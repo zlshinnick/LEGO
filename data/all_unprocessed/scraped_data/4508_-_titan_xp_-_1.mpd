@@ -1,0 +1,375 @@
+0 FILE 4508 - 1 - main mall robot.ldr
+0 1 - main mall robot
+0 Recreation of the first model of the official LEGO set 4508 Titan XP
+0 Name: 4508 - 1 - main mall robot
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Creator
+
+1 256 0 0 0 -1 0 0 0 1 0 0 0 -1 3020.dat
+0 STEP
+1 71 20 -24 0 1 0 0 0 1 0 0 0 1 48169.dat
+1 71 -20 -24 0 -1 0 0 0 1 0 0 0 -1 48169.dat
+0 STEP
+1 256 30 -32 0 0 0 1 0 1 0 -1 0 0 3023.dat
+1 25 0 -32 10 -1 0 0 0 1 0 0 0 -1 44728.dat
+1 25 0 -32 -10 1 0 0 0 1 0 0 0 1 44728.dat
+1 256 -30 -32 0 0 0 1 0 1 0 -1 0 0 3023.dat
+0 STEP
+1 72 0 -40 0 -1 0 0 0 1 0 0 0 -1 3709b.dat
+0 STEP
+1 256 0 -64 0 -1 0 0 0 1 0 0 0 -1 3001.dat
+0 STEP
+1 25 0 -72 -10 1 0 0 0 1 0 0 0 1 44728.dat
+1 25 0 -72 10 -1 0 0 0 1 0 0 0 -1 44728.dat
+1 379 -30 -72 0 0 0 -1 0 1 0 1 0 0 3023.dat
+1 379 30 -72 0 0 0 -1 0 1 0 1 0 0 3023.dat
+0 STEP
+1 71 -20 -96 0 -1 0 0 0 1 0 0 0 -1 48169.dat
+1 71 20 -96 0 1 0 0 0 1 0 0 0 1 48169.dat
+0 STEP
+1 72 0 -104 0 -1 0 0 0 1 0 0 0 -1 3709b.dat
+0 STEP
+1 25 0 -112 -10 1 0 0 0 1 0 0 0 1 44728.dat
+1 25 0 -112 10 -1 0 0 0 1 0 0 0 -1 44728.dat
+1 256 -30 -112 0 0 0 1 0 1 0 -1 0 0 3023.dat
+1 256 30 -112 0 0 0 1 0 1 0 -1 0 0 3023.dat
+0 STEP
+1 379 0 -120 0 -1 0 0 0 1 0 0 0 -1 3020.dat
+0 STEP
+1 38 -10 -128 -10 -1 0 0 0 1 0 0 0 -1 4073.dat
+1 38 10 -128 -10 -1 0 0 0 1 0 0 0 -1 4073.dat
+1 256 0 -128 10 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 STEP
+1 379 -10 -152 -10 -1 0 0 0 1 0 0 0 -1 3040b.dat
+1 379 10 -152 -10 -1 0 0 0 1 0 0 0 -1 3040b.dat
+0 STEP
+1 379 -30 -144 0 0 0 -1 0 1 0 1 0 0 3049c.dat
+1 379 30 -144 0 0 0 1 0 1 0 -1 0 0 3049c.dat
+1 256 0 -160 -10 -1 0 0 0 1 0 0 0 -1 3794a.dat
+0 STEP
+1 256 0 -52 -32 0 0 1 1 0 0 0 1 0 4508 - 1 - torso plate.ldr
+0 STEP
+1 0 80 26 46 1 0 0 0 0 -1 0 1 0 4508 - 1 - leg left.ldr
+0 STEP
+1 379 -80 26 46 1 0 0 0 0 -1 0 1 0 4508 - 1 - leg right.ldr
+0 STEP
+1 72 -80 90 0 0 0 -1 0 1 0 1 0 0 4508 - 1 - foot.ldr
+1 72 80 90 0 0 0 -1 0 1 0 1 0 0 4508 - 1 - foot.ldr
+0 STEP
+1 71 0 -52 32 0 0 -1 1 0 0 0 -1 0 4508 - 1 - back plate.ldr
+0 STEP
+1 25 140 -72 0 1 0 0 0 1 0 0 0 1 4508 - 1 - arm left.ldr
+0 STEP
+1 25 -140 -72 0 1 0 0 0 1 0 0 0 1 4508 - 1 - arm right.ldr
+0 STEP
+1 25 140 -84 -32 1 0 0 0 0 -1 0 1 0 4508 - 1 - left arm plate.ldr
+0 STEP
+1 25 -140 -84 -32 1 0 0 0 0 -1 0 1 0 4508 - 1 - right arm plate.ldr
+1 72 0 -168 -10 1 0 0 0 1 0 0 0 1 2569.dat
+
+0 FILE 4508 - 1 - torso plate.ldr
+0 1 - torso plate
+0 Name: 4508 - 1 - torso plate.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 3032.dat
+0 STEP
+1 0 20 -24 0 1 0 0 0 1 0 0 0 1 6215.dat
+1 0 -20 -24 0 -1 0 0 0 1 0 0 0 -1 6215.dat
+0 STEP
+1 0 -20 -24 -30 1 0 0 0 1 0 0 0 1 47759.dat
+1 0 -20 -24 30 -1 0 0 0 1 0 0 0 -1 47759.dat
+1 379 30 -24 -30 0 0 -1 0 1 0 1 0 0 3040b.dat
+1 379 30 -24 30 0 0 -1 0 1 0 1 0 0 3040b.dat
+0 STEP
+1 71 20 -32 0 0 0 -1 0 1 0 1 0 0 4032a.dat
+1 383 -10 -32 30 0 0 -1 0 1 0 1 0 0 4073.dat
+1 383 -10 -32 -30 0 0 -1 0 1 0 1 0 0 4073.dat
+1 379 -10 -32 0 0 0 -1 0 1 0 1 0 0 3023.dat
+1 379 -30 -32 0 0 0 -1 0 1 0 1 0 0 3710.dat
+0 STEP
+1 0 -30 -40 0 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 0 0 -40 0 0 0 -1 0 1 0 1 0 0 4150.dat
+
+0 FILE 4508 - 1 - leg left.ldr
+0 1 - leg left
+0 Name: 4508 - 1 - leg left.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 4032a.dat
+1 256 0 -24 -10 1 0 0 0 1 0 0 0 1 3660.dat
+0 STEP
+1 256 0 -24 10 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 STEP
+1 379 0 -32 -10 0 0 1 0 1 0 -1 0 0 3021.dat
+1 72 0 -56 -30 1 0 0 0 1 0 0 0 1 3700.dat
+0 STEP
+1 72 0 -56 0 0 0 -1 0 1 0 1 0 0 48170.dat
+1 0 0 -46 40 -1 0 0 0 1 0 0 0 -1 47455.dat
+0 STEP
+1 379 0 -64 -10 0 0 1 0 1 0 -1 0 0 3021.dat
+0 STEP
+1 72 10 -72 -30 -1 0 0 0 1 0 0 0 -1 3024.dat
+1 25 10 -72 0 0 0 -1 0 1 0 1 0 0 44728.dat
+1 25 -20 -72 -10 1 0 0 0 1 0 0 0 1 43722.dat
+0 STEP
+1 379 0 -96 10 -1 0 0 0 1 0 0 0 -1 3298.dat
+1 379 0 -96 -20 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 STEP
+1 25 32 -52 0 0 -1 0 -1 0 0 0 0 -1 3022.dat
+1 72 40 -52 10 0 -1 0 -1 0 0 0 0 -1 3023.dat
+1 0 0 -104 -30 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 383 0 -112 -30 -1 0 0 0 1 0 0 0 -1 2412b.dat
+1 379 48 -52 10 0 -1 0 1 0 0 0 0 1 4861.dat
+1 0 0 -120 0 -1 0 0 0 1 0 0 0 -1 30603.dat
+
+0 FILE 4508 - 1 - leg right.ldr
+0 1 - leg right
+0 Name: 4508 - 1 - leg right.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 4032a.dat
+1 0 0 -24 -10 1 0 0 0 1 0 0 0 1 3660.dat
+0 STEP
+1 0 0 -24 10 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 STEP
+1 379 0 -32 -10 0 0 -1 0 1 0 1 0 0 3021.dat
+1 72 0 -56 -30 1 0 0 0 1 0 0 0 1 3700.dat
+0 STEP
+1 72 0 -56 0 0 0 -1 0 1 0 1 0 0 48170.dat
+1 0 0 -46 40 1 0 0 0 1 0 0 0 1 47455.dat
+0 STEP
+1 379 0 -64 -10 0 0 -1 0 1 0 1 0 0 3021.dat
+0 STEP
+1 72 -10 -72 -30 0 0 -1 0 1 0 1 0 0 3024.dat
+1 25 -10 -72 0 0 0 1 0 1 0 -1 0 0 44728.dat
+1 25 20 -72 -10 1 0 0 0 1 0 0 0 1 43723.dat
+0 STEP
+1 379 0 -96 10 -1 0 0 0 1 0 0 0 -1 3298.dat
+1 379 0 -96 -20 -1 0 0 0 1 0 0 0 -1 3003.dat
+0 STEP
+1 0 0 -104 -30 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 25 -32 -52 0 0 1 0 1 0 0 0 0 -1 3022.dat
+1 72 -40 -52 10 0 1 0 1 0 0 0 0 -1 3023.dat
+0 STEP
+1 383 0 -112 -30 -1 0 0 0 1 0 0 0 -1 2412b.dat
+1 0 0 -120 0 -1 0 0 0 1 0 0 0 -1 30603.dat
+1 379 -48 -52 10 0 1 0 -1 0 0 0 0 1 4861.dat
+
+0 FILE 4508 - 1 - foot.ldr
+0 1 - foot
+0 Name: 4508 - 1 - foot.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 3795.dat
+1 71 0 8 0 1 0 0 0 1 0 0 0 1 4032a.dat
+0 STEP
+1 0 30 8 -10 0 0 1 0 1 0 -1 0 0 30357.dat
+1 0 30 8 10 1 0 0 0 1 0 0 0 1 30357.dat
+0 STEP
+1 0 -60 8 0 0 0 1 0 1 0 -1 0 0 32059.dat
+0 STEP
+1 71 0 -24 0 1 0 0 0 1 0 0 0 1 30592.dat
+0 STEP
+1 72 -30 -16 0 0 0 1 0 1 0 -1 0 0 6069.dat
+1 72 30 -16 0 0 0 -1 0 1 0 1 0 0 4861.dat
+
+0 FILE 4508 - 1 - back plate.ldr
+0 1 - back plate
+0 Name: 4508 - 1 - back plate.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 3738.dat
+0 STEP
+1 379 -40 -8 -20 0 0 1 0 1 0 -1 0 0 41770.dat
+1 379 40 -8 20 0 0 -1 0 1 0 1 0 0 41770.dat
+1 379 -40 -8 20 0 0 1 0 1 0 -1 0 0 41769.dat
+1 379 40 -8 -20 0 0 -1 0 1 0 1 0 0 41769.dat
+0 STEP
+1 25 -30 -16 -20 0 0 1 0 1 0 -1 0 0 43723.dat
+1 25 -30 -16 20 0 0 1 0 1 0 -1 0 0 43722.dat
+1 25 10 -16 -20 0 0 1 0 1 0 -1 0 0 44302.dat
+1 25 10 -16 20 0 0 -1 0 1 0 1 0 0 44302.dat
+1 383 70 -16 0 0 0 -1 0 1 0 1 0 0 2412b.dat
+0 STEP
+1 72 -10 -40 0 0 0 1 0 1 0 -1 0 0 3298.dat
+1 72 10 -40 20 0 0 1 0 1 0 -1 0 0 3700.dat
+1 72 10 -40 -20 0 0 1 0 1 0 -1 0 0 3700.dat
+1 0 20 -30 -20 -1 0 0 0 1 0 0 0 -1 2780.dat
+1 0 20 -30 20 -1 0 0 0 1 0 0 0 -1 2780.dat
+0 STEP
+1 71 31 -30 20 0 0 -1 0 1 0 1 0 0 32187.dat
+1 71 31 -30 -20 0 0 -1 0 1 0 1 0 0 32187.dat
+1 379 10 -48 10 0 0 -1 0 1 0 1 0 0 2420.dat
+1 379 10 -48 -10 -1 0 0 0 1 0 0 0 -1 2420.dat
+0 STEP
+1 0 -10 -72 0 0 0 1 0 1 0 -1 0 0 47759.dat
+1 0 10 -72 0 0 0 -1 0 1 0 1 0 0 47759.dat
+1 71 0 -80 0 0 0 -1 0 1 0 1 0 0 4032a.dat
+
+0 FILE 4508 - 1 - arm left.ldr
+0 1 - arm left
+0 Name: 4508 - 1 - arm left.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 379 0 0 0 1 0 0 0 1 0 0 0 1 3020.dat
+1 72 20 -24 10 1 0 0 0 1 0 0 0 1 3700.dat
+1 72 -20 -24 0 -1 0 0 0 1 0 0 0 -1 48170.dat
+1 72 20 -24 -10 -1 0 0 0 1 0 0 0 -1 32000.dat
+1 0 -60 -14 0 -1 0 0 0 1 0 0 0 -1 47455.dat
+0 STEP
+0 STEP
+1 71 10 -32 10 0 0 1 0 1 0 -1 0 0 4073.dat
+1 0 -30 -32 10 0 0 1 0 1 0 -1 0 0 2420.dat
+1 25 0 -32 -10 1 0 0 0 1 0 0 0 1 44728.dat
+1 72 30 -32 0 0 0 -1 0 1 0 1 0 0 44728.dat
+1 25 52 -12 0 0 -1 0 1 0 0 0 0 1 3022.dat
+0 STEP
+1 0 0 -40 0 1 0 0 0 1 0 0 0 1 3020.dat
+1 0 0 -14 20 0 0 -1 1 0 0 0 -1 0 30647.dat
+0 STEP
+1 383 30 -48 10 0 0 -1 0 1 0 1 0 0 4073.dat
+1 38 30 -56 10 0 0 -1 0 1 0 1 0 0 4073.dat
+1 0 -20 -72 10 -1 0 0 0 1 0 0 0 -1 6191.dat
+0 STEP
+1 72 108 -22 -40 0 -1 0 0 0 -1 1 0 0 4508 - 1 - claw.ldr
+0 STEP
+1 379 -40 -64 -10 0 0 -1 0 1 0 1 0 0 41747.dat
+1 25 -40 -72 -10 1 0 0 0 1 0 0 0 1 2412b.dat
+
+0 FILE 4508 - 1 - claw.ldr
+0 1 - claw
+0 Name: 4508 - 1 - claw.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 379 0 0 0 1 0 0 0 1 0 0 0 1 6183.dat
+1 0 50 48 -10 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 -50 48 -10 0 0 1 0 1 0 -1 0 0 3023.dat
+0 STEP
+1 379 0 0 -20 1 0 0 0 1 0 0 0 1 6183.dat
+0 STEP
+1 72 0 -8 -10 1 0 0 0 1 0 0 0 1 3068b.dat
+
+0 FILE 4508 - 1 - arm right.ldr
+0 1 - arm right
+0 Name: 4508 - 1 - arm right.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 379 0 0 0 1 0 0 0 1 0 0 0 1 3020.dat
+1 72 -20 -24 10 1 0 0 0 1 0 0 0 1 3700.dat
+0 STEP
+1 72 20 -24 0 1 0 0 0 1 0 0 0 1 48170.dat
+1 72 -20 -24 -10 1 0 0 0 1 0 0 0 1 32000.dat
+1 0 60 -14 0 1 0 0 0 1 0 0 0 1 47455.dat
+0 STEP
+1 0 30 -32 10 -1 0 0 0 1 0 0 0 -1 2420.dat
+1 71 -10 -32 10 -1 0 0 0 1 0 0 0 -1 4073.dat
+1 72 -30 -32 0 0 0 1 0 1 0 -1 0 0 44728.dat
+1 25 0 -32 -10 1 0 0 0 1 0 0 0 1 44728.dat
+0 STEP
+1 0 0 -40 0 1 0 0 0 1 0 0 0 1 3020.dat
+1 0 0 -14 20 0 0 1 -1 0 0 0 -1 0 30647.dat
+0 STEP
+1 0 20 -72 10 -1 0 0 0 1 0 0 0 -1 6191.dat
+1 383 -30 -48 10 -1 0 0 0 1 0 0 0 -1 4073.dat
+1 38 -30 -56 10 -1 0 0 0 1 0 0 0 -1 4073.dat
+0 STEP
+1 72 -52 -12 0 0 1 0 -1 0 0 0 0 1 4508 - 1 - weapon.ldr
+0 STEP
+1 25 40 -72 -10 1 0 0 0 1 0 0 0 1 2412b.dat
+1 379 40 -64 -10 0 0 1 0 1 0 -1 0 0 41748.dat
+
+0 FILE 4508 - 1 - weapon.ldr
+0 1 - weapon
+0 Name: 4508 - 1 - weapon.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 3022.dat
+1 72 0 -24 10 1 0 0 0 1 0 0 0 1 3700.dat
+0 STEP
+1 72 0 -24 -10 1 0 0 0 1 0 0 0 1 3700.dat
+0 STEP
+1 25 0 -14 -10 0 -1 0 0 0 -1 1 0 0 32054.dat
+1 72 0 -32 0 0 0 -1 0 1 0 1 0 0 3068b.dat
+0 STEP
+1 0 0 -14 -100 0 -1 0 0 0 -1 1 0 0 3707.dat
+0 STEP
+1 71 0 -14 -173 0 -1 0 -1 0 0 0 0 -1 6589.dat
+1 71 0 -14 -113 0 -1 0 -1 0 0 0 0 -1 6589.dat
+
+0 FILE 4508 - 1 - right arm plate.ldr
+0 1 - right arm plate
+0 Name: 4508 - 1 - right arm plate.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 379 0 0 0 1 0 0 0 1 0 0 0 1 3020.dat
+0 STEP
+1 0 -20 -8 -10 1 0 0 0 1 0 0 0 1 43722.dat
+0 STEP
+1 72 30 -8 -10 1 0 0 0 1 0 0 0 1 2450.dat
+0 STEP
+1 379 10 -16 -10 1 0 0 0 1 0 0 0 1 2450.dat
+0 STEP
+1 25 10 -24 0 0 0 -1 0 1 0 1 0 0 43722.dat
+
+0 FILE 4508 - 1 - left arm plate.ldr
+0 1 - left arm plate
+0 Name: 4508 - 1 - left arm plate.ldr
+0 Author: Bert Van Raemdonck [BEAVeR]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Model
+
+0 !THEME Creator
+
+1 379 0 0 0 1 0 0 0 1 0 0 0 1 3020.dat
+0 STEP
+1 0 20 -8 -10 1 0 0 0 1 0 0 0 1 43723.dat
+0 STEP
+1 72 -30 -8 -10 0 0 1 0 1 0 -1 0 0 2450.dat
+0 STEP
+1 379 -10 -16 -10 0 0 1 0 1 0 -1 0 0 2450.dat
+0 STEP
+1 25 -10 -24 0 0 0 1 0 1 0 -1 0 0 43723.dat

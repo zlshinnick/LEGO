@@ -1,0 +1,36 @@
+0 1887 Scout Patrol Ship
+0 Name: 1887_Scout_Patrol_Ship.ldr
+0 Author: LEGO
+0 bassfoundation@yahoo.com
+0 !COLOUR SandBlue CODE 64 VALUE #88A2B5 EDGE 0 ALPHA 255
+0 !COLOUR Chrome CODE 65 VALUE #A1A29B EDGE 0 ALPHA 255
+0 !COLOUR Silver CODE 66 VALUE #C7C7C7 EDGE 0 ALPHA 255
+0 !COLOUR Gold CODE 67 VALUE #BBBD39 EDGE 0 ALPHA 255
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 30 0 0 0 0 -1 0 1 0 1 0 0 2419.dat
+1 0 -30 0 0 0 0 1 0 1 0 -1 0 0 2419.dat
+1 15 0 -8 -50 1 0 0 0 1 0 0 0 1 4596.dat
+1 0 0 -8 -10 1 0 0 0 1 0 0 0 1 4504.dat
+1 15 0 8 40 1 0 0 0 1 0 0 0 1 4032a.dat
+1 15 -40 8 0 1 0 0 0 1 0 0 0 1 4032a.dat
+1 15 40 8 0 1 0 0 0 1 0 0 0 1 4032a.dat
+1 15 0 8 -40 1 0 0 0 1 0 0 0 1 4032a.dat
+1 0 0 -8 30 1 0 0 0 1 0 0 0 1 4598.dat
+1 0 0 -18 68 1 0 0 0 0 -1 0 1 0 3023.dat
+1 0 0 -38 68 1 0 0 0 0 -1 0 1 0 4590.dat
+1 15 0 -28 76 1 0 0 0 0 -1 0 1 0 4591.dat
+1 0 0 -32 -10 1 0 0 0 1 0 0 0 1 6069.dat
+1 15 0 -40 -10 -1 0 0 0 1 0 0 0 -1 3069bp68.dat
+1 0 100 -8 -10 -1 0 0 0 1 0 0 0 -1 4275b.dat
+1 0 -100 -8 -10 1 0 0 0 1 0 0 0 1 4276b.dat
+1 0 -110 -16 -10 0 0 1 0 1 0 -1 0 0 2450.dat
+1 0 110 -16 -10 1 0 0 0 1 0 0 0 1 2450.dat
+1 42 30 -48 84 1 0 0 0 0 -1 0 1 0 4589.dat
+1 42 -30 -48 84 1 0 0 0 0 -1 0 1 0 4589.dat
+1 42 -130 -24 10 1 0 0 0 1 0 0 0 1 4073.dat
+1 42 130 -24 10 1 0 0 0 1 0 0 0 1 4073.dat
+1 42 0 -6 -120 1 0 0 0 0 1 0 -1 0 4740.dat
+1 0 -1 -29 28 1 0 0 0 1 0 0 0 1 fig_BlacktronII_recline1.ldr
+1 0 -28 -47 9 0 -0.258819 -0.965926 -0.258819 0.933013 -0.25 0.965926 0.25 -0.0669873 3962a.dat
+0
